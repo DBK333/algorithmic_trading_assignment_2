@@ -37,8 +37,8 @@ The working hypothesis is that gating sharpens execution timing, while dynamic s
 4. **Reporting**: Scripts aggregate the results into comparative tables and plots used to select the final candidate strategies.
 
 ## Repository Usage
-- **`dca_baseline.py`**: Upload to a QuantConnect project and run in the cloud to produce the benchmark DCA equity curve that anchors all comparisons.
-- **`twr_tracker.py`**: Import alongside any stage script inside QuantConnect so the live run emits corrected TWR, Sharpe, and drawdown statistics during execution.
+- **`Quantconnect code/dca_baseline.py`**: Upload to a QuantConnect project and run in the cloud to produce the benchmark DCA equity curve that anchors all comparisons.
+- **`Quantconnect code/twr_tracker.py`**: Import alongside any stage script inside QuantConnect so the live run emits corrected TWR, Sharpe, and drawdown statistics during execution.
 - **QC Optimizer Outputs**: The `Results/` directory captures cloud optimizer runs (QuantConnect wizard supports up to three simultaneous parameters), including JSON logs and exported images for the top configurations.
 - **`Results/json_qc_fetch.ipynb`**: Execute locally after optimizer jobs finish to pull down the OOS evaluation sets and consolidate them into analyzable tables.
 - **`Results/hypothesis_testing.ipynb`**: Use to compare the fetched strategies against the DCA baseline and quantify whether observed improvements are statistically significant.
