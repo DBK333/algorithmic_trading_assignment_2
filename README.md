@@ -44,9 +44,13 @@ The working hypothesis is that gating sharpens execution timing, while dynamic s
 - **`Results/hypothesis_testing.ipynb`**: Use to compare the fetched strategies against the DCA baseline and quantify whether observed improvements are statistically significant.
 - **Stage Archives**: The remaining stage folders store intermediate gates, ATR sweeps, plots, and logs so you can trace how each stage’s choices lead to the reported performance.
 
+## Limitations
+- QC’s cloud optimizer wizard accepts at most three parameters per job, constraining the grid search and forcing staged sweeps for wider parameter combinations.
+- Local optimization via the Lean engine Docker container failed periodically, so all calibration and validation relied on QuantConnect’s managed cloud runs.
+
 ## References
-OpenAI. (2024). *ChatGPT (GPT-5)* [Large language model]. https://chat.openai.com/
+OpenAI. (2025). *ChatGPT (GPT-5)* [Large language model]. https://chat.openai.com/
 
-QuantConnect. (2024). *Lean algorithmic trading engine documentation*. https://www.quantconnect.com/docs/v2
+QuantConnect. (2025). *Lean algorithmic trading engine documentation*. https://www.quantconnect.com/docs/v2
 
-Google. (2024). *Gemini API documentation*. https://ai.google.dev/gemini-api
+Google. (2025). *Gemini API documentation*. https://ai.google.dev/gemini-api
