@@ -40,8 +40,8 @@ The working hypothesis is that gating sharpens execution timing, while dynamic s
 - **`Quantconnect code/dca_baseline.py`**: Upload to a QuantConnect project and run in the cloud to produce the benchmark DCA equity curve that anchors all comparisons.
 - **`Quantconnect code/twr_tracker.py`**: Import alongside any stage script inside QuantConnect so the live run emits corrected TWR, Sharpe, and drawdown statistics during execution.
 - **QC Optimizer Outputs**: The `Results/` directory captures cloud optimizer runs (QuantConnect wizard supports up to three simultaneous parameters), including JSON logs and exported images for the top configurations.
-- **`Results/json_qc_fetch.ipynb`**: Execute locally after optimizer jobs finish to pull down the OOS evaluation sets and consolidate them into analyzable tables.
-- **`Results/hypothesis_testing.ipynb`**: Use to compare the fetched strategies against the DCA baseline and quantify whether observed improvements are statistically significant.
+- **`Results/json_qc_fetch.ipynb`**: Configure API credentials at the top, then run to fetch backtest statistics from QuantConnect via REST, flatten the JSON into CSV tables, and render heatmaps per asset/shift so optimizer winners can be compared visually.
+- **`Results/hypothesis_testing.ipynb`**: Load the saved model vs benchmark JSON pairs to compute Newey–West HAC t-tests on daily log-return spreads, annotate the results with Durbin–Watson and AR(1) diagnostics, and output a summary table plus CSV/JSON artifacts for reporting.
 - **Stage Archives**: The remaining stage folders store intermediate gates, ATR sweeps, plots, and logs so you can trace how each stage’s choices lead to the reported performance.
 
 ## Limitations
