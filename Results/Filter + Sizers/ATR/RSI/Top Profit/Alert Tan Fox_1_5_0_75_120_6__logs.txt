@@ -1,0 +1,309 @@
+2006-10-19 12:00:00 Launching analysis for 15727de56d858b547820d8d5cd505557 with LEAN Engine v2.5.0.0.17340
+2006-10-19 12:00:00 DCA ready SPY | $1,000/tranche | cadence: 1m/0d/0h | shift=0m | hist=252d≈1764 bars | RSI gate True ≤40.00 [0.85,1.50] | BB gate False ≤-1.00 [1.00,1.00] | EMA gate False ≤-1.00% [0.95,1.50] | SMA gate False ≤-1.00% [0.75,1.50] | SRSI sizing False ≤0.20 [0.50,2.00] | ATR sizing True mode=composite [0.75,1.50] | ramp_to_max=6 | combiner=product
+2006-10-19 12:00:00 Accurate daily end-times now enabled by default. See more at https://qnt.co/3YHaWHL. To disable it and use legacy daily bars set self.settings.daily_precise_end_time = False.
+2006-10-19 12:00:00 Algorithm starting warm up...
+2007-01-03 10:00:00 2007-01-03 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,000.00
+2007-01-03 11:00:00 Algorithm finished warming up.
+2007-01-03 15:00:00 2007-01-03 15:00:00: Gate-approved DCA buy 12 @ 99.15 spent $1,189.86 | RSI 37.19≤40.00 i=0.07 P=0.1 m=0.86 | ATR ratio=0.0030 p=0.14 m=1.39 | total_mult=1.20 | cash_left=$809.14
+2007-02-05 10:00:00 2007-02-05 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,809.14
+2007-02-09 15:00:00 2007-02-09 15:00:00: Gate-approved DCA buy 9 @ 101.18 spent $910.66 | RSI 39.33≤40.00 i=0.02 P=0.0 m=0.85 | ATR ratio=0.0031 p=0.43 m=1.18 | total_mult=1.01 | cash_left=$897.48
+2007-03-05 10:00:00 2007-03-05 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,897.48
+2007-03-05 10:00:00 2007-03-05 10:00:00: Gate-approved DCA buy 7 @ 97.86 spent $685.05 | RSI 32.83≤40.00 i=0.18 P=0.9 m=0.95 | ATR ratio=0.0043 p=1.00 m=0.75 | total_mult=0.71 | cash_left=$1,211.43
+2007-03-05 11:00:00 2007-03-05 11:00:00: Gate-approved DCA buy 7 @ 98.03 spent $686.24 | RSI 34.77≤40.00 i=0.13 P=1.0 m=0.96 | ATR ratio=0.0043 p=1.00 m=0.75 | total_mult=0.72 | cash_left=$524.19
+2007-04-05 10:00:00 2007-04-05 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,524.19
+2007-05-07 10:00:00 2007-05-07 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,524.19
+2007-05-10 16:00:00 2007-05-10 16:00:00: Gate-approved DCA buy 10 @ 105.67 spent $1,056.69 | RSI 38.39≤40.00 i=0.04 P=0.0 m=0.85 | ATR ratio=0.0030 p=0.21 m=1.34 | total_mult=1.15 | cash_left=$2,524.19
+2007-05-24 15:00:00 2007-05-24 15:00:00: Gate-approved DCA buy 9 @ 106.91 spent $962.23 | RSI 39.28≤40.00 i=0.02 P=0.0 m=0.85 | ATR ratio=0.0031 p=0.39 m=1.21 | total_mult=1.03 | cash_left=$500.30
+2007-06-07 10:00:00 2007-06-07 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,500.30
+2007-06-07 10:00:00 2007-06-07 10:00:00: Gate-approved DCA buy 9 @ 107.56 spent $968.02 | RSI 38.80≤40.00 i=0.03 P=0.1 m=0.86 | ATR ratio=0.0031 p=0.42 m=1.19 | total_mult=1.03 | cash_left=$531.28
+2007-07-09 10:00:00 2007-07-09 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,531.28
+2007-07-11 10:00:00 2007-07-11 10:00:00: Gate-approved DCA buy 7 @ 107.13 spent $749.94 | RSI 39.15≤40.00 i=0.02 P=0.0 m=0.85 | ATR ratio=0.0038 p=0.80 m=0.90 | total_mult=0.77 | cash_left=$780.34
+2007-08-09 10:00:00 2007-08-09 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,780.34
+2007-08-10 10:00:00 2007-08-10 10:00:00: Gate-approved DCA buy 6 @ 102.53 spent $615.17 | RSI 38.87≤40.00 i=0.03 P=0.0 m=0.85 | ATR ratio=0.0066 p=1.00 m=0.75 | total_mult=0.64 | cash_left=$1,164.17
+2007-08-10 11:00:00 2007-08-10 11:00:00: Gate-approved DCA buy 6 @ 102.12 spent $612.74 | RSI 37.27≤40.00 i=0.07 P=0.1 m=0.86 | ATR ratio=0.0067 p=1.00 m=0.75 | total_mult=0.65 | cash_left=$550.43
+2007-09-10 10:00:00 2007-09-10 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,550.43
+2007-09-10 11:00:00 2007-09-10 11:00:00: Gate-approved DCA buy 6 @ 103.10 spent $618.58 | RSI 38.18≤40.00 i=0.05 P=0.0 m=0.85 | ATR ratio=0.0065 p=0.91 m=0.81 | total_mult=0.70 | cash_left=$930.85
+2007-10-10 10:00:00 2007-10-10 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,930.85
+2007-10-16 10:00:00 2007-10-16 10:00:00: Gate-approved DCA buy 7 @ 110.11 spent $770.79 | RSI 39.97≤40.00 i=0.00 P=0.0 m=0.85 | ATR ratio=0.0041 p=0.69 m=0.98 | total_mult=0.84 | cash_left=$1,159.06
+2007-10-16 11:00:00 2007-10-16 11:00:00: Gate-approved DCA buy 7 @ 109.98 spent $769.84 | RSI 38.69≤40.00 i=0.03 P=0.0 m=0.85 | ATR ratio=0.0041 p=0.69 m=0.98 | total_mult=0.84 | cash_left=$388.23
+2007-11-12 10:00:00 2007-11-12 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,388.23
+2007-11-12 10:00:00 2007-11-12 10:00:00: Gate-approved DCA buy 6 @ 103.99 spent $623.92 | RSI 38.92≤40.00 i=0.03 P=0.1 m=0.86 | ATR ratio=0.0063 p=0.91 m=0.82 | total_mult=0.70 | cash_left=$763.31
+2007-12-12 10:00:00 2007-12-12 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,763.31
+2007-12-17 10:00:00 2007-12-17 10:00:00: Gate-approved DCA buy 6 @ 104.40 spent $626.40 | RSI 38.64≤40.00 i=0.03 P=0.0 m=0.85 | ATR ratio=0.0064 p=0.86 m=0.85 | total_mult=0.73 | cash_left=$1,135.91
+2007-12-17 12:00:00 2007-12-17 12:00:00: Gate-approved DCA buy 6 @ 104.44 spent $626.66 | RSI 39.57≤40.00 i=0.01 P=0.0 m=0.85 | ATR ratio=0.0063 p=0.86 m=0.86 | total_mult=0.73 | cash_left=$508.25
+2008-01-14 10:00:00 2008-01-14 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,508.25
+2008-01-15 11:00:00 2008-01-15 11:00:00: Gate-approved DCA buy 6 @ 99.51 spent $597.08 | RSI 39.71≤40.00 i=0.01 P=0.0 m=0.85 | ATR ratio=0.0068 p=0.94 m=0.80 | total_mult=0.68 | cash_left=$910.17
+2008-02-14 10:00:00 2008-02-14 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,910.17
+2008-02-29 11:00:00 2008-02-29 11:00:00: Gate-approved DCA buy 7 @ 96.61 spent $676.30 | RSI 39.90≤40.00 i=0.00 P=0.0 m=0.85 | ATR ratio=0.0076 p=0.89 m=0.83 | total_mult=0.71 | cash_left=$1,232.87
+2008-02-29 14:00:00 2008-02-29 14:00:00: Gate-approved DCA buy 7 @ 96.11 spent $672.78 | RSI 37.38≤40.00 i=0.07 P=0.1 m=0.86 | ATR ratio=0.0076 p=0.89 m=0.83 | total_mult=0.71 | cash_left=$559.09
+2008-03-14 10:00:00 2008-03-14 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,559.09
+2008-03-17 10:00:00 2008-03-17 10:00:00: Gate-approved DCA buy 7 @ 91.43 spent $640.02 | RSI 38.64≤40.00 i=0.03 P=0.0 m=0.85 | ATR ratio=0.0087 p=0.98 m=0.77 | total_mult=0.65 | cash_left=$918.08
+2008-04-14 10:00:00 2008-04-14 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,918.08
+2008-04-14 10:00:00 2008-04-14 10:00:00: Gate-approved DCA buy 8 @ 96.09 spent $768.71 | RSI 35.21≤40.00 i=0.12 P=0.4 m=0.89 | ATR ratio=0.0069 p=0.72 m=0.96 | total_mult=0.85 | cash_left=$1,148.36
+2008-04-14 11:00:00 2008-04-14 11:00:00: Gate-approved DCA buy 9 @ 96.10 spent $864.93 | RSI 35.39≤40.00 i=0.12 P=0.5 m=0.90 | ATR ratio=0.0069 p=0.72 m=0.96 | total_mult=0.87 | cash_left=$282.43
+2008-05-14 10:00:00 2008-05-14 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,282.43
+2008-05-21 15:00:00 2008-05-21 15:00:00: Gate-approved DCA buy 10 @ 100.81 spent $1,008.14 | RSI 37.13≤40.00 i=0.07 P=0.1 m=0.86 | ATR ratio=0.0049 p=0.30 m=1.28 | total_mult=1.09 | cash_left=$273.29
+2008-06-16 10:00:00 2008-06-16 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,273.29
+2008-06-18 11:00:00 2008-06-18 11:00:00: Gate-approved DCA buy 10 @ 96.77 spent $967.67 | RSI 38.00≤40.00 i=0.05 P=0.0 m=0.86 | ATR ratio=0.0054 p=0.36 m=1.23 | total_mult=1.05 | cash_left=$304.61
+2008-07-16 10:00:00 2008-07-16 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,304.61
+2008-07-28 13:00:00 2008-07-28 13:00:00: Gate-approved DCA buy 9 @ 90.15 spent $811.37 | RSI 38.88≤40.00 i=0.03 P=0.0 m=0.85 | ATR ratio=0.0070 p=0.71 m=0.97 | total_mult=0.83 | cash_left=$492.24
+2008-08-18 10:00:00 2008-08-18 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,492.24
+2008-08-19 10:00:00 2008-08-19 10:00:00: Gate-approved DCA buy 10 @ 92.28 spent $922.77 | RSI 38.03≤40.00 i=0.05 P=0.0 m=0.86 | ATR ratio=0.0063 p=0.46 m=1.15 | total_mult=0.99 | cash_left=$568.47
+2008-09-18 10:00:00 2008-09-18 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,568.47
+2008-09-18 12:00:00 2008-09-18 12:00:00: Gate-approved DCA buy 7 @ 84.35 spent $590.42 | RSI 39.35≤40.00 i=0.02 P=0.0 m=0.85 | ATR ratio=0.0098 p=1.00 m=0.75 | total_mult=0.64 | cash_left=$977.05
+2008-10-20 10:00:00 2008-10-20 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,977.05
+2008-10-23 10:00:00 2008-10-23 10:00:00: Gate-approved DCA buy 9 @ 65.41 spent $588.73 | RSI 39.21≤40.00 i=0.02 P=0.0 m=0.85 | ATR ratio=0.0229 p=1.00 m=0.75 | total_mult=0.64 | cash_left=$1,387.33
+2008-10-23 13:00:00 2008-10-23 13:00:00: Gate-approved DCA buy 9 @ 64.42 spent $579.80 | RSI 38.68≤40.00 i=0.03 P=0.0 m=0.85 | ATR ratio=0.0234 p=1.00 m=0.75 | total_mult=0.64 | cash_left=$806.53
+2008-11-20 10:00:00 2008-11-20 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,806.53
+2008-11-20 10:00:00 2008-11-20 10:00:00: Gate-approved DCA buy 11 @ 57.59 spent $633.49 | RSI 34.18≤40.00 i=0.15 P=0.2 m=0.87 | ATR ratio=0.0257 p=1.00 m=0.75 | total_mult=0.65 | cash_left=$1,172.04
+2008-11-20 11:00:00 2008-11-20 11:00:00: Gate-approved DCA buy 11 @ 58.76 spent $646.32 | RSI 38.50≤40.00 i=0.04 P=0.2 m=0.88 | ATR ratio=0.0252 p=1.00 m=0.75 | total_mult=0.66 | cash_left=$524.72
+2008-12-22 10:00:00 2008-12-22 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,524.72
+2008-12-22 15:00:00 2008-12-22 15:00:00: Gate-approved DCA buy 12 @ 63.29 spent $759.50 | RSI 37.85≤40.00 i=0.05 P=0.1 m=0.86 | ATR ratio=0.0182 p=0.80 m=0.90 | total_mult=0.77 | cash_left=$764.21
+2009-01-22 10:00:00 2009-01-22 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,764.21
+2009-02-02 10:00:00 2009-02-02 10:00:00: Gate-approved DCA buy 13 @ 60.04 spent $780.46 | RSI 36.93≤40.00 i=0.08 P=0.1 m=0.86 | ATR ratio=0.0142 p=0.74 m=0.94 | total_mult=0.81 | cash_left=$982.76
+2009-02-23 10:00:00 2009-02-23 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,982.76
+2009-02-23 10:00:00 2009-02-23 10:00:00: Gate-approved DCA buy 16 @ 57.00 spent $911.99 | RSI 39.16≤40.00 i=0.02 P=1.3 m=0.99 | ATR ratio=0.0139 p=0.72 m=0.96 | total_mult=0.95 | cash_left=$1,069.77
+2009-02-23 11:00:00 2009-02-23 11:00:00: Gate-approved DCA buy 16 @ 56.13 spent $898.11 | RSI 34.86≤40.00 i=0.13 P=1.4 m=1.00 | ATR ratio=0.0141 p=0.74 m=0.95 | total_mult=0.95 | cash_left=$170.66
+2009-03-23 10:00:00 2009-03-23 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,170.66
+2009-03-30 15:00:00 2009-03-30 15:00:00: Gate-approved DCA buy 15 @ 57.73 spent $866.00 | RSI 39.85≤40.00 i=0.00 P=0.0 m=0.85 | ATR ratio=0.0130 p=0.57 m=1.07 | total_mult=0.91 | cash_left=$303.65
+2009-04-23 10:00:00 2009-04-23 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,303.65
+2009-05-15 15:00:00 2009-05-15 15:00:00: Gate-approved DCA buy 16 @ 65.43 spent $1,046.93 | RSI 39.92≤40.00 i=0.00 P=0.0 m=0.85 | ATR ratio=0.0092 p=0.35 m=1.24 | total_mult=1.05 | cash_left=$255.72
+2009-05-26 10:00:00 2009-05-26 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,255.72
+2009-06-15 12:00:00 2009-06-15 12:00:00: Gate-approved DCA buy 16 @ 68.68 spent $1,098.82 | RSI 39.84≤40.00 i=0.00 P=0.0 m=0.85 | ATR ratio=0.0078 p=0.27 m=1.30 | total_mult=1.10 | cash_left=$155.90
+2009-06-26 10:00:00 2009-06-26 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,155.90
+2009-07-02 10:00:00 2009-07-02 10:00:00: Gate-approved DCA buy 17 @ 67.37 spent $1,145.24 | RSI 39.97≤40.00 i=0.00 P=0.0 m=0.85 | ATR ratio=0.0071 p=0.17 m=1.37 | total_mult=1.17 | cash_left=$9.66
+2009-07-27 10:00:00 2009-07-27 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,009.66
+2009-08-17 10:00:00 2009-08-17 10:00:00: Gate-approved DCA buy 13 @ 73.38 spent $953.88 | RSI 38.62≤40.00 i=0.03 P=0.0 m=0.85 | ATR ratio=0.0061 p=0.09 m=1.43 | total_mult=1.22 | cash_left=$54.77
+2009-08-27 10:00:00 2009-08-27 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,054.77
+2009-09-01 12:00:00 2009-09-01 12:00:00: Gate-approved DCA buy 14 @ 74.98 spent $1,049.67 | RSI 37.31≤40.00 i=0.07 P=0.1 m=0.86 | ATR ratio=0.0057 p=0.04 m=1.47 | total_mult=1.26 | cash_left=$4.10
+2009-09-28 10:00:00 2009-09-28 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,004.10
+2009-10-01 12:00:00 2009-10-01 12:00:00: Gate-approved DCA buy 12 @ 77.67 spent $932.01 | RSI 37.54≤40.00 i=0.06 P=0.1 m=0.86 | ATR ratio=0.0053 p=0.06 m=1.46 | total_mult=1.25 | cash_left=$71.09
+2009-10-28 10:00:00 2009-10-28 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,071.09
+2009-10-28 10:00:00 2009-10-28 10:00:00: Gate-approved DCA buy 13 @ 79.29 spent $1,030.78 | RSI 35.88≤40.00 i=0.10 P=0.1 m=0.87 | ATR ratio=0.0054 p=0.15 m=1.39 | total_mult=1.20 | cash_left=$39.31
+2009-11-30 10:00:00 2009-11-30 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,039.31
+2009-12-30 10:00:00 2009-12-30 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,039.31
+2009-12-31 16:00:00 2009-12-31 16:00:00: Gate-approved DCA buy 15 @ 83.82 spent $1,257.26 | RSI 38.09≤40.00 i=0.05 P=0.0 m=0.86 | ATR ratio=0.0039 p=0.00 m=1.50 | total_mult=1.28 | cash_left=$2,039.31
+2010-02-01 10:00:00 2010-02-01 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,771.01
+2010-02-04 10:00:00 2010-02-04 10:00:00: Gate-approved DCA buy 14 @ 81.20 spent $1,136.80 | RSI 38.26≤40.00 i=0.04 P=0.0 m=0.85 | ATR ratio=0.0049 p=0.18 m=1.37 | total_mult=1.17 | cash_left=$633.21
+2010-03-01 10:00:00 2010-03-01 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,633.21
+2010-04-01 10:00:00 2010-04-01 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,633.21
+2010-04-19 12:00:00 2010-04-19 12:00:00: Gate-approved DCA buy 13 @ 89.67 spent $1,165.69 | RSI 38.24≤40.00 i=0.04 P=0.0 m=0.85 | ATR ratio=0.0036 p=0.05 m=1.46 | total_mult=1.25 | cash_left=$1,466.52
+2010-04-19 14:00:00 2010-04-19 14:00:00: Gate-approved DCA buy 13 @ 89.62 spent $1,165.00 | RSI 38.37≤40.00 i=0.04 P=0.0 m=0.85 | ATR ratio=0.0036 p=0.05 m=1.46 | total_mult=1.25 | cash_left=$300.52
+2010-05-03 10:00:00 2010-05-03 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,300.52
+2010-05-04 11:00:00 2010-05-04 11:00:00: Gate-approved DCA buy 12 @ 88.78 spent $1,065.33 | RSI 35.93≤40.00 i=0.10 P=0.1 m=0.86 | ATR ratio=0.0045 p=0.25 m=1.31 | total_mult=1.13 | cash_left=$234.20
+2010-06-03 10:00:00 2010-06-03 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,234.20
+2010-06-04 15:00:00 2010-06-04 15:00:00: Gate-approved DCA buy 7 @ 80.76 spent $565.30 | RSI 39.32≤40.00 i=0.02 P=0.0 m=0.85 | ATR ratio=0.0085 p=0.99 m=0.76 | total_mult=0.64 | cash_left=$667.90
+2010-07-06 10:00:00 2010-07-06 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,667.90
+2010-07-06 14:00:00 2010-07-06 14:00:00: Gate-approved DCA buy 8 @ 77.76 spent $622.11 | RSI 39.16≤40.00 i=0.02 P=0.0 m=0.85 | ATR ratio=0.0078 p=0.93 m=0.80 | total_mult=0.68 | cash_left=$1,044.79
+2010-07-06 15:00:00 2010-07-06 15:00:00: Gate-approved DCA buy 8 @ 77.66 spent $621.26 | RSI 38.50≤40.00 i=0.04 P=0.1 m=0.86 | ATR ratio=0.0078 p=0.93 m=0.80 | total_mult=0.69 | cash_left=$422.53
+2010-08-06 10:00:00 2010-08-06 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,422.53
+2010-08-11 10:00:00 2010-08-11 10:00:00: Gate-approved DCA buy 9 @ 83.59 spent $752.33 | RSI 38.00≤40.00 i=0.05 P=0.0 m=0.86 | ATR ratio=0.0060 p=0.74 m=0.94 | total_mult=0.81 | cash_left=$669.20
+2010-09-07 10:00:00 2010-09-07 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,669.20
+2010-10-07 10:00:00 2010-10-07 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,669.20
+2010-11-08 10:00:00 2010-11-08 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$3,669.20
+2010-11-12 13:00:00 2010-11-12 13:00:00: Gate-approved DCA buy 12 @ 91.39 spent $1,096.63 | RSI 36.90≤40.00 i=0.08 P=0.1 m=0.86 | ATR ratio=0.0044 p=0.27 m=1.29 | total_mult=1.11 | cash_left=$2,571.57
+2010-11-12 14:00:00 2010-11-12 14:00:00: Gate-approved DCA buy 12 @ 91.39 spent $1,096.72 | RSI 37.02≤40.00 i=0.07 P=0.2 m=0.87 | ATR ratio=0.0044 p=0.27 m=1.30 | total_mult=1.12 | cash_left=$1,473.85
+2010-11-16 10:00:00 2010-11-16 10:00:00: Gate-approved DCA buy 12 @ 90.88 spent $1,090.59 | RSI 34.85≤40.00 i=0.13 P=0.1 m=0.86 | ATR ratio=0.0044 p=0.30 m=1.28 | total_mult=1.10 | cash_left=$382.27
+2010-12-08 10:00:00 2010-12-08 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,382.27
+2011-01-10 10:00:00 2011-01-10 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,382.27
+2011-01-20 11:00:00 2011-01-20 11:00:00: Gate-approved DCA buy 12 @ 97.61 spent $1,171.32 | RSI 36.04≤40.00 i=0.10 P=0.1 m=0.86 | ATR ratio=0.0029 p=0.05 m=1.46 | total_mult=1.26 | cash_left=$1,209.94
+2011-01-20 12:00:00 2011-01-20 12:00:00: Gate-approved DCA buy 12 @ 97.79 spent $1,173.44 | RSI 39.52≤40.00 i=0.01 P=0.1 m=0.86 | ATR ratio=0.0029 p=0.05 m=1.46 | total_mult=1.26 | cash_left=$35.50
+2011-02-10 10:00:00 2011-02-10 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,035.50
+2011-02-22 13:00:00 2011-02-22 13:00:00: Gate-approved DCA buy 10 @ 101.33 spent $1,013.30 | RSI 35.88≤40.00 i=0.10 P=0.1 m=0.86 | ATR ratio=0.0031 p=0.12 m=1.41 | total_mult=1.21 | cash_left=$21.20
+2011-03-10 10:00:00 2011-03-10 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,021.20
+2011-03-10 10:00:00 2011-03-10 10:00:00: Gate-approved DCA buy 10 @ 100.00 spent $1,000.03 | RSI 38.63≤40.00 i=0.03 P=0.0 m=0.85 | ATR ratio=0.0040 p=0.36 m=1.23 | total_mult=1.05 | cash_left=$20.17
+2011-04-11 10:00:00 2011-04-11 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,020.17
+2011-04-12 10:00:00 2011-04-12 10:00:00: Gate-approved DCA buy 10 @ 101.32 spent $1,013.23 | RSI 37.27≤40.00 i=0.07 P=0.1 m=0.86 | ATR ratio=0.0038 p=0.28 m=1.29 | total_mult=1.10 | cash_left=$5.94
+2011-05-11 10:00:00 2011-05-11 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,005.94
+2011-05-12 10:00:00 2011-05-12 10:00:00: Gate-approved DCA buy 9 @ 102.96 spent $926.67 | RSI 39.36≤40.00 i=0.02 P=0.0 m=0.85 | ATR ratio=0.0037 p=0.26 m=1.30 | total_mult=1.11 | cash_left=$78.27
+2011-06-13 10:00:00 2011-06-13 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,078.27
+2011-06-13 12:00:00 2011-06-13 12:00:00: Gate-approved DCA buy 9 @ 98.31 spent $884.80 | RSI 39.28≤40.00 i=0.02 P=0.0 m=0.85 | ATR ratio=0.0043 p=0.48 m=1.14 | total_mult=0.97 | cash_left=$192.46
+2011-07-13 10:00:00 2011-07-13 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,192.46
+2011-07-18 11:00:00 2011-07-18 11:00:00: Gate-approved DCA buy 8 @ 100.71 spent $805.69 | RSI 38.30≤40.00 i=0.04 P=0.0 m=0.85 | ATR ratio=0.0045 p=0.64 m=1.02 | total_mult=0.87 | cash_left=$385.77
+2011-08-15 10:00:00 2011-08-15 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,385.77
+2011-08-18 11:00:00 2011-08-18 11:00:00: Gate-approved DCA buy 7 @ 88.95 spent $622.67 | RSI 38.29≤40.00 i=0.04 P=0.0 m=0.85 | ATR ratio=0.0096 p=1.00 m=0.75 | total_mult=0.64 | cash_left=$762.10
+2011-09-15 10:00:00 2011-09-15 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,762.10
+2011-09-21 16:00:00 2011-09-21 16:00:00: Gate-approved DCA buy 7 @ 90.65 spent $634.55 | RSI 36.60≤40.00 i=0.08 P=0.1 m=0.86 | ATR ratio=0.0090 p=0.92 m=0.81 | total_mult=0.70 | cash_left=$1,762.10
+2011-09-22 10:00:00 2011-09-22 10:00:00: Gate-approved DCA buy 7 @ 87.71 spent $613.97 | RSI 27.36≤40.00 i=0.32 P=0.4 m=0.89 | ATR ratio=0.0095 p=0.97 m=0.77 | total_mult=0.69 | cash_left=$529.17
+2011-10-17 10:00:00 2011-10-17 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,529.17
+2011-11-01 10:00:00 2011-11-01 10:00:00: Gate-approved DCA buy 8 @ 95.44 spent $763.48 | RSI 36.90≤40.00 i=0.08 P=0.1 m=0.86 | ATR ratio=0.0082 p=0.79 m=0.91 | total_mult=0.78 | cash_left=$764.69
+2011-11-17 10:00:00 2011-11-17 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,764.69
+2011-11-17 13:00:00 2011-11-17 13:00:00: Gate-approved DCA buy 8 @ 95.04 spent $760.31 | RSI 35.49≤40.00 i=0.11 P=0.1 m=0.86 | ATR ratio=0.0079 p=0.75 m=0.94 | total_mult=0.81 | cash_left=$1,003.38
+2011-11-17 14:00:00 2011-11-17 14:00:00: Gate-approved DCA buy 8 @ 94.84 spent $758.75 | RSI 34.63≤40.00 i=0.13 P=0.2 m=0.88 | ATR ratio=0.0079 p=0.75 m=0.94 | total_mult=0.82 | cash_left=$243.63
+2011-12-19 10:00:00 2011-12-19 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,243.63
+2011-12-19 16:00:00 2011-12-19 16:00:00: Gate-approved DCA buy 9 @ 94.21 spent $847.88 | RSI 38.71≤40.00 i=0.03 P=0.0 m=0.85 | ATR ratio=0.0068 p=0.63 m=1.03 | total_mult=0.88 | cash_left=$1,243.63
+2012-01-19 10:00:00 2012-01-19 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,381.29
+2012-02-21 10:00:00 2012-02-21 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,381.29
+2012-03-06 10:00:00 2012-03-06 10:00:00: Gate-approved DCA buy 11 @ 105.79 spent $1,163.68 | RSI 32.89≤40.00 i=0.18 P=0.2 m=0.87 | ATR ratio=0.0035 p=0.05 m=1.46 | total_mult=1.27 | cash_left=$1,216.61
+2012-03-06 11:00:00 2012-03-06 11:00:00: Gate-approved DCA buy 11 @ 105.61 spent $1,161.70 | RSI 31.55≤40.00 i=0.21 P=0.4 m=0.89 | ATR ratio=0.0035 p=0.05 m=1.46 | total_mult=1.30 | cash_left=$53.91
+2012-03-21 10:00:00 2012-03-21 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,053.91
+2012-03-29 12:00:00 2012-03-29 12:00:00: Gate-approved DCA buy 9 @ 109.49 spent $985.43 | RSI 38.85≤40.00 i=0.03 P=0.0 m=0.85 | ATR ratio=0.0031 p=0.03 m=1.47 | total_mult=1.26 | cash_left=$67.48
+2012-04-23 10:00:00 2012-04-23 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,067.48
+2012-04-23 10:00:00 2012-04-23 10:00:00: Gate-approved DCA buy 9 @ 107.17 spent $964.56 | RSI 35.81≤40.00 i=0.10 P=0.1 m=0.86 | ATR ratio=0.0037 p=0.23 m=1.32 | total_mult=1.14 | cash_left=$101.92
+2012-05-23 10:00:00 2012-05-23 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,101.92
+2012-05-23 11:00:00 2012-05-23 11:00:00: Gate-approved DCA buy 9 @ 102.53 spent $922.80 | RSI 37.30≤40.00 i=0.07 P=0.1 m=0.86 | ATR ratio=0.0045 p=0.52 m=1.11 | total_mult=0.95 | cash_left=$178.13
+2012-06-25 10:00:00 2012-06-25 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,178.13
+2012-06-25 10:00:00 2012-06-25 10:00:00: Gate-approved DCA buy 9 @ 104.08 spent $936.68 | RSI 35.98≤40.00 i=0.10 P=0.1 m=0.86 | ATR ratio=0.0047 p=0.50 m=1.12 | total_mult=0.97 | cash_left=$240.45
+2012-07-25 10:00:00 2012-07-25 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,240.45
+2012-07-25 11:00:00 2012-07-25 11:00:00: Gate-approved DCA buy 9 @ 105.40 spent $948.63 | RSI 35.93≤40.00 i=0.10 P=0.1 m=0.86 | ATR ratio=0.0044 p=0.41 m=1.19 | total_mult=1.03 | cash_left=$290.81
+2012-08-27 10:00:00 2012-08-27 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,290.81
+2012-08-30 11:00:00 2012-08-30 11:00:00: Gate-approved DCA buy 11 @ 110.98 spent $1,220.74 | RSI 38.80≤40.00 i=0.03 P=0.0 m=0.85 | ATR ratio=0.0033 p=0.08 m=1.44 | total_mult=1.23 | cash_left=$69.07
+2012-09-27 10:00:00 2012-09-27 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,069.07
+2012-09-27 10:00:00 2012-09-27 10:00:00: Gate-approved DCA buy 9 @ 114.20 spent $1,027.79 | RSI 39.88≤40.00 i=0.00 P=0.9 m=0.95 | ATR ratio=0.0031 p=0.10 m=1.43 | total_mult=1.35 | cash_left=$40.28
+2012-10-31 10:00:00 2012-10-31 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,040.28
+2012-11-07 11:00:00 2012-11-07 11:00:00: Gate-approved DCA buy 8 @ 111.07 spent $888.55 | RSI 35.28≤40.00 i=0.12 P=0.1 m=0.86 | ATR ratio=0.0039 p=0.49 m=1.13 | total_mult=0.98 | cash_left=$150.73
+2012-11-30 10:00:00 2012-11-30 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,150.73
+2012-12-26 12:00:00 2012-12-26 12:00:00: Gate-approved DCA buy 8 @ 113.38 spent $907.01 | RSI 39.57≤40.00 i=0.01 P=0.0 m=0.85 | ATR ratio=0.0037 p=0.47 m=1.15 | total_mult=0.98 | cash_left=$242.72
+2012-12-31 10:00:00 2012-12-31 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,242.72
+2012-12-31 11:00:00 2012-12-31 11:00:00: Gate-approved DCA buy 8 @ 112.27 spent $898.18 | RSI 39.98≤40.00 i=0.00 P=0.0 m=0.85 | ATR ratio=0.0039 p=0.55 m=1.09 | total_mult=0.93 | cash_left=$343.54
+2013-01-31 10:00:00 2013-01-31 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,343.54
+2013-02-20 16:00:00 2013-02-20 16:00:00: Gate-approved DCA buy 10 @ 121.06 spent $1,210.60 | RSI 39.52≤40.00 i=0.01 P=0.0 m=0.85 | ATR ratio=0.0026 p=0.01 m=1.49 | total_mult=1.27 | cash_left=$1,343.54
+2013-02-28 10:00:00 2013-02-28 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,134.83
+2013-03-19 14:00:00 2013-03-19 14:00:00: Gate-approved DCA buy 9 @ 123.77 spent $1,113.89 | RSI 39.84≤40.00 i=0.00 P=0.0 m=0.85 | ATR ratio=0.0029 p=0.10 m=1.42 | total_mult=1.21 | cash_left=$19.94
+2013-03-28 10:00:00 2013-03-28 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,019.94
+2013-04-03 14:00:00 2013-04-03 14:00:00: Gate-approved DCA buy 8 @ 124.71 spent $997.71 | RSI 39.56≤40.00 i=0.01 P=0.0 m=0.85 | ATR ratio=0.0030 p=0.14 m=1.39 | total_mult=1.19 | cash_left=$21.23
+2013-04-29 10:00:00 2013-04-29 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,021.23
+2013-05-23 10:00:00 2013-05-23 10:00:00: Gate-approved DCA buy 7 @ 131.98 spent $923.87 | RSI 36.76≤40.00 i=0.08 P=0.1 m=0.86 | ATR ratio=0.0032 p=0.37 m=1.23 | total_mult=1.05 | cash_left=$96.36
+2013-05-29 10:00:00 2013-05-29 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,096.36
+2013-05-31 16:00:00 2013-05-31 16:00:00: Gate-approved DCA buy 6 @ 131.23 spent $787.40 | RSI 36.04≤40.00 i=0.10 P=0.1 m=0.86 | ATR ratio=0.0036 p=0.59 m=1.06 | total_mult=0.91 | cash_left=$1,096.36
+2013-07-01 10:00:00 2013-07-01 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,304.86
+2013-08-01 10:00:00 2013-08-01 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,304.86
+2013-08-15 10:00:00 2013-08-15 10:00:00: Gate-approved DCA buy 8 @ 134.66 spent $1,077.29 | RSI 28.41≤40.00 i=0.29 P=0.3 m=0.88 | ATR ratio=0.0031 p=0.34 m=1.25 | total_mult=1.10 | cash_left=$1,226.57
+2013-08-15 11:00:00 2013-08-15 11:00:00: Gate-approved DCA buy 8 @ 134.48 spent $1,075.87 | RSI 27.39≤40.00 i=0.32 P=0.6 m=0.92 | ATR ratio=0.0031 p=0.35 m=1.24 | total_mult=1.14 | cash_left=$149.70
+2013-09-03 10:00:00 2013-09-03 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,149.70
+2013-09-30 10:00:00 2013-09-30 10:00:00: Gate-approved DCA buy 8 @ 136.12 spent $1,088.92 | RSI 34.45≤40.00 i=0.14 P=0.1 m=0.87 | ATR ratio=0.0031 p=0.28 m=1.29 | total_mult=1.12 | cash_left=$59.78
+2013-10-03 10:00:00 2013-10-03 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,059.78
+2013-10-03 12:00:00 2013-10-03 12:00:00: Gate-approved DCA buy 7 @ 135.63 spent $949.39 | RSI 36.56≤40.00 i=0.09 P=0.1 m=0.86 | ATR ratio=0.0031 p=0.39 m=1.21 | total_mult=1.04 | cash_left=$109.39
+2013-11-04 10:00:00 2013-11-04 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,109.39
+2013-11-07 16:00:00 2013-11-07 16:00:00: Gate-approved DCA buy 7 @ 142.10 spent $994.70 | RSI 38.50≤40.00 i=0.04 P=0.0 m=0.85 | ATR ratio=0.0031 p=0.30 m=1.27 | total_mult=1.09 | cash_left=$1,109.39
+2013-12-04 10:00:00 2013-12-04 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,114.37
+2013-12-04 10:00:00 2013-12-04 10:00:00: Gate-approved DCA buy 7 @ 145.63 spent $1,019.43 | RSI 38.37≤40.00 i=0.04 P=0.0 m=0.85 | ATR ratio=0.0026 p=0.02 m=1.49 | total_mult=1.27 | cash_left=$93.93
+2014-01-06 10:00:00 2014-01-06 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,093.93
+2014-01-13 15:00:00 2014-01-13 15:00:00: Gate-approved DCA buy 7 @ 148.69 spent $1,040.86 | RSI 39.56≤40.00 i=0.01 P=0.0 m=0.85 | ATR ratio=0.0026 p=0.07 m=1.45 | total_mult=1.23 | cash_left=$52.07
+2014-02-06 10:00:00 2014-02-06 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,052.07
+2014-03-06 10:00:00 2014-03-06 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,052.07
+2014-03-13 13:00:00 2014-03-13 13:00:00: Gate-approved DCA buy 5 @ 151.65 spent $758.25 | RSI 39.41≤40.00 i=0.01 P=0.0 m=0.85 | ATR ratio=0.0033 p=0.70 m=0.97 | total_mult=0.83 | cash_left=$1,292.82
+2014-03-13 14:00:00 2014-03-13 14:00:00: Gate-approved DCA buy 5 @ 151.55 spent $757.76 | RSI 38.76≤40.00 i=0.03 P=0.0 m=0.85 | ATR ratio=0.0033 p=0.71 m=0.96 | total_mult=0.82 | cash_left=$534.06
+2014-04-07 10:00:00 2014-04-07 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,534.06
+2014-04-07 10:00:00 2014-04-07 10:00:00: Gate-approved DCA buy 5 @ 152.56 spent $762.81 | RSI 38.34≤40.00 i=0.04 P=0.0 m=0.85 | ATR ratio=0.0034 p=0.78 m=0.91 | total_mult=0.78 | cash_left=$770.25
+2014-05-07 10:00:00 2014-05-07 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,770.25
+2014-05-15 11:00:00 2014-05-15 11:00:00: Gate-approved DCA buy 6 @ 153.58 spent $921.47 | RSI 36.61≤40.00 i=0.08 P=0.1 m=0.86 | ATR ratio=0.0033 p=0.56 m=1.08 | total_mult=0.93 | cash_left=$847.78
+2014-06-09 10:00:00 2014-06-09 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,847.78
+2014-06-12 14:00:00 2014-06-12 14:00:00: Gate-approved DCA buy 8 @ 158.69 spent $1,269.51 | RSI 37.74≤40.00 i=0.06 P=0.1 m=0.86 | ATR ratio=0.0024 p=0.01 m=1.49 | total_mult=1.28 | cash_left=$577.27
+2014-07-09 10:00:00 2014-07-09 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,577.27
+2014-07-10 10:00:00 2014-07-10 10:00:00: Gate-approved DCA buy 7 @ 161.05 spent $1,127.35 | RSI 38.49≤40.00 i=0.04 P=0.0 m=0.85 | ATR ratio=0.0023 p=0.04 m=1.47 | total_mult=1.25 | cash_left=$448.92
+2014-08-11 10:00:00 2014-08-11 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,448.92
+2014-09-10 10:00:00 2014-09-10 10:00:00: Gate-approved DCA buy 7 @ 164.03 spent $1,148.24 | RSI 39.52≤40.00 i=0.01 P=0.0 m=0.85 | ATR ratio=0.0025 p=0.19 m=1.35 | total_mult=1.15 | cash_left=$299.69
+2014-09-11 10:00:00 2014-09-11 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,299.69
+2014-09-23 14:00:00 2014-09-23 14:00:00: Gate-approved DCA buy 6 @ 164.16 spent $984.93 | RSI 38.37≤40.00 i=0.04 P=0.0 m=0.85 | ATR ratio=0.0026 p=0.33 m=1.26 | total_mult=1.07 | cash_left=$313.75
+2014-10-13 10:00:00 2014-10-13 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,313.75
+2014-10-13 10:00:00 2014-10-13 10:00:00: Gate-approved DCA buy 4 @ 157.40 spent $629.60 | RSI 32.96≤40.00 i=0.18 P=0.3 m=0.89 | ATR ratio=0.0040 p=1.00 m=0.75 | total_mult=0.67 | cash_left=$683.16
+2014-11-13 10:00:00 2014-11-13 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,683.16
+2014-12-01 10:00:00 2014-12-01 10:00:00: Gate-approved DCA buy 5 @ 170.34 spent $851.70 | RSI 39.53≤40.00 i=0.01 P=0.0 m=0.85 | ATR ratio=0.0030 p=0.50 m=1.13 | total_mult=0.96 | cash_left=$830.45
+2014-12-15 10:00:00 2014-12-15 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,830.45
+2014-12-15 10:00:00 2014-12-15 10:00:00: Gate-approved DCA buy 5 @ 167.34 spent $836.72 | RSI 39.07≤40.00 i=0.02 P=0.7 m=0.93 | ATR ratio=0.0035 p=0.79 m=0.91 | total_mult=0.84 | cash_left=$992.74
+2015-01-15 10:00:00 2015-01-15 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,992.74
+2015-01-15 16:00:00 2015-01-15 16:00:00: Gate-approved DCA buy 3 @ 165.66 spent $496.99 | RSI 39.95≤40.00 i=0.00 P=0.0 m=0.85 | ATR ratio=0.0048 p=0.97 m=0.77 | total_mult=0.66 | cash_left=$1,992.74
+2015-01-16 10:00:00 2015-01-16 10:00:00: Gate-approved DCA buy 3 @ 165.66 spent $496.99 | RSI 39.95≤40.00 i=0.00 P=0.0 m=0.85 | ATR ratio=0.0048 p=0.97 m=0.77 | total_mult=0.66 | cash_left=$997.30
+2015-02-17 10:00:00 2015-02-17 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,997.30
+2015-03-04 10:00:00 2015-03-04 10:00:00: Gate-approved DCA buy 5 @ 174.53 spent $872.66 | RSI 39.28≤40.00 i=0.02 P=0.0 m=0.85 | ATR ratio=0.0035 p=0.62 m=1.04 | total_mult=0.88 | cash_left=$1,123.64
+2015-03-04 11:00:00 2015-03-04 11:00:00: Gate-approved DCA buy 5 @ 174.52 spent $872.58 | RSI 39.16≤40.00 i=0.02 P=0.0 m=0.85 | ATR ratio=0.0035 p=0.62 m=1.04 | total_mult=0.89 | cash_left=$250.06
+2015-03-17 10:00:00 2015-03-17 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,250.06
+2015-03-25 12:00:00 2015-03-25 12:00:00: Gate-approved DCA buy 5 @ 173.43 spent $867.14 | RSI 38.87≤40.00 i=0.03 P=0.0 m=0.85 | ATR ratio=0.0034 p=0.52 m=1.11 | total_mult=0.95 | cash_left=$381.92
+2015-04-17 10:00:00 2015-04-17 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,381.92
+2015-04-17 11:00:00 2015-04-17 11:00:00: Gate-approved DCA buy 5 @ 173.94 spent $869.69 | RSI 39.07≤40.00 i=0.02 P=0.0 m=0.85 | ATR ratio=0.0033 p=0.45 m=1.16 | total_mult=0.99 | cash_left=$511.23
+2015-05-18 10:00:00 2015-05-18 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,511.23
+2015-05-26 10:00:00 2015-05-26 10:00:00: Gate-approved DCA buy 6 @ 176.95 spent $1,061.70 | RSI 38.88≤40.00 i=0.03 P=0.0 m=0.85 | ATR ratio=0.0029 p=0.33 m=1.25 | total_mult=1.07 | cash_left=$448.53
+2015-06-18 10:00:00 2015-06-18 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,448.53
+2015-06-25 16:00:00 2015-06-25 16:00:00: Gate-approved DCA buy 6 @ 176.38 spent $1,058.29 | RSI 39.91≤40.00 i=0.00 P=0.0 m=0.85 | ATR ratio=0.0028 p=0.24 m=1.32 | total_mult=1.12 | cash_left=$1,448.53
+2015-07-20 10:00:00 2015-07-20 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,387.12
+2015-07-23 15:00:00 2015-07-23 15:00:00: Gate-approved DCA buy 5 @ 176.65 spent $883.25 | RSI 39.91≤40.00 i=0.00 P=0.0 m=0.85 | ATR ratio=0.0030 p=0.34 m=1.24 | total_mult=1.06 | cash_left=$502.87
+2015-08-20 10:00:00 2015-08-20 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,502.87
+2015-08-20 10:00:00 2015-08-20 10:00:00: Gate-approved DCA buy 5 @ 173.41 spent $867.03 | RSI 35.53≤40.00 i=0.11 P=0.1 m=0.86 | ATR ratio=0.0034 p=0.59 m=1.06 | total_mult=0.91 | cash_left=$634.84
+2015-09-21 10:00:00 2015-09-21 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,634.84
+2015-09-22 11:00:00 2015-09-22 11:00:00: Gate-approved DCA buy 4 @ 163.25 spent $652.98 | RSI 39.17≤40.00 i=0.02 P=0.0 m=0.85 | ATR ratio=0.0064 p=0.95 m=0.78 | total_mult=0.67 | cash_left=$980.85
+2015-10-21 10:00:00 2015-10-21 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,980.85
+2015-11-09 12:00:00 2015-11-09 12:00:00: Gate-approved DCA buy 4 @ 175.04 spent $700.16 | RSI 38.37≤40.00 i=0.04 P=0.0 m=0.85 | ATR ratio=0.0042 p=0.70 m=0.98 | total_mult=0.84 | cash_left=$1,279.69
+2015-11-12 10:00:00 2015-11-12 10:00:00: Gate-approved DCA buy 4 @ 174.49 spent $697.97 | RSI 37.30≤40.00 i=0.07 P=0.1 m=0.86 | ATR ratio=0.0041 p=0.66 m=1.00 | total_mult=0.86 | cash_left=$580.73
+2015-11-23 10:00:00 2015-11-23 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,580.73
+2015-12-03 13:00:00 2015-12-03 13:00:00: Gate-approved DCA buy 5 @ 174.55 spent $872.75 | RSI 34.54≤40.00 i=0.14 P=0.1 m=0.86 | ATR ratio=0.0038 p=0.56 m=1.08 | total_mult=0.93 | cash_left=$706.98
+2015-12-23 10:00:00 2015-12-23 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,706.98
+2016-01-04 10:00:00 2016-01-04 10:00:00: Gate-approved DCA buy 5 @ 170.17 spent $850.87 | RSI 28.72≤40.00 i=0.28 P=0.3 m=0.88 | ATR ratio=0.0045 p=0.70 m=0.98 | total_mult=0.86 | cash_left=$855.11
+2016-01-25 10:00:00 2016-01-25 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,855.11
+2016-02-08 10:00:00 2016-02-08 10:00:00: Gate-approved DCA buy 4 @ 156.87 spent $627.49 | RSI 33.69≤40.00 i=0.16 P=0.2 m=0.87 | ATR ratio=0.0072 p=1.00 m=0.75 | total_mult=0.65 | cash_left=$1,226.62
+2016-02-08 11:00:00 2016-02-08 11:00:00: Gate-approved DCA buy 4 @ 156.58 spent $626.33 | RSI 32.99≤40.00 i=0.18 P=0.3 m=0.89 | ATR ratio=0.0072 p=1.00 m=0.75 | total_mult=0.66 | cash_left=$599.29
+2016-02-25 10:00:00 2016-02-25 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,599.29
+2016-03-28 10:00:00 2016-03-28 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,599.29
+2016-04-07 15:00:00 2016-04-07 15:00:00: Gate-approved DCA buy 5 @ 173.57 spent $867.85 | RSI 38.67≤40.00 i=0.03 P=0.0 m=0.85 | ATR ratio=0.0040 p=0.43 m=1.18 | total_mult=1.01 | cash_left=$1,730.43
+2016-04-28 10:00:00 2016-04-28 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,730.43
+2016-04-29 10:00:00 2016-04-29 10:00:00: Gate-approved DCA buy 6 @ 176.08 spent $1,056.49 | RSI 35.14≤40.00 i=0.12 P=0.1 m=0.86 | ATR ratio=0.0034 p=0.32 m=1.26 | total_mult=1.09 | cash_left=$1,672.94
+2016-04-29 11:00:00 2016-04-29 11:00:00: Gate-approved DCA buy 6 @ 175.97 spent $1,055.83 | RSI 34.62≤40.00 i=0.13 P=0.3 m=0.88 | ATR ratio=0.0035 p=0.32 m=1.26 | total_mult=1.10 | cash_left=$616.11
+2016-05-31 10:00:00 2016-05-31 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,616.11
+2016-06-10 14:00:00 2016-06-10 14:00:00: Gate-approved DCA buy 6 @ 179.21 spent $1,075.26 | RSI 39.95≤40.00 i=0.00 P=0.0 m=0.85 | ATR ratio=0.0030 p=0.05 m=1.46 | total_mult=1.25 | cash_left=$539.85
+2016-06-30 10:00:00 2016-06-30 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,539.85
+2016-08-01 10:00:00 2016-08-01 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,539.85
+2016-08-02 11:00:00 2016-08-02 11:00:00: Gate-approved DCA buy 6 @ 184.61 spent $1,107.65 | RSI 37.04≤40.00 i=0.07 P=0.1 m=0.86 | ATR ratio=0.0029 p=0.01 m=1.49 | total_mult=1.28 | cash_left=$1,431.20
+2016-08-02 12:00:00 2016-08-02 12:00:00: Gate-approved DCA buy 6 @ 184.69 spent $1,108.17 | RSI 38.03≤40.00 i=0.05 P=0.1 m=0.86 | ATR ratio=0.0029 p=0.01 m=1.49 | total_mult=1.29 | cash_left=$322.03
+2016-09-01 10:00:00 2016-09-01 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,322.03
+2016-09-01 11:00:00 2016-09-01 11:00:00: Gate-approved DCA buy 6 @ 185.79 spent $1,114.76 | RSI 38.48≤40.00 i=0.04 P=0.0 m=0.85 | ATR ratio=0.0024 p=0.05 m=1.46 | total_mult=1.25 | cash_left=$206.27
+2016-10-03 10:00:00 2016-10-03 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,206.27
+2016-10-11 12:00:00 2016-10-11 12:00:00: Gate-approved DCA buy 6 @ 184.63 spent $1,107.80 | RSI 39.08≤40.00 i=0.02 P=0.0 m=0.85 | ATR ratio=0.0031 p=0.23 m=1.33 | total_mult=1.13 | cash_left=$97.47
+2016-11-03 10:00:00 2016-11-03 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,097.47
+2016-11-03 10:00:00 2016-11-03 10:00:00: Gate-approved DCA buy 6 @ 181.14 spent $1,086.82 | RSI 34.14≤40.00 i=0.15 P=1.6 m=1.03 | ATR ratio=0.0031 p=0.33 m=1.25 | total_mult=1.28 | cash_left=$9.65
+2016-12-05 10:00:00 2016-12-05 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,009.65
+2016-12-28 13:00:00 2016-12-28 13:00:00: Gate-approved DCA buy 5 @ 195.17 spent $975.84 | RSI 39.76≤40.00 i=0.01 P=0.0 m=0.85 | ATR ratio=0.0023 p=0.01 m=1.49 | total_mult=1.27 | cash_left=$32.80
+2017-01-05 10:00:00 2017-01-05 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,032.80
+2017-01-30 11:00:00 2017-01-30 11:00:00: Gate-approved DCA buy 5 @ 196.74 spent $983.70 | RSI 36.67≤40.00 i=0.08 P=0.1 m=0.86 | ATR ratio=0.0023 p=0.01 m=1.49 | total_mult=1.28 | cash_left=$48.10
+2017-02-06 10:00:00 2017-02-06 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,048.10
+2017-03-06 10:00:00 2017-03-06 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,048.10
+2017-03-09 15:00:00 2017-03-09 15:00:00: Gate-approved DCA buy 6 @ 205.18 spent $1,231.08 | RSI 39.97≤40.00 i=0.00 P=0.0 m=0.85 | ATR ratio=0.0021 p=0.05 m=1.46 | total_mult=1.24 | cash_left=$816.03
+2017-04-06 10:00:00 2017-04-06 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,816.03
+2017-04-11 11:00:00 2017-04-11 11:00:00: Gate-approved DCA buy 4 @ 203.76 spent $815.03 | RSI 39.15≤40.00 i=0.02 P=0.0 m=0.85 | ATR ratio=0.0026 p=0.41 m=1.19 | total_mult=1.02 | cash_left=$1,000.00
+2017-05-08 10:00:00 2017-05-08 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,000.00
+2017-05-17 10:00:00 2017-05-17 10:00:00: Gate-approved DCA buy 5 @ 207.34 spent $1,036.71 | RSI 36.01≤40.00 i=0.10 P=0.1 m=0.86 | ATR ratio=0.0021 p=0.11 m=1.42 | total_mult=1.22 | cash_left=$962.28
+2017-06-08 10:00:00 2017-06-08 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,962.28
+2017-06-27 16:00:00 2017-06-27 16:00:00: Gate-approved DCA buy 5 @ 211.47 spent $1,057.35 | RSI 35.80≤40.00 i=0.10 P=0.1 m=0.86 | ATR ratio=0.0022 p=0.21 m=1.35 | total_mult=1.16 | cash_left=$1,962.28
+2017-07-10 10:00:00 2017-07-10 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,898.76
+2017-08-10 10:00:00 2017-08-10 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,898.76
+2017-08-10 10:00:00 2017-08-10 10:00:00: Gate-approved DCA buy 5 @ 215.45 spent $1,077.24 | RSI 38.55≤40.00 i=0.04 P=0.0 m=0.85 | ATR ratio=0.0019 p=0.04 m=1.47 | total_mult=1.26 | cash_left=$1,820.52
+2017-08-10 11:00:00 2017-08-10 11:00:00: Gate-approved DCA buy 5 @ 215.07 spent $1,075.36 | RSI 35.97≤40.00 i=0.10 P=0.1 m=0.86 | ATR ratio=0.0019 p=0.04 m=1.47 | total_mult=1.27 | cash_left=$744.16
+2017-09-11 10:00:00 2017-09-11 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,744.16
+2017-09-25 12:00:00 2017-09-25 12:00:00: Gate-approved DCA buy 5 @ 218.86 spent $1,094.28 | RSI 39.82≤40.00 i=0.00 P=0.0 m=0.85 | ATR ratio=0.0018 p=0.01 m=1.49 | total_mult=1.27 | cash_left=$648.88
+2017-10-11 10:00:00 2017-10-11 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,648.88
+2017-10-25 12:00:00 2017-10-25 12:00:00: Gate-approved DCA buy 5 @ 224.32 spent $1,121.58 | RSI 36.12≤40.00 i=0.10 P=0.1 m=0.86 | ATR ratio=0.0015 p=0.03 m=1.48 | total_mult=1.27 | cash_left=$526.30
+2017-11-13 10:00:00 2017-11-13 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,526.30
+2017-11-15 10:00:00 2017-11-15 10:00:00: Gate-approved DCA buy 5 @ 225.35 spent $1,126.77 | RSI 35.53≤40.00 i=0.11 P=0.1 m=0.86 | ATR ratio=0.0018 p=0.13 m=1.40 | total_mult=1.21 | cash_left=$398.53
+2017-12-13 10:00:00 2017-12-13 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,398.53
+2018-01-16 10:00:00 2018-01-16 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,398.53
+2018-02-02 10:00:00 2018-02-02 10:00:00: Gate-approved DCA buy 2 @ 247.30 spent $494.59 | RSI 36.52≤40.00 i=0.09 P=0.1 m=0.86 | ATR ratio=0.0026 p=0.99 m=0.76 | total_mult=0.65 | cash_left=$1,902.93
+2018-02-02 11:00:00 2018-02-02 11:00:00: Gate-approved DCA buy 2 @ 247.23 spent $494.45 | RSI 36.26≤40.00 i=0.09 P=0.2 m=0.87 | ATR ratio=0.0026 p=1.00 m=0.75 | total_mult=0.65 | cash_left=$1,407.48
+2018-02-02 12:00:00 2018-02-02 12:00:00: Gate-approved DCA buy 2 @ 246.29 spent $492.58 | RSI 33.05≤40.00 i=0.17 P=0.4 m=0.89 | ATR ratio=0.0027 p=1.00 m=0.75 | total_mult=0.67 | cash_left=$913.90
+2018-02-16 10:00:00 2018-02-16 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,913.90
+2018-03-01 10:00:00 2018-03-01 10:00:00: Gate-approved DCA buy 2 @ 239.20 spent $478.40 | RSI 39.46≤40.00 i=0.01 P=0.0 m=0.85 | ATR ratio=0.0053 p=0.97 m=0.78 | total_mult=0.66 | cash_left=$1,434.51
+2018-03-01 14:00:00 2018-03-01 14:00:00: Gate-approved DCA buy 2 @ 236.60 spent $473.19 | RSI 35.19≤40.00 i=0.12 P=0.1 m=0.86 | ATR ratio=0.0055 p=0.99 m=0.76 | total_mult=0.66 | cash_left=$960.31
+2018-03-16 10:00:00 2018-03-16 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,960.31
+2018-03-19 11:00:00 2018-03-19 11:00:00: Gate-approved DCA buy 2 @ 241.37 spent $482.74 | RSI 37.82≤40.00 i=0.05 P=0.1 m=0.86 | ATR ratio=0.0049 p=0.90 m=0.82 | total_mult=0.70 | cash_left=$1,476.58
+2018-03-19 12:00:00 2018-03-19 12:00:00: Gate-approved DCA buy 2 @ 240.30 spent $480.60 | RSI 34.27≤40.00 i=0.14 P=0.2 m=0.87 | ATR ratio=0.0049 p=0.90 m=0.82 | total_mult=0.72 | cash_left=$994.98
+2018-04-16 10:00:00 2018-04-16 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,994.98
+2018-04-24 13:00:00 2018-04-24 13:00:00: Gate-approved DCA buy 3 @ 234.25 spent $702.75 | RSI 35.84≤40.00 i=0.10 P=0.1 m=0.86 | ATR ratio=0.0054 p=0.89 m=0.84 | total_mult=0.72 | cash_left=$1,291.23
+2018-04-24 14:00:00 2018-04-24 14:00:00: Gate-approved DCA buy 3 @ 233.10 spent $699.31 | RSI 32.51≤40.00 i=0.19 P=0.3 m=0.88 | ATR ratio=0.0055 p=0.89 m=0.83 | total_mult=0.73 | cash_left=$590.92
+2018-05-16 10:00:00 2018-05-16 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,590.92
+2018-05-29 12:00:00 2018-05-29 12:00:00: Gate-approved DCA buy 3 @ 238.99 spent $716.96 | RSI 35.44≤40.00 i=0.11 P=0.1 m=0.86 | ATR ratio=0.0040 p=0.70 m=0.97 | total_mult=0.84 | cash_left=$872.96
+2018-06-18 10:00:00 2018-06-18 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,872.96
+2018-06-19 10:00:00 2018-06-19 10:00:00: Gate-approved DCA buy 3 @ 244.75 spent $734.25 | RSI 37.93≤40.00 i=0.05 P=0.1 m=0.86 | ATR ratio=0.0032 p=0.65 m=1.01 | total_mult=0.87 | cash_left=$1,137.72
+2018-06-19 11:00:00 2018-06-19 11:00:00: Gate-approved DCA buy 3 @ 245.03 spent $735.08 | RSI 39.89≤40.00 i=0.00 P=0.1 m=0.86 | ATR ratio=0.0032 p=0.65 m=1.01 | total_mult=0.87 | cash_left=$401.64
+2018-07-18 10:00:00 2018-07-18 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,401.64
+2018-07-30 13:00:00 2018-07-30 13:00:00: Gate-approved DCA buy 3 @ 249.73 spent $749.19 | RSI 39.54≤40.00 i=0.01 P=0.0 m=0.85 | ATR ratio=0.0028 p=0.54 m=1.10 | total_mult=0.94 | cash_left=$651.45
+2018-08-20 10:00:00 2018-08-20 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,651.45
+2018-09-06 13:00:00 2018-09-06 13:00:00: Gate-approved DCA buy 3 @ 256.46 spent $769.38 | RSI 38.59≤40.00 i=0.04 P=0.0 m=0.85 | ATR ratio=0.0024 p=0.43 m=1.18 | total_mult=1.00 | cash_left=$881.06
+2018-09-20 10:00:00 2018-09-20 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,881.06
+2018-10-04 11:00:00 2018-10-04 11:00:00: Gate-approved DCA buy 4 @ 259.78 spent $1,039.12 | RSI 37.57≤40.00 i=0.06 P=0.1 m=0.86 | ATR ratio=0.0023 p=0.36 m=1.23 | total_mult=1.06 | cash_left=$840.94
+2018-10-22 10:00:00 2018-10-22 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,840.94
+2018-10-23 10:00:00 2018-10-23 10:00:00: Gate-approved DCA buy 3 @ 242.72 spent $728.15 | RSI 33.29≤40.00 i=0.17 P=0.2 m=0.87 | ATR ratio=0.0046 p=0.75 m=0.94 | total_mult=0.82 | cash_left=$1,111.80
+2018-10-23 11:00:00 2018-10-23 11:00:00: Gate-approved DCA buy 3 @ 242.08 spent $726.24 | RSI 32.12≤40.00 i=0.20 P=0.4 m=0.89 | ATR ratio=0.0047 p=0.75 m=0.94 | total_mult=0.83 | cash_left=$384.56
+2018-11-23 10:00:00 2018-11-23 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,384.56
+2018-11-23 10:00:00 2018-11-23 10:00:00: Gate-approved DCA buy 2 @ 236.84 spent $473.68 | RSI 36.58≤40.00 i=0.09 P=0.1 m=0.86 | ATR ratio=0.0063 p=0.97 m=0.77 | total_mult=0.67 | cash_left=$909.88
+2018-12-24 10:00:00 2018-12-24 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,909.88
+2018-12-24 10:00:00 2018-12-24 10:00:00: Gate-approved DCA buy 4 @ 214.11 spent $856.46 | RSI 24.14≤40.00 i=0.40 P=3.6 m=1.24 | ATR ratio=0.0083 p=1.00 m=0.75 | total_mult=0.93 | cash_left=$1,052.42
+2018-12-24 11:00:00 2018-12-24 11:00:00: Gate-approved DCA buy 4 @ 215.22 spent $860.90 | RSI 27.53≤40.00 i=0.31 P=3.9 m=1.27 | ATR ratio=0.0084 p=1.00 m=0.75 | total_mult=0.95 | cash_left=$190.52
+2018-12-31 16:00:00 Algorithm Id:(15727de56d858b547820d8d5cd505557) completed in 6.72 seconds at 6k data points per second. Processing total of 42,867 data points.

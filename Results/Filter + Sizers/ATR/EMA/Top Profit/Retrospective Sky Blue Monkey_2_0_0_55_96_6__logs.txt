@@ -1,0 +1,589 @@
+2006-10-19 12:00:00 Launching analysis for eb9ecc5fb0809b0398224f04697a8026 with LEAN Engine v2.5.0.0.17340
+2006-10-19 12:00:00 DCA ready SPY | $1,000/tranche | cadence: 1m/0d/0h | shift=0m | hist=252d≈1764 bars | RSI gate False ≤40.00 [0.85,1.50] | BB gate False ≤-1.00 [1.00,1.00] | EMA gate True ≤-1.00% [0.05,1.00] | SMA gate False ≤-1.00% [0.75,1.50] | SRSI sizing False ≤0.20 [0.85,1.50] | ATR sizing True mode=composite [0.55,2.00] | ramp_to_max=6 | combiner=product
+2006-10-19 12:00:00 Accurate daily end-times now enabled by default. See more at https://qnt.co/3YHaWHL. To disable it and use legacy daily bars set self.settings.daily_precise_end_time = False.
+2006-10-19 12:00:00 Algorithm starting warm up...
+2007-01-03 10:00:00 2007-01-03 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,000.00
+2007-01-03 11:00:00 Algorithm finished warming up.
+2007-02-05 10:00:00 2007-02-05 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$3,000.00
+2007-02-27 10:00:00 2007-02-27 10:00:00: Gate-approved DCA buy 1 @ 101.20 spent $101.20 | EMAΔ -1.07%≤-1.00% i=0.07 P=0.1 m=0.06 | ATR ratio=0.0031 p=0.35 m=1.49 | total_mult=0.12 | cash_left=$2,897.80
+2007-02-27 11:00:00 2007-02-27 11:00:00: Gate-approved DCA buy 1 @ 101.10 spent $101.10 | EMAΔ -1.14%≤-1.00% i=0.14 P=0.2 m=0.08 | ATR ratio=0.0031 p=0.42 m=1.39 | total_mult=0.12 | cash_left=$2,795.70
+2007-02-27 12:00:00 2007-02-27 12:00:00: Gate-approved DCA buy 1 @ 100.92 spent $100.92 | EMAΔ -1.28%≤-1.00% i=0.28 P=0.5 m=0.13 | ATR ratio=0.0031 p=0.42 m=1.39 | total_mult=0.18 | cash_left=$2,693.78
+2007-02-27 13:00:00 2007-02-27 13:00:00: Gate-approved DCA buy 2 @ 100.73 spent $201.47 | EMAΔ -1.43%≤-1.00% i=0.43 P=0.9 m=0.19 | ATR ratio=0.0031 p=0.45 m=1.35 | total_mult=0.26 | cash_left=$2,491.32
+2007-02-27 14:00:00 2007-02-27 14:00:00: Gate-approved DCA buy 3 @ 100.35 spent $301.04 | EMAΔ -1.76%≤-1.00% i=0.76 P=1.7 m=0.32 | ATR ratio=0.0031 p=0.50 m=1.27 | total_mult=0.40 | cash_left=$2,189.28
+2007-02-27 15:00:00 2007-02-27 15:00:00: Gate-approved DCA buy 3 @ 98.62 spent $295.86 | EMAΔ -3.37%≤-1.00% i=1.00 P=2.7 m=0.47 | ATR ratio=0.0034 p=0.89 m=0.71 | total_mult=0.34 | cash_left=$1,892.42
+2007-02-27 16:00:00 2007-02-27 16:00:00: Gate-approved DCA buy 4 @ 98.68 spent $394.70 | EMAΔ -3.24%≤-1.00% i=1.00 P=3.7 m=0.63 | ATR ratio=0.0035 p=0.94 m=0.64 | total_mult=0.41 | cash_left=$1,892.42
+2007-02-28 10:00:00 2007-02-28 10:00:00: Gate-approved DCA buy 5 @ 99.15 spent $495.77 | EMAΔ -2.70%≤-1.00% i=1.00 P=4.7 m=0.79 | ATR ratio=0.0036 p=0.94 m=0.63 | total_mult=0.50 | cash_left=$998.85
+2007-03-05 10:00:00 2007-03-05 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,998.85
+2007-03-05 10:00:00 2007-03-05 10:00:00: Gate-approved DCA buy 5 @ 97.86 spent $489.32 | EMAΔ -2.77%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0045 p=1.00 m=0.55 | total_mult=0.55 | cash_left=$1,508.52
+2007-03-05 11:00:00 2007-03-05 11:00:00: Gate-approved DCA buy 5 @ 98.03 spent $490.17 | EMAΔ -2.54%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0046 p=1.00 m=0.55 | total_mult=0.55 | cash_left=$1,017.35
+2007-03-05 12:00:00 2007-03-05 12:00:00: Gate-approved DCA buy 5 @ 97.68 spent $488.41 | EMAΔ -2.82%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0046 p=1.00 m=0.55 | total_mult=0.55 | cash_left=$527.94
+2007-04-05 10:00:00 2007-04-05 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,527.94
+2007-05-07 10:00:00 2007-05-07 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,527.94
+2007-06-07 10:00:00 2007-06-07 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$3,527.94
+2007-06-07 12:00:00 2007-06-07 12:00:00: Gate-approved DCA buy 1 @ 106.82 spent $106.82 | EMAΔ -1.06%≤-1.00% i=0.06 P=0.1 m=0.06 | ATR ratio=0.0032 p=0.53 m=1.23 | total_mult=0.12 | cash_left=$3,420.13
+2007-06-07 13:00:00 2007-06-07 13:00:00: Gate-approved DCA buy 1 @ 106.57 spent $106.57 | EMAΔ -1.26%≤-1.00% i=0.26 P=0.3 m=0.10 | ATR ratio=0.0032 p=0.57 m=1.17 | total_mult=0.12 | cash_left=$3,312.56
+2007-06-07 14:00:00 2007-06-07 14:00:00: Gate-approved DCA buy 1 @ 106.23 spent $106.23 | EMAΔ -1.53%≤-1.00% i=0.53 P=0.9 m=0.18 | ATR ratio=0.0032 p=0.64 m=1.08 | total_mult=0.20 | cash_left=$3,205.33
+2007-06-07 15:00:00 2007-06-07 15:00:00: Gate-approved DCA buy 2 @ 106.32 spent $212.64 | EMAΔ -1.42%≤-1.00% i=0.42 P=1.3 m=0.25 | ATR ratio=0.0033 p=0.65 m=1.06 | total_mult=0.26 | cash_left=$2,991.69
+2007-06-07 16:00:00 2007-06-07 16:00:00: Gate-approved DCA buy 3 @ 105.69 spent $317.07 | EMAΔ -1.95%≤-1.00% i=0.95 P=2.2 m=0.40 | ATR ratio=0.0033 p=0.70 m=0.99 | total_mult=0.40 | cash_left=$2,991.69
+2007-06-08 10:00:00 2007-06-08 10:00:00: Gate-approved DCA buy 4 @ 106.04 spent $424.15 | EMAΔ -1.59%≤-1.00% i=0.59 P=2.8 m=0.49 | ATR ratio=0.0034 p=0.71 m=0.97 | total_mult=0.48 | cash_left=$2,248.34
+2007-06-08 11:00:00 2007-06-08 11:00:00: Gate-approved DCA buy 5 @ 105.99 spent $529.94 | EMAΔ -1.60%≤-1.00% i=0.60 P=3.4 m=0.59 | ATR ratio=0.0034 p=0.71 m=0.97 | total_mult=0.57 | cash_left=$1,717.41
+2007-06-08 12:00:00 2007-06-08 12:00:00: Gate-approved DCA buy 6 @ 106.11 spent $636.64 | EMAΔ -1.45%≤-1.00% i=0.45 P=3.9 m=0.66 | ATR ratio=0.0034 p=0.71 m=0.97 | total_mult=0.64 | cash_left=$1,079.76
+2007-06-08 13:00:00 2007-06-08 13:00:00: Gate-approved DCA buy 6 @ 106.04 spent $636.26 | EMAΔ -1.47%≤-1.00% i=0.47 P=4.3 m=0.74 | ATR ratio=0.0034 p=0.71 m=0.97 | total_mult=0.72 | cash_left=$442.50
+2007-07-09 10:00:00 2007-07-09 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,442.50
+2007-07-24 15:00:00 2007-07-24 15:00:00: Gate-approved DCA buy 1 @ 108.04 spent $108.04 | EMAΔ -1.05%≤-1.00% i=0.05 P=0.1 m=0.06 | ATR ratio=0.0040 p=0.83 m=0.80 | total_mult=0.12 | cash_left=$1,333.46
+2007-07-24 16:00:00 2007-07-24 16:00:00: Gate-approved DCA buy 1 @ 107.40 spent $107.40 | EMAΔ -1.60%≤-1.00% i=0.60 P=0.7 m=0.15 | ATR ratio=0.0041 p=0.85 m=0.77 | total_mult=0.12 | cash_left=$1,333.46
+2007-07-25 11:00:00 2007-07-25 11:00:00: Gate-approved DCA buy 1 @ 107.41 spent $107.41 | EMAΔ -1.53%≤-1.00% i=0.53 P=0.5 m=0.13 | ATR ratio=0.0042 p=0.91 m=0.68 | total_mult=0.12 | cash_left=$1,116.01
+2007-07-25 12:00:00 2007-07-25 12:00:00: Gate-approved DCA buy 1 @ 107.63 spent $107.63 | EMAΔ -1.29%≤-1.00% i=0.29 P=0.8 m=0.18 | ATR ratio=0.0042 p=0.91 m=0.68 | total_mult=0.12 | cash_left=$1,007.38
+2007-07-25 13:00:00 2007-07-25 13:00:00: Gate-approved DCA buy 1 @ 107.50 spent $107.50 | EMAΔ -1.37%≤-1.00% i=0.37 P=1.2 m=0.24 | ATR ratio=0.0042 p=0.91 m=0.68 | total_mult=0.16 | cash_left=$898.88
+2007-08-09 10:00:00 2007-08-09 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,898.88
+2007-08-09 15:00:00 2007-08-09 15:00:00: Gate-approved DCA buy 1 @ 104.00 spent $104.00 | EMAΔ -1.12%≤-1.00% i=0.12 P=0.1 m=0.07 | ATR ratio=0.0068 p=1.00 m=0.55 | total_mult=0.12 | cash_left=$1,793.88
+2007-08-09 16:00:00 2007-08-09 16:00:00: Gate-approved DCA buy 1 @ 103.56 spent $103.56 | EMAΔ -1.50%≤-1.00% i=0.50 P=0.6 m=0.15 | ATR ratio=0.0069 p=1.00 m=0.55 | total_mult=0.12 | cash_left=$1,793.88
+2007-08-10 10:00:00 2007-08-10 10:00:00: Gate-approved DCA buy 1 @ 102.53 spent $102.53 | EMAΔ -2.42%≤-1.00% i=1.00 P=1.6 m=0.31 | ATR ratio=0.0070 p=1.00 m=0.55 | total_mult=0.17 | cash_left=$1,586.84
+2007-08-10 11:00:00 2007-08-10 11:00:00: Gate-approved DCA buy 2 @ 102.12 spent $204.25 | EMAΔ -2.74%≤-1.00% i=1.00 P=2.6 m=0.47 | ATR ratio=0.0071 p=1.00 m=0.55 | total_mult=0.26 | cash_left=$1,381.59
+2007-08-10 12:00:00 2007-08-10 12:00:00: Gate-approved DCA buy 3 @ 103.03 spent $309.08 | EMAΔ -1.84%≤-1.00% i=0.84 P=3.5 m=0.60 | ATR ratio=0.0071 p=1.00 m=0.55 | total_mult=0.33 | cash_left=$1,071.51
+2007-08-10 13:00:00 2007-08-10 13:00:00: Gate-approved DCA buy 4 @ 102.86 spent $411.42 | EMAΔ -1.95%≤-1.00% i=0.95 P=4.4 m=0.75 | ATR ratio=0.0071 p=1.00 m=0.55 | total_mult=0.41 | cash_left=$659.09
+2007-09-10 10:00:00 2007-09-10 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,659.09
+2007-09-10 11:00:00 2007-09-10 11:00:00: Gate-approved DCA buy 1 @ 103.10 spent $103.10 | EMAΔ -1.12%≤-1.00% i=0.12 P=0.1 m=0.07 | ATR ratio=0.0065 p=0.91 m=0.68 | total_mult=0.12 | cash_left=$1,555.00
+2007-09-10 12:00:00 2007-09-10 12:00:00: Gate-approved DCA buy 1 @ 102.94 spent $102.94 | EMAΔ -1.24%≤-1.00% i=0.24 P=0.4 m=0.11 | ATR ratio=0.0065 p=0.91 m=0.68 | total_mult=0.12 | cash_left=$1,451.05
+2007-09-10 13:00:00 2007-09-10 13:00:00: Gate-approved DCA buy 1 @ 103.02 spent $103.02 | EMAΔ -1.14%≤-1.00% i=0.14 P=0.5 m=0.13 | ATR ratio=0.0064 p=0.90 m=0.70 | total_mult=0.12 | cash_left=$1,347.04
+2007-09-10 14:00:00 2007-09-10 14:00:00: Gate-approved DCA buy 1 @ 103.10 spent $103.10 | EMAΔ -1.03%≤-1.00% i=0.03 P=0.5 m=0.13 | ATR ratio=0.0064 p=0.89 m=0.71 | total_mult=0.12 | cash_left=$1,242.93
+2007-10-10 10:00:00 2007-10-10 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,242.93
+2007-10-17 14:00:00 2007-10-17 14:00:00: Gate-approved DCA buy 1 @ 109.02 spent $109.02 | EMAΔ -1.20%≤-1.00% i=0.20 P=0.2 m=0.08 | ATR ratio=0.0041 p=0.66 m=1.04 | total_mult=0.12 | cash_left=$2,132.91
+2007-10-19 11:00:00 2007-10-19 11:00:00: Gate-approved DCA buy 1 @ 108.26 spent $108.26 | EMAΔ -1.71%≤-1.00% i=0.71 P=0.7 m=0.16 | ATR ratio=0.0042 p=0.72 m=0.96 | total_mult=0.16 | cash_left=$2,023.66
+2007-10-19 12:00:00 2007-10-19 12:00:00: Gate-approved DCA buy 1 @ 108.61 spent $108.61 | EMAΔ -1.35%≤-1.00% i=0.35 P=1.1 m=0.22 | ATR ratio=0.0042 p=0.72 m=0.96 | total_mult=0.21 | cash_left=$1,914.04
+2007-10-19 13:00:00 2007-10-19 13:00:00: Gate-approved DCA buy 2 @ 108.46 spent $216.91 | EMAΔ -1.46%≤-1.00% i=0.46 P=1.5 m=0.29 | ATR ratio=0.0042 p=0.72 m=0.96 | total_mult=0.28 | cash_left=$1,696.13
+2007-10-19 14:00:00 2007-10-19 14:00:00: Gate-approved DCA buy 3 @ 108.34 spent $325.02 | EMAΔ -1.52%≤-1.00% i=0.52 P=2.0 m=0.37 | ATR ratio=0.0042 p=0.72 m=0.96 | total_mult=0.36 | cash_left=$1,370.11
+2007-10-19 15:00:00 2007-10-19 15:00:00: Gate-approved DCA buy 4 @ 107.72 spent $430.88 | EMAΔ -2.04%≤-1.00% i=1.00 P=3.0 m=0.53 | ATR ratio=0.0043 p=0.73 m=0.95 | total_mult=0.50 | cash_left=$938.23
+2007-11-12 10:00:00 2007-11-12 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,938.23
+2007-11-12 10:00:00 2007-11-12 10:00:00: Gate-approved DCA buy 6 @ 103.99 spent $623.92 | EMAΔ -2.86%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0066 p=0.93 m=0.65 | total_mult=0.65 | cash_left=$1,313.31
+2007-11-12 11:00:00 2007-11-12 11:00:00: Gate-approved DCA buy 6 @ 104.32 spent $625.93 | EMAΔ -2.49%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0065 p=0.93 m=0.65 | total_mult=0.65 | cash_left=$686.38
+2007-12-12 10:00:00 2007-12-12 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,686.38
+2007-12-14 16:00:00 2007-12-14 16:00:00: Gate-approved DCA buy 1 @ 105.09 spent $105.09 | EMAΔ -1.06%≤-1.00% i=0.06 P=0.1 m=0.06 | ATR ratio=0.0063 p=0.83 m=0.80 | total_mult=0.12 | cash_left=$1,686.38
+2007-12-17 10:00:00 2007-12-17 10:00:00: Gate-approved DCA buy 1 @ 104.40 spent $104.40 | EMAΔ -1.67%≤-1.00% i=0.67 P=0.7 m=0.17 | ATR ratio=0.0064 p=0.84 m=0.78 | total_mult=0.13 | cash_left=$1,475.29
+2007-12-17 11:00:00 2007-12-17 11:00:00: Gate-approved DCA buy 1 @ 104.73 spent $104.73 | EMAΔ -1.33%≤-1.00% i=0.33 P=1.1 m=0.22 | ATR ratio=0.0064 p=0.83 m=0.80 | total_mult=0.17 | cash_left=$1,369.56
+2007-12-17 12:00:00 2007-12-17 12:00:00: Gate-approved DCA buy 2 @ 104.44 spent $208.89 | EMAΔ -1.56%≤-1.00% i=0.56 P=1.6 m=0.31 | ATR ratio=0.0064 p=0.83 m=0.80 | total_mult=0.24 | cash_left=$1,159.68
+2007-12-17 13:00:00 2007-12-17 13:00:00: Gate-approved DCA buy 2 @ 104.65 spent $209.30 | EMAΔ -1.33%≤-1.00% i=0.33 P=1.9 m=0.36 | ATR ratio=0.0063 p=0.82 m=0.81 | total_mult=0.29 | cash_left=$949.38
+2008-01-14 10:00:00 2008-01-14 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,949.38
+2008-01-14 10:00:00 2008-01-14 10:00:00: Gate-approved DCA buy 5 @ 100.96 spent $504.82 | EMAΔ -1.47%≤-1.00% i=0.47 P=5.0 m=0.84 | ATR ratio=0.0069 p=0.92 m=0.67 | total_mult=0.57 | cash_left=$1,443.56
+2008-01-14 11:00:00 2008-01-14 11:00:00: Gate-approved DCA buy 5 @ 101.29 spent $506.43 | EMAΔ -1.13%≤-1.00% i=0.13 P=5.2 m=0.87 | ATR ratio=0.0068 p=0.91 m=0.68 | total_mult=0.59 | cash_left=$936.12
+2008-02-14 10:00:00 2008-02-14 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,936.12
+2008-02-22 11:00:00 2008-02-22 11:00:00: Gate-approved DCA buy 1 @ 95.85 spent $95.85 | EMAΔ -1.21%≤-1.00% i=0.21 P=0.2 m=0.08 | ATR ratio=0.0077 p=0.90 m=0.70 | total_mult=0.12 | cash_left=$1,839.27
+2008-02-22 12:00:00 2008-02-22 12:00:00: Gate-approved DCA buy 1 @ 95.97 spent $95.97 | EMAΔ -1.07%≤-1.00% i=0.07 P=0.3 m=0.09 | ATR ratio=0.0077 p=0.89 m=0.71 | total_mult=0.12 | cash_left=$1,742.30
+2008-02-22 13:00:00 2008-02-22 13:00:00: Gate-approved DCA buy 1 @ 95.70 spent $95.70 | EMAΔ -1.31%≤-1.00% i=0.31 P=0.6 m=0.14 | ATR ratio=0.0077 p=0.89 m=0.71 | total_mult=0.12 | cash_left=$1,645.60
+2008-02-22 14:00:00 2008-02-22 14:00:00: Gate-approved DCA buy 1 @ 95.72 spent $95.72 | EMAΔ -1.25%≤-1.00% i=0.25 P=0.8 m=0.18 | ATR ratio=0.0077 p=0.89 m=0.71 | total_mult=0.13 | cash_left=$1,548.87
+2008-02-22 15:00:00 2008-02-22 15:00:00: Gate-approved DCA buy 1 @ 95.77 spent $95.77 | EMAΔ -1.17%≤-1.00% i=0.17 P=1.0 m=0.21 | ATR ratio=0.0076 p=0.89 m=0.72 | total_mult=0.15 | cash_left=$1,452.10
+2008-02-29 11:00:00 2008-02-29 11:00:00: Gate-approved DCA buy 1 @ 96.61 spent $96.61 | EMAΔ -1.19%≤-1.00% i=0.19 P=0.2 m=0.08 | ATR ratio=0.0075 p=0.87 m=0.73 | total_mult=0.12 | cash_left=$1,354.49
+2008-02-29 12:00:00 2008-02-29 12:00:00: Gate-approved DCA buy 1 @ 96.69 spent $96.69 | EMAΔ -1.08%≤-1.00% i=0.08 P=0.3 m=0.09 | ATR ratio=0.0075 p=0.87 m=0.74 | total_mult=0.12 | cash_left=$1,256.79
+2008-02-29 13:00:00 2008-02-29 13:00:00: Gate-approved DCA buy 1 @ 96.64 spent $96.64 | EMAΔ -1.11%≤-1.00% i=0.11 P=0.4 m=0.11 | ATR ratio=0.0074 p=0.87 m=0.74 | total_mult=0.12 | cash_left=$1,159.15
+2008-02-29 14:00:00 2008-02-29 14:00:00: Gate-approved DCA buy 1 @ 96.11 spent $96.11 | EMAΔ -1.61%≤-1.00% i=0.61 P=1.0 m=0.21 | ATR ratio=0.0075 p=0.87 m=0.74 | total_mult=0.15 | cash_left=$1,062.04
+2008-02-29 15:00:00 2008-02-29 15:00:00: Gate-approved DCA buy 2 @ 96.05 spent $192.11 | EMAΔ -1.63%≤-1.00% i=0.63 P=1.6 m=0.31 | ATR ratio=0.0074 p=0.87 m=0.74 | total_mult=0.23 | cash_left=$868.93
+2008-03-14 10:00:00 2008-03-14 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,868.93
+2008-03-14 10:00:00 2008-03-14 10:00:00: Gate-approved DCA buy 1 @ 92.91 spent $92.91 | EMAΔ -2.02%≤-1.00% i=1.00 P=1.0 m=0.21 | ATR ratio=0.0083 p=0.94 m=0.64 | total_mult=0.13 | cash_left=$1,775.02
+2008-03-14 11:00:00 2008-03-14 11:00:00: Gate-approved DCA buy 2 @ 93.32 spent $186.64 | EMAΔ -1.55%≤-1.00% i=0.55 P=1.6 m=0.30 | ATR ratio=0.0084 p=0.94 m=0.64 | total_mult=0.19 | cash_left=$1,587.38
+2008-03-14 12:00:00 2008-03-14 12:00:00: Gate-approved DCA buy 2 @ 93.09 spent $186.18 | EMAΔ -1.75%≤-1.00% i=0.75 P=2.3 m=0.41 | ATR ratio=0.0085 p=0.94 m=0.64 | total_mult=0.26 | cash_left=$1,400.21
+2008-03-14 13:00:00 2008-03-14 13:00:00: Gate-approved DCA buy 3 @ 92.87 spent $278.62 | EMAΔ -1.93%≤-1.00% i=0.93 P=3.2 m=0.56 | ATR ratio=0.0085 p=0.94 m=0.64 | total_mult=0.36 | cash_left=$1,120.58
+2008-03-14 14:00:00 2008-03-14 14:00:00: Gate-approved DCA buy 4 @ 92.49 spent $369.94 | EMAΔ -2.28%≤-1.00% i=1.00 P=4.2 m=0.72 | ATR ratio=0.0085 p=0.94 m=0.64 | total_mult=0.46 | cash_left=$749.64
+2008-04-14 10:00:00 2008-04-14 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,749.64
+2008-04-14 10:00:00 2008-04-14 10:00:00: Gate-approved DCA buy 2 @ 96.09 spent $192.18 | EMAΔ -1.48%≤-1.00% i=0.48 P=1.3 m=0.25 | ATR ratio=0.0067 p=0.64 m=1.07 | total_mult=0.27 | cash_left=$1,556.46
+2008-04-14 11:00:00 2008-04-14 11:00:00: Gate-approved DCA buy 3 @ 96.10 spent $288.31 | EMAΔ -1.42%≤-1.00% i=0.42 P=1.7 m=0.32 | ATR ratio=0.0066 p=0.64 m=1.07 | total_mult=0.34 | cash_left=$1,267.15
+2008-04-14 12:00:00 2008-04-14 12:00:00: Gate-approved DCA buy 4 @ 95.89 spent $383.55 | EMAΔ -1.61%≤-1.00% i=0.61 P=2.3 m=0.41 | ATR ratio=0.0067 p=0.64 m=1.07 | total_mult=0.44 | cash_left=$882.60
+2008-05-14 10:00:00 2008-05-14 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,882.60
+2008-05-21 16:00:00 2008-05-21 16:00:00: Gate-approved DCA buy 1 @ 100.50 spent $100.50 | EMAΔ -1.26%≤-1.00% i=0.26 P=0.3 m=0.09 | ATR ratio=0.0048 p=0.29 m=1.58 | total_mult=0.14 | cash_left=$1,882.60
+2008-05-22 10:00:00 2008-05-22 10:00:00: Gate-approved DCA buy 1 @ 100.61 spent $100.61 | EMAΔ -1.12%≤-1.00% i=0.12 P=0.4 m=0.11 | ATR ratio=0.0048 p=0.28 m=1.59 | total_mult=0.17 | cash_left=$1,679.41
+2008-05-22 12:00:00 2008-05-22 12:00:00: Gate-approved DCA buy 1 @ 100.62 spent $100.62 | EMAΔ -1.06%≤-1.00% i=0.06 P=0.1 m=0.06 | ATR ratio=0.0048 p=0.29 m=1.58 | total_mult=0.12 | cash_left=$1,577.79
+2008-05-23 10:00:00 2008-05-23 10:00:00: Gate-approved DCA buy 2 @ 99.96 spent $199.91 | EMAΔ -1.59%≤-1.00% i=0.59 P=0.6 m=0.14 | ATR ratio=0.0048 p=0.30 m=1.57 | total_mult=0.23 | cash_left=$1,376.87
+2008-05-23 11:00:00 2008-05-23 11:00:00: Gate-approved DCA buy 4 @ 99.75 spent $398.99 | EMAΔ -1.76%≤-1.00% i=0.76 P=1.4 m=0.26 | ATR ratio=0.0048 p=0.30 m=1.57 | total_mult=0.41 | cash_left=$976.89
+2008-06-16 10:00:00 2008-06-16 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,976.89
+2008-06-18 10:00:00 2008-06-18 10:00:00: Gate-approved DCA buy 2 @ 97.06 spent $194.13 | EMAΔ -1.63%≤-1.00% i=0.63 P=0.6 m=0.15 | ATR ratio=0.0053 p=0.36 m=1.47 | total_mult=0.22 | cash_left=$1,781.76
+2008-06-18 11:00:00 2008-06-18 11:00:00: Gate-approved DCA buy 4 @ 96.77 spent $387.07 | EMAΔ -1.89%≤-1.00% i=0.89 P=1.5 m=0.29 | ATR ratio=0.0054 p=0.37 m=1.46 | total_mult=0.42 | cash_left=$1,393.69
+2008-06-18 12:00:00 2008-06-18 12:00:00: Gate-approved DCA buy 5 @ 97.26 spent $486.29 | EMAΔ -1.36%≤-1.00% i=0.36 P=1.9 m=0.35 | ATR ratio=0.0054 p=0.37 m=1.46 | total_mult=0.51 | cash_left=$906.40
+2008-07-16 10:00:00 2008-07-16 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,906.40
+2008-07-16 10:00:00 2008-07-16 10:00:00: Gate-approved DCA buy 8 @ 88.69 spent $709.51 | EMAΔ -2.68%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0080 p=0.88 m=0.72 | total_mult=0.72 | cash_left=$1,195.90
+2008-07-16 11:00:00 2008-07-16 11:00:00: Gate-approved DCA buy 8 @ 88.79 spent $710.32 | EMAΔ -2.51%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0081 p=0.88 m=0.72 | total_mult=0.72 | cash_left=$484.58
+2008-08-18 10:00:00 2008-08-18 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,484.58
+2008-08-19 10:00:00 2008-08-19 10:00:00: Gate-approved DCA buy 1 @ 92.28 spent $92.28 | EMAΔ -1.03%≤-1.00% i=0.03 P=0.0 m=0.05 | ATR ratio=0.0062 p=0.44 m=1.36 | total_mult=0.12 | cash_left=$1,391.30
+2008-08-19 11:00:00 2008-08-19 11:00:00: Gate-approved DCA buy 1 @ 92.07 spent $92.07 | EMAΔ -1.22%≤-1.00% i=0.22 P=0.2 m=0.09 | ATR ratio=0.0062 p=0.44 m=1.36 | total_mult=0.12 | cash_left=$1,298.23
+2008-08-19 12:00:00 2008-08-19 12:00:00: Gate-approved DCA buy 2 @ 91.81 spent $183.63 | EMAΔ -1.46%≤-1.00% i=0.46 P=0.7 m=0.16 | ATR ratio=0.0062 p=0.44 m=1.37 | total_mult=0.22 | cash_left=$1,113.60
+2008-08-19 13:00:00 2008-08-19 13:00:00: Gate-approved DCA buy 2 @ 92.10 spent $184.21 | EMAΔ -1.12%≤-1.00% i=0.12 P=0.8 m=0.18 | ATR ratio=0.0062 p=0.43 m=1.38 | total_mult=0.25 | cash_left=$928.40
+2008-09-18 10:00:00 2008-09-18 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,928.40
+2008-09-18 10:00:00 2008-09-18 10:00:00: Gate-approved DCA buy 6 @ 85.92 spent $515.51 | EMAΔ -3.83%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0101 p=1.00 m=0.55 | total_mult=0.55 | cash_left=$1,411.89
+2008-09-18 11:00:00 2008-09-18 11:00:00: Gate-approved DCA buy 6 @ 84.84 spent $509.03 | EMAΔ -4.92%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0103 p=1.00 m=0.55 | total_mult=0.55 | cash_left=$901.85
+2008-10-20 10:00:00 2008-10-20 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,901.85
+2008-10-20 10:00:00 2008-10-20 10:00:00: Gate-approved DCA buy 7 @ 70.23 spent $491.59 | EMAΔ -2.88%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0232 p=0.99 m=0.56 | total_mult=0.56 | cash_left=$1,409.27
+2008-10-20 11:00:00 2008-10-20 11:00:00: Gate-approved DCA buy 8 @ 69.66 spent $557.26 | EMAΔ -3.58%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0233 p=0.99 m=0.56 | total_mult=0.56 | cash_left=$851.01
+2008-11-20 10:00:00 2008-11-20 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,851.01
+2008-11-20 10:00:00 2008-11-20 10:00:00: Gate-approved DCA buy 9 @ 57.59 spent $518.31 | EMAΔ -10.66%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0260 p=1.00 m=0.56 | total_mult=0.56 | cash_left=$1,331.70
+2008-11-20 11:00:00 2008-11-20 11:00:00: Gate-approved DCA buy 9 @ 58.76 spent $528.81 | EMAΔ -8.65%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0256 p=0.99 m=0.56 | total_mult=0.56 | cash_left=$801.89
+2008-12-22 10:00:00 2008-12-22 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,801.89
+2008-12-22 12:00:00 2008-12-22 12:00:00: Gate-approved DCA buy 1 @ 64.20 spent $64.20 | EMAΔ -1.06%≤-1.00% i=0.06 P=0.1 m=0.06 | ATR ratio=0.0174 p=0.80 m=0.84 | total_mult=0.12 | cash_left=$1,736.69
+2008-12-22 14:00:00 2008-12-22 14:00:00: Gate-approved DCA buy 1 @ 63.92 spent $63.92 | EMAΔ -1.43%≤-1.00% i=0.43 P=0.4 m=0.12 | ATR ratio=0.0173 p=0.80 m=0.85 | total_mult=0.12 | cash_left=$1,671.78
+2008-12-22 15:00:00 2008-12-22 15:00:00: Gate-approved DCA buy 3 @ 63.29 spent $189.88 | EMAΔ -2.33%≤-1.00% i=1.00 P=1.4 m=0.28 | ATR ratio=0.0174 p=0.80 m=0.85 | total_mult=0.23 | cash_left=$1,480.90
+2008-12-22 16:00:00 2008-12-22 16:00:00: Gate-approved DCA buy 5 @ 63.64 spent $318.19 | EMAΔ -1.76%≤-1.00% i=0.76 P=2.2 m=0.40 | ATR ratio=0.0173 p=0.80 m=0.85 | total_mult=0.34 | cash_left=$1,480.90
+2008-12-23 12:00:00 2008-12-23 12:00:00: Gate-approved DCA buy 2 @ 63.62 spent $127.25 | EMAΔ -1.70%≤-1.00% i=0.70 P=0.7 m=0.16 | ATR ratio=0.0172 p=0.79 m=0.85 | total_mult=0.14 | cash_left=$1,030.09
+2008-12-23 13:00:00 2008-12-23 13:00:00: Gate-approved DCA buy 3 @ 63.61 spent $190.82 | EMAΔ -1.68%≤-1.00% i=0.68 P=1.4 m=0.27 | ATR ratio=0.0171 p=0.79 m=0.85 | total_mult=0.23 | cash_left=$838.27
+2009-01-22 10:00:00 2009-01-22 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,838.27
+2009-01-22 10:00:00 2009-01-22 10:00:00: Gate-approved DCA buy 14 @ 60.58 spent $848.11 | EMAΔ -3.72%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0139 p=0.76 m=0.89 | total_mult=0.89 | cash_left=$989.16
+2009-02-23 10:00:00 2009-02-23 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,989.16
+2009-02-23 10:00:00 2009-02-23 10:00:00: Gate-approved DCA buy 16 @ 57.00 spent $911.99 | EMAΔ -4.51%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0136 p=0.74 m=0.93 | total_mult=0.93 | cash_left=$1,076.17
+2009-02-23 11:00:00 2009-02-23 11:00:00: Gate-approved DCA buy 16 @ 56.13 spent $898.11 | EMAΔ -5.83%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0138 p=0.75 m=0.91 | total_mult=0.91 | cash_left=$177.06
+2009-03-23 10:00:00 2009-03-23 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,177.06
+2009-03-30 15:00:00 2009-03-30 15:00:00: Gate-approved DCA buy 2 @ 57.73 spent $115.47 | EMAΔ -1.30%≤-1.00% i=0.30 P=0.3 m=0.10 | ATR ratio=0.0129 p=0.62 m=1.10 | total_mult=0.12 | cash_left=$1,060.59
+2009-04-23 10:00:00 2009-04-23 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,060.59
+2009-05-15 15:00:00 2009-05-15 15:00:00: Gate-approved DCA buy 2 @ 65.43 spent $130.87 | EMAΔ -1.25%≤-1.00% i=0.25 P=0.3 m=0.09 | ATR ratio=0.0090 p=0.35 m=1.50 | total_mult=0.13 | cash_left=$1,928.72
+2009-05-21 11:00:00 2009-05-21 11:00:00: Gate-approved DCA buy 2 @ 65.76 spent $131.52 | EMAΔ -1.46%≤-1.00% i=0.46 P=0.5 m=0.12 | ATR ratio=0.0089 p=0.34 m=1.51 | total_mult=0.19 | cash_left=$1,796.20
+2009-05-21 14:00:00 2009-05-21 14:00:00: Gate-approved DCA buy 2 @ 65.84 spent $131.68 | EMAΔ -1.27%≤-1.00% i=0.27 P=0.3 m=0.09 | ATR ratio=0.0088 p=0.33 m=1.51 | total_mult=0.14 | cash_left=$1,663.52
+2009-05-21 15:00:00 2009-05-21 15:00:00: Gate-approved DCA buy 4 @ 65.53 spent $262.12 | EMAΔ -1.69%≤-1.00% i=0.69 P=1.0 m=0.20 | ATR ratio=0.0089 p=0.34 m=1.51 | total_mult=0.30 | cash_left=$1,400.40
+2009-05-22 10:00:00 2009-05-22 10:00:00: Gate-approved DCA buy 1 @ 65.88 spent $65.88 | EMAΔ -1.12%≤-1.00% i=0.12 P=0.1 m=0.07 | ATR ratio=0.0088 p=0.33 m=1.51 | total_mult=0.12 | cash_left=$1,333.53
+2009-05-26 10:00:00 2009-05-26 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,333.53
+2009-06-15 12:00:00 2009-06-15 12:00:00: Gate-approved DCA buy 1 @ 68.68 spent $68.68 | EMAΔ -1.05%≤-1.00% i=0.05 P=0.1 m=0.06 | ATR ratio=0.0076 p=0.25 m=1.63 | total_mult=0.12 | cash_left=$2,263.85
+2009-06-15 14:00:00 2009-06-15 14:00:00: Gate-approved DCA buy 1 @ 68.55 spent $68.55 | EMAΔ -1.18%≤-1.00% i=0.18 P=0.2 m=0.08 | ATR ratio=0.0076 p=0.25 m=1.64 | total_mult=0.13 | cash_left=$2,194.30
+2009-06-15 15:00:00 2009-06-15 15:00:00: Gate-approved DCA buy 2 @ 68.56 spent $137.12 | EMAΔ -1.14%≤-1.00% i=0.14 P=0.3 m=0.10 | ATR ratio=0.0075 p=0.24 m=1.65 | total_mult=0.17 | cash_left=$2,056.18
+2009-06-16 12:00:00 2009-06-16 12:00:00: Gate-approved DCA buy 1 @ 68.59 spent $68.59 | EMAΔ -1.01%≤-1.00% i=0.01 P=0.0 m=0.05 | ATR ratio=0.0074 p=0.23 m=1.67 | total_mult=0.12 | cash_left=$1,986.59
+2009-06-16 13:00:00 2009-06-16 13:00:00: Gate-approved DCA buy 3 @ 68.19 spent $204.58 | EMAΔ -1.55%≤-1.00% i=0.55 P=0.6 m=0.14 | ATR ratio=0.0075 p=0.24 m=1.66 | total_mult=0.23 | cash_left=$1,781.00
+2009-06-16 14:00:00 2009-06-16 14:00:00: Gate-approved DCA buy 6 @ 68.08 spent $408.46 | EMAΔ -1.68%≤-1.00% i=0.68 P=1.2 m=0.25 | ATR ratio=0.0075 p=0.23 m=1.66 | total_mult=0.41 | cash_left=$1,371.55
+2009-06-16 15:00:00 2009-06-16 15:00:00: Gate-approved DCA buy 8 @ 68.11 spent $544.91 | EMAΔ -1.59%≤-1.00% i=0.59 P=1.8 m=0.34 | ATR ratio=0.0075 p=0.23 m=1.67 | total_mult=0.57 | cash_left=$825.64
+2009-06-26 10:00:00 2009-06-26 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,825.64
+2009-07-02 10:00:00 2009-07-02 10:00:00: Gate-approved DCA buy 3 @ 67.37 spent $202.10 | EMAΔ -1.46%≤-1.00% i=0.46 P=0.5 m=0.12 | ATR ratio=0.0069 p=0.14 m=1.80 | total_mult=0.22 | cash_left=$1,622.54
+2009-07-02 11:00:00 2009-07-02 11:00:00: Gate-approved DCA buy 5 @ 67.33 spent $336.65 | EMAΔ -1.47%≤-1.00% i=0.47 P=0.9 m=0.20 | ATR ratio=0.0068 p=0.13 m=1.80 | total_mult=0.36 | cash_left=$1,284.89
+2009-07-02 12:00:00 2009-07-02 12:00:00: Gate-approved DCA buy 7 @ 67.20 spent $470.42 | EMAΔ -1.62%≤-1.00% i=0.62 P=1.5 m=0.29 | ATR ratio=0.0068 p=0.13 m=1.81 | total_mult=0.53 | cash_left=$813.46
+2009-07-27 10:00:00 2009-07-27 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,813.46
+2009-08-17 10:00:00 2009-08-17 10:00:00: Gate-approved DCA buy 2 @ 73.38 spent $146.75 | EMAΔ -1.31%≤-1.00% i=0.31 P=0.3 m=0.10 | ATR ratio=0.0060 p=0.11 m=1.83 | total_mult=0.18 | cash_left=$1,665.71
+2009-08-17 11:00:00 2009-08-17 11:00:00: Gate-approved DCA buy 4 @ 73.27 spent $293.09 | EMAΔ -1.41%≤-1.00% i=0.41 P=0.7 m=0.16 | ATR ratio=0.0060 p=0.11 m=1.84 | total_mult=0.30 | cash_left=$1,371.63
+2009-08-17 12:00:00 2009-08-17 12:00:00: Gate-approved DCA buy 4 @ 73.48 spent $293.92 | EMAΔ -1.10%≤-1.00% i=0.10 P=0.8 m=0.18 | ATR ratio=0.0060 p=0.11 m=1.85 | total_mult=0.33 | cash_left=$1,076.71
+2009-08-17 13:00:00 2009-08-17 13:00:00: Gate-approved DCA buy 5 @ 73.39 spent $366.95 | EMAΔ -1.19%≤-1.00% i=0.19 P=1.0 m=0.21 | ATR ratio=0.0060 p=0.10 m=1.85 | total_mult=0.39 | cash_left=$708.75
+2009-08-27 10:00:00 2009-08-27 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,708.75
+2009-09-01 12:00:00 2009-09-01 12:00:00: Gate-approved DCA buy 2 @ 74.98 spent $149.95 | EMAΔ -1.25%≤-1.00% i=0.25 P=0.3 m=0.09 | ATR ratio=0.0057 p=0.04 m=1.94 | total_mult=0.17 | cash_left=$1,557.80
+2009-09-01 13:00:00 2009-09-01 13:00:00: Gate-approved DCA buy 3 @ 74.87 spent $224.62 | EMAΔ -1.36%≤-1.00% i=0.36 P=0.6 m=0.15 | ATR ratio=0.0057 p=0.04 m=1.94 | total_mult=0.28 | cash_left=$1,332.18
+2009-09-01 14:00:00 2009-09-01 14:00:00: Gate-approved DCA buy 4 @ 74.95 spent $299.82 | EMAΔ -1.22%≤-1.00% i=0.22 P=0.8 m=0.18 | ATR ratio=0.0057 p=0.04 m=1.94 | total_mult=0.35 | cash_left=$1,031.37
+2009-09-01 15:00:00 2009-09-01 15:00:00: Gate-approved DCA buy 6 @ 74.81 spent $448.88 | EMAΔ -1.37%≤-1.00% i=0.37 P=1.2 m=0.24 | ATR ratio=0.0057 p=0.04 m=1.95 | total_mult=0.47 | cash_left=$581.49
+2009-09-28 10:00:00 2009-09-28 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,581.49
+2009-10-01 11:00:00 2009-10-01 11:00:00: Gate-approved DCA buy 1 @ 78.05 spent $78.05 | EMAΔ -1.11%≤-1.00% i=0.11 P=0.1 m=0.07 | ATR ratio=0.0052 p=0.06 m=1.91 | total_mult=0.13 | cash_left=$1,502.44
+2009-10-01 12:00:00 2009-10-01 12:00:00: Gate-approved DCA buy 3 @ 77.67 spent $233.00 | EMAΔ -1.55%≤-1.00% i=0.55 P=0.7 m=0.15 | ATR ratio=0.0053 p=0.07 m=1.91 | total_mult=0.29 | cash_left=$1,268.44
+2009-10-01 13:00:00 2009-10-01 13:00:00: Gate-approved DCA buy 5 @ 77.69 spent $388.45 | EMAΔ -1.49%≤-1.00% i=0.49 P=1.1 m=0.23 | ATR ratio=0.0053 p=0.06 m=1.91 | total_mult=0.44 | cash_left=$878.99
+2009-10-28 10:00:00 2009-10-28 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,878.99
+2009-10-28 10:00:00 2009-10-28 10:00:00: Gate-approved DCA buy 7 @ 79.29 spent $555.04 | EMAΔ -1.76%≤-1.00% i=0.76 P=1.9 m=0.35 | ATR ratio=0.0055 p=0.17 m=1.75 | total_mult=0.60 | cash_left=$1,322.95
+2009-10-28 11:00:00 2009-10-28 11:00:00: Gate-approved DCA buy 11 @ 78.91 spent $868.00 | EMAΔ -2.18%≤-1.00% i=1.00 P=2.9 m=0.50 | ATR ratio=0.0055 p=0.18 m=1.74 | total_mult=0.88 | cash_left=$453.95
+2009-11-30 10:00:00 2009-11-30 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,453.95
+2009-12-09 14:00:00 2009-12-09 14:00:00: Gate-approved DCA buy 1 @ 81.71 spent $81.71 | EMAΔ -1.07%≤-1.00% i=0.07 P=0.1 m=0.06 | ATR ratio=0.0053 p=0.18 m=1.74 | total_mult=0.12 | cash_left=$1,371.24
+2009-12-30 10:00:00 2009-12-30 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,371.24
+2010-01-21 12:00:00 2010-01-21 12:00:00: Gate-approved DCA buy 3 @ 84.15 spent $252.44 | EMAΔ -1.60%≤-1.00% i=0.60 P=0.6 m=0.14 | ATR ratio=0.0038 p=0.05 m=1.92 | total_mult=0.28 | cash_left=$2,117.80
+2010-01-21 13:00:00 2010-01-21 13:00:00: Gate-approved DCA buy 5 @ 84.05 spent $420.25 | EMAΔ -1.67%≤-1.00% i=0.67 P=1.3 m=0.25 | ATR ratio=0.0038 p=0.06 m=1.92 | total_mult=0.48 | cash_left=$1,696.54
+2010-01-21 14:00:00 2010-01-21 14:00:00: Gate-approved DCA buy 7 @ 84.28 spent $589.93 | EMAΔ -1.37%≤-1.00% i=0.37 P=1.6 m=0.31 | ATR ratio=0.0038 p=0.06 m=1.92 | total_mult=0.59 | cash_left=$1,105.61
+2010-01-21 15:00:00 2010-01-21 15:00:00: Gate-approved DCA buy 8 @ 84.31 spent $674.45 | EMAΔ -1.30%≤-1.00% i=0.30 P=1.9 m=0.36 | ATR ratio=0.0039 p=0.06 m=1.91 | total_mult=0.69 | cash_left=$430.16
+2010-02-01 10:00:00 2010-02-01 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,430.16
+2010-02-01 10:00:00 2010-02-01 10:00:00: Gate-approved DCA buy 17 @ 81.48 spent $1,385.13 | EMAΔ -2.16%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0050 p=0.19 m=1.73 | total_mult=1.73 | cash_left=$44.04
+2010-03-01 10:00:00 2010-03-01 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,044.04
+2010-04-01 10:00:00 2010-04-01 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,044.04
+2010-04-27 16:00:00 2010-04-27 16:00:00: Gate-approved DCA buy 2 @ 89.44 spent $178.88 | EMAΔ -1.46%≤-1.00% i=0.46 P=0.5 m=0.12 | ATR ratio=0.0041 p=0.19 m=1.72 | total_mult=0.21 | cash_left=$2,044.04
+2010-04-28 12:00:00 2010-04-28 12:00:00: Gate-approved DCA buy 1 @ 89.76 spent $89.76 | EMAΔ -1.04%≤-1.00% i=0.04 P=0.0 m=0.06 | ATR ratio=0.0041 p=0.20 m=1.71 | total_mult=0.12 | cash_left=$1,772.44
+2010-04-30 16:00:00 2010-04-30 16:00:00: Gate-approved DCA buy 1 @ 89.77 spent $89.77 | EMAΔ -1.02%≤-1.00% i=0.02 P=0.0 m=0.05 | ATR ratio=0.0043 p=0.24 m=1.66 | total_mult=0.12 | cash_left=$1,772.44
+2010-05-03 10:00:00 2010-05-03 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,681.28
+2010-05-04 10:00:00 2010-05-04 10:00:00: Gate-approved DCA buy 1 @ 89.56 spent $89.56 | EMAΔ -1.22%≤-1.00% i=0.22 P=0.2 m=0.09 | ATR ratio=0.0045 p=0.25 m=1.63 | total_mult=0.14 | cash_left=$2,590.71
+2010-05-04 11:00:00 2010-05-04 11:00:00: Gate-approved DCA buy 4 @ 88.78 spent $355.11 | EMAΔ -2.04%≤-1.00% i=1.00 P=1.2 m=0.24 | ATR ratio=0.0046 p=0.27 m=1.61 | total_mult=0.39 | cash_left=$2,234.60
+2010-05-04 12:00:00 2010-05-04 12:00:00: Gate-approved DCA buy 6 @ 88.94 spent $533.66 | EMAΔ -1.81%≤-1.00% i=0.81 P=2.0 m=0.37 | ATR ratio=0.0046 p=0.27 m=1.61 | total_mult=0.60 | cash_left=$1,699.94
+2010-05-04 13:00:00 2010-05-04 13:00:00: Gate-approved DCA buy 9 @ 88.83 spent $799.47 | EMAΔ -1.89%≤-1.00% i=0.89 P=2.9 m=0.51 | ATR ratio=0.0046 p=0.27 m=1.60 | total_mult=0.82 | cash_left=$899.47
+2010-06-03 10:00:00 2010-06-03 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,899.47
+2010-06-04 10:00:00 2010-06-04 10:00:00: Gate-approved DCA buy 1 @ 82.30 spent $82.30 | EMAΔ -1.03%≤-1.00% i=0.03 P=0.0 m=0.05 | ATR ratio=0.0087 p=0.97 m=0.59 | total_mult=0.12 | cash_left=$1,816.17
+2010-06-04 11:00:00 2010-06-04 11:00:00: Gate-approved DCA buy 1 @ 82.21 spent $82.21 | EMAΔ -1.12%≤-1.00% i=0.12 P=0.1 m=0.07 | ATR ratio=0.0087 p=0.97 m=0.59 | total_mult=0.12 | cash_left=$1,732.96
+2010-06-04 12:00:00 2010-06-04 12:00:00: Gate-approved DCA buy 1 @ 81.90 spent $81.90 | EMAΔ -1.45%≤-1.00% i=0.45 P=0.6 m=0.15 | ATR ratio=0.0087 p=0.97 m=0.59 | total_mult=0.12 | cash_left=$1,650.07
+2010-06-04 13:00:00 2010-06-04 13:00:00: Gate-approved DCA buy 1 @ 81.88 spent $81.88 | EMAΔ -1.44%≤-1.00% i=0.44 P=1.0 m=0.21 | ATR ratio=0.0087 p=0.97 m=0.60 | total_mult=0.13 | cash_left=$1,567.18
+2010-06-04 14:00:00 2010-06-04 14:00:00: Gate-approved DCA buy 2 @ 81.38 spent $162.77 | EMAΔ -1.99%≤-1.00% i=0.99 P=2.0 m=0.37 | ATR ratio=0.0087 p=0.97 m=0.59 | total_mult=0.22 | cash_left=$1,403.42
+2010-06-04 15:00:00 2010-06-04 15:00:00: Gate-approved DCA buy 3 @ 80.76 spent $242.27 | EMAΔ -2.68%≤-1.00% i=1.00 P=3.0 m=0.53 | ATR ratio=0.0088 p=0.98 m=0.58 | total_mult=0.31 | cash_left=$1,160.15
+2010-06-04 16:00:00 2010-06-04 16:00:00: Gate-approved DCA buy 4 @ 80.76 spent $323.06 | EMAΔ -2.60%≤-1.00% i=1.00 P=4.0 m=0.69 | ATR ratio=0.0088 p=0.98 m=0.58 | total_mult=0.40 | cash_left=$1,160.15
+2010-07-06 10:00:00 2010-07-06 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,835.40
+2010-07-06 10:00:00 2010-07-06 10:00:00: Gate-approved DCA buy 8 @ 78.73 spent $629.82 | EMAΔ -2.23%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0077 p=0.92 m=0.67 | total_mult=0.67 | cash_left=$1,204.57
+2010-07-06 11:00:00 2010-07-06 11:00:00: Gate-approved DCA buy 8 @ 78.89 spent $631.10 | EMAΔ -1.99%≤-1.00% i=0.99 P=6.0 m=1.00 | ATR ratio=0.0077 p=0.92 m=0.67 | total_mult=0.67 | cash_left=$572.48
+2010-08-06 10:00:00 2010-08-06 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,572.48
+2010-08-11 10:00:00 2010-08-11 10:00:00: Gate-approved DCA buy 1 @ 83.59 spent $83.59 | EMAΔ -1.22%≤-1.00% i=0.22 P=0.2 m=0.08 | ATR ratio=0.0059 p=0.73 m=0.95 | total_mult=0.12 | cash_left=$1,487.89
+2010-08-11 11:00:00 2010-08-11 11:00:00: Gate-approved DCA buy 1 @ 83.29 spent $83.29 | EMAΔ -1.54%≤-1.00% i=0.54 P=0.8 m=0.17 | ATR ratio=0.0059 p=0.73 m=0.95 | total_mult=0.16 | cash_left=$1,403.60
+2010-08-11 12:00:00 2010-08-11 12:00:00: Gate-approved DCA buy 3 @ 83.20 spent $249.59 | EMAΔ -1.61%≤-1.00% i=0.61 P=1.4 m=0.27 | ATR ratio=0.0059 p=0.73 m=0.95 | total_mult=0.25 | cash_left=$1,153.01
+2010-08-11 13:00:00 2010-08-11 13:00:00: Gate-approved DCA buy 4 @ 82.92 spent $331.67 | EMAΔ -1.89%≤-1.00% i=0.89 P=2.3 m=0.41 | ATR ratio=0.0059 p=0.72 m=0.95 | total_mult=0.39 | cash_left=$820.34
+2010-09-07 10:00:00 2010-09-07 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,820.34
+2010-10-07 10:00:00 2010-10-07 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,820.34
+2010-11-08 10:00:00 2010-11-08 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$3,820.34
+2010-11-16 10:00:00 2010-11-16 10:00:00: Gate-approved DCA buy 1 @ 90.88 spent $90.88 | EMAΔ -1.20%≤-1.00% i=0.20 P=0.2 m=0.08 | ATR ratio=0.0044 p=0.31 m=1.55 | total_mult=0.13 | cash_left=$3,728.46
+2010-11-16 11:00:00 2010-11-16 11:00:00: Gate-approved DCA buy 2 @ 90.57 spent $181.14 | EMAΔ -1.51%≤-1.00% i=0.51 P=0.7 m=0.16 | ATR ratio=0.0045 p=0.32 m=1.53 | total_mult=0.25 | cash_left=$3,546.32
+2010-11-16 12:00:00 2010-11-16 12:00:00: Gate-approved DCA buy 5 @ 90.07 spent $450.33 | EMAΔ -2.00%≤-1.00% i=1.00 P=1.7 m=0.32 | ATR ratio=0.0045 p=0.35 m=1.49 | total_mult=0.48 | cash_left=$3,094.99
+2010-11-16 13:00:00 2010-11-16 13:00:00: Gate-approved DCA buy 7 @ 90.12 spent $630.84 | EMAΔ -1.90%≤-1.00% i=0.90 P=2.6 m=0.46 | ATR ratio=0.0045 p=0.35 m=1.49 | total_mult=0.69 | cash_left=$2,463.15
+2010-11-16 14:00:00 2010-11-16 14:00:00: Gate-approved DCA buy 9 @ 90.27 spent $812.45 | EMAΔ -1.69%≤-1.00% i=0.69 P=3.3 m=0.57 | ATR ratio=0.0045 p=0.34 m=1.50 | total_mult=0.86 | cash_left=$1,649.71
+2010-11-16 15:00:00 2010-11-16 15:00:00: Gate-approved DCA buy 11 @ 90.03 spent $990.31 | EMAΔ -1.91%≤-1.00% i=0.91 P=4.2 m=0.72 | ATR ratio=0.0046 p=0.36 m=1.48 | total_mult=1.06 | cash_left=$658.40
+2010-12-08 10:00:00 2010-12-08 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,658.40
+2011-01-10 10:00:00 2011-01-10 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,658.40
+2011-02-10 10:00:00 2011-02-10 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$3,658.40
+2011-02-23 12:00:00 2011-02-23 12:00:00: Gate-approved DCA buy 1 @ 100.47 spent $100.47 | EMAΔ -1.20%≤-1.00% i=0.20 P=0.2 m=0.08 | ATR ratio=0.0032 p=0.17 m=1.76 | total_mult=0.14 | cash_left=$3,556.93
+2011-02-23 13:00:00 2011-02-23 13:00:00: Gate-approved DCA buy 2 @ 100.24 spent $200.48 | EMAΔ -1.39%≤-1.00% i=0.39 P=0.6 m=0.14 | ATR ratio=0.0032 p=0.17 m=1.76 | total_mult=0.25 | cash_left=$3,355.45
+2011-02-23 14:00:00 2011-02-23 14:00:00: Gate-approved DCA buy 3 @ 100.36 spent $301.09 | EMAΔ -1.24%≤-1.00% i=0.24 P=0.8 m=0.18 | ATR ratio=0.0033 p=0.17 m=1.75 | total_mult=0.32 | cash_left=$3,053.36
+2011-02-23 16:00:00 2011-02-23 16:00:00: Gate-approved DCA buy 1 @ 100.47 spent $100.47 | EMAΔ -1.08%≤-1.00% i=0.08 P=0.1 m=0.06 | ATR ratio=0.0033 p=0.17 m=1.75 | total_mult=0.12 | cash_left=$3,053.36
+2011-02-24 11:00:00 2011-02-24 11:00:00: Gate-approved DCA buy 1 @ 100.42 spent $100.42 | EMAΔ -1.08%≤-1.00% i=0.08 P=0.1 m=0.06 | ATR ratio=0.0033 p=0.18 m=1.74 | total_mult=0.12 | cash_left=$2,850.58
+2011-02-24 12:00:00 2011-02-24 12:00:00: Gate-approved DCA buy 1 @ 100.16 spent $100.16 | EMAΔ -1.31%≤-1.00% i=0.31 P=0.4 m=0.11 | ATR ratio=0.0033 p=0.18 m=1.74 | total_mult=0.19 | cash_left=$2,749.42
+2011-02-24 13:00:00 2011-02-24 13:00:00: Gate-approved DCA buy 2 @ 100.12 spent $200.24 | EMAΔ -1.31%≤-1.00% i=0.31 P=0.7 m=0.16 | ATR ratio=0.0034 p=0.18 m=1.74 | total_mult=0.28 | cash_left=$2,548.19
+2011-02-24 14:00:00 2011-02-24 14:00:00: Gate-approved DCA buy 4 @ 99.62 spent $398.48 | EMAΔ -1.76%≤-1.00% i=0.76 P=1.5 m=0.28 | ATR ratio=0.0034 p=0.19 m=1.73 | total_mult=0.49 | cash_left=$2,148.71
+2011-02-24 15:00:00 2011-02-24 15:00:00: Gate-approved DCA buy 5 @ 100.27 spent $501.36 | EMAΔ -1.09%≤-1.00% i=0.09 P=1.6 m=0.30 | ATR ratio=0.0034 p=0.19 m=1.72 | total_mult=0.51 | cash_left=$1,646.35
+2011-03-01 16:00:00 2011-03-01 16:00:00: Gate-approved DCA buy 1 @ 100.38 spent $100.38 | EMAΔ -1.00%≤-1.00% i=0.00 P=0.0 m=0.05 | ATR ratio=0.0036 p=0.23 m=1.67 | total_mult=0.12 | cash_left=$1,646.35
+2011-03-02 12:00:00 2011-03-02 12:00:00: Gate-approved DCA buy 1 @ 100.26 spent $100.26 | EMAΔ -1.07%≤-1.00% i=0.07 P=0.1 m=0.06 | ATR ratio=0.0036 p=0.25 m=1.64 | total_mult=0.12 | cash_left=$1,443.79
+2011-03-10 10:00:00 2011-03-10 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,443.79
+2011-03-10 10:00:00 2011-03-10 10:00:00: Gate-approved DCA buy 1 @ 100.00 spent $100.00 | EMAΔ -1.34%≤-1.00% i=0.34 P=0.3 m=0.10 | ATR ratio=0.0042 p=0.39 m=1.43 | total_mult=0.15 | cash_left=$2,342.79
+2011-03-10 11:00:00 2011-03-10 11:00:00: Gate-approved DCA buy 2 @ 100.06 spent $200.13 | EMAΔ -1.25%≤-1.00% i=0.25 P=0.6 m=0.14 | ATR ratio=0.0042 p=0.39 m=1.43 | total_mult=0.20 | cash_left=$2,141.66
+2011-03-10 14:00:00 2011-03-10 14:00:00: Gate-approved DCA buy 1 @ 99.82 spent $99.82 | EMAΔ -1.41%≤-1.00% i=0.41 P=0.4 m=0.11 | ATR ratio=0.0042 p=0.41 m=1.40 | total_mult=0.16 | cash_left=$2,040.84
+2011-03-10 15:00:00 2011-03-10 15:00:00: Gate-approved DCA buy 2 @ 99.99 spent $199.98 | EMAΔ -1.21%≤-1.00% i=0.21 P=0.6 m=0.15 | ATR ratio=0.0042 p=0.41 m=1.41 | total_mult=0.21 | cash_left=$1,839.87
+2011-03-10 16:00:00 2011-03-10 16:00:00: Gate-approved DCA buy 3 @ 99.64 spent $298.93 | EMAΔ -1.51%≤-1.00% i=0.51 P=1.1 m=0.23 | ATR ratio=0.0042 p=0.41 m=1.40 | total_mult=0.32 | cash_left=$1,839.87
+2011-03-11 10:00:00 2011-03-11 10:00:00: Gate-approved DCA buy 4 @ 99.72 spent $398.88 | EMAΔ -1.40%≤-1.00% i=0.40 P=1.5 m=0.29 | ATR ratio=0.0042 p=0.41 m=1.40 | total_mult=0.41 | cash_left=$1,141.07
+2011-03-11 11:00:00 2011-03-11 11:00:00: Gate-approved DCA buy 4 @ 99.75 spent $399.00 | EMAΔ -1.34%≤-1.00% i=0.34 P=1.9 m=0.34 | ATR ratio=0.0042 p=0.41 m=1.40 | total_mult=0.48 | cash_left=$741.07
+2011-04-11 10:00:00 2011-04-11 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,741.07
+2011-04-12 11:00:00 2011-04-12 11:00:00: Gate-approved DCA buy 1 @ 100.91 spent $100.91 | EMAΔ -1.12%≤-1.00% i=0.12 P=0.1 m=0.07 | ATR ratio=0.0038 p=0.28 m=1.59 | total_mult=0.12 | cash_left=$1,639.17
+2011-04-14 10:00:00 2011-04-14 10:00:00: Gate-approved DCA buy 1 @ 100.63 spent $100.63 | EMAΔ -1.16%≤-1.00% i=0.16 P=0.2 m=0.08 | ATR ratio=0.0039 p=0.28 m=1.59 | total_mult=0.12 | cash_left=$1,537.54
+2011-04-18 10:00:00 2011-04-18 10:00:00: Gate-approved DCA buy 2 @ 100.14 spent $200.27 | EMAΔ -1.51%≤-1.00% i=0.51 P=0.5 m=0.13 | ATR ratio=0.0039 p=0.29 m=1.58 | total_mult=0.21 | cash_left=$1,336.26
+2011-04-18 11:00:00 2011-04-18 11:00:00: Gate-approved DCA buy 3 @ 99.90 spent $299.69 | EMAΔ -1.70%≤-1.00% i=0.70 P=1.2 m=0.24 | ATR ratio=0.0039 p=0.30 m=1.57 | total_mult=0.38 | cash_left=$1,035.57
+2011-04-18 12:00:00 2011-04-18 12:00:00: Gate-approved DCA buy 4 @ 100.14 spent $400.55 | EMAΔ -1.43%≤-1.00% i=0.43 P=1.6 m=0.31 | ATR ratio=0.0039 p=0.30 m=1.57 | total_mult=0.49 | cash_left=$634.02
+2011-05-11 10:00:00 2011-05-11 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,634.02
+2011-05-17 10:00:00 2011-05-17 10:00:00: Gate-approved DCA buy 1 @ 102.46 spent $102.46 | EMAΔ -1.06%≤-1.00% i=0.06 P=0.1 m=0.06 | ATR ratio=0.0039 p=0.34 m=1.50 | total_mult=0.12 | cash_left=$1,530.56
+2011-05-17 11:00:00 2011-05-17 11:00:00: Gate-approved DCA buy 1 @ 102.29 spent $102.29 | EMAΔ -1.20%≤-1.00% i=0.20 P=0.3 m=0.09 | ATR ratio=0.0039 p=0.35 m=1.49 | total_mult=0.14 | cash_left=$1,427.26
+2011-05-17 12:00:00 2011-05-17 12:00:00: Gate-approved DCA buy 2 @ 102.05 spent $204.09 | EMAΔ -1.40%≤-1.00% i=0.40 P=0.7 m=0.15 | ATR ratio=0.0039 p=0.36 m=1.48 | total_mult=0.23 | cash_left=$1,222.17
+2011-05-17 13:00:00 2011-05-17 13:00:00: Gate-approved DCA buy 3 @ 102.05 spent $306.14 | EMAΔ -1.37%≤-1.00% i=0.37 P=1.0 m=0.21 | ATR ratio=0.0039 p=0.36 m=1.48 | total_mult=0.31 | cash_left=$915.03
+2011-06-13 10:00:00 2011-06-13 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,915.03
+2011-06-13 10:00:00 2011-06-13 10:00:00: Gate-approved DCA buy 12 @ 98.68 spent $1,184.18 | EMAΔ -1.80%≤-1.00% i=0.80 P=6.0 m=1.00 | ATR ratio=0.0043 p=0.50 m=1.28 | total_mult=1.28 | cash_left=$729.85
+2011-07-13 10:00:00 2011-07-13 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,729.85
+2011-07-18 11:00:00 2011-07-18 11:00:00: Gate-approved DCA buy 1 @ 100.71 spent $100.71 | EMAΔ -1.31%≤-1.00% i=0.31 P=0.3 m=0.10 | ATR ratio=0.0045 p=0.66 m=1.04 | total_mult=0.12 | cash_left=$1,628.14
+2011-07-18 12:00:00 2011-07-18 12:00:00: Gate-approved DCA buy 1 @ 100.41 spent $100.41 | EMAΔ -1.57%≤-1.00% i=0.57 P=0.9 m=0.19 | ATR ratio=0.0045 p=0.68 m=1.01 | total_mult=0.19 | cash_left=$1,526.73
+2011-07-18 13:00:00 2011-07-18 13:00:00: Gate-approved DCA buy 2 @ 100.65 spent $201.30 | EMAΔ -1.30%≤-1.00% i=0.30 P=1.2 m=0.24 | ATR ratio=0.0045 p=0.66 m=1.04 | total_mult=0.25 | cash_left=$1,324.43
+2011-07-18 14:00:00 2011-07-18 14:00:00: Gate-approved DCA buy 2 @ 100.90 spent $201.81 | EMAΔ -1.03%≤-1.00% i=0.03 P=1.2 m=0.24 | ATR ratio=0.0045 p=0.66 m=1.05 | total_mult=0.25 | cash_left=$1,121.62
+2011-07-27 13:00:00 2011-07-27 13:00:00: Gate-approved DCA buy 1 @ 101.76 spent $101.76 | EMAΔ -1.04%≤-1.00% i=0.04 P=0.0 m=0.06 | ATR ratio=0.0043 p=0.55 m=1.20 | total_mult=0.12 | cash_left=$1,018.86
+2011-07-27 15:00:00 2011-07-27 15:00:00: Gate-approved DCA buy 1 @ 101.35 spent $101.35 | EMAΔ -1.38%≤-1.00% i=0.38 P=0.4 m=0.11 | ATR ratio=0.0043 p=0.56 m=1.19 | total_mult=0.13 | cash_left=$916.50
+2011-08-15 10:00:00 2011-08-15 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,916.50
+2011-08-16 10:00:00 2011-08-16 10:00:00: Gate-approved DCA buy 1 @ 92.29 spent $92.29 | EMAΔ -1.05%≤-1.00% i=0.05 P=0.1 m=0.06 | ATR ratio=0.0098 p=0.99 m=0.57 | total_mult=0.12 | cash_left=$1,823.21
+2011-08-16 13:00:00 2011-08-16 13:00:00: Gate-approved DCA buy 1 @ 92.21 spent $92.21 | EMAΔ -1.10%≤-1.00% i=0.10 P=0.1 m=0.07 | ATR ratio=0.0098 p=0.98 m=0.57 | total_mult=0.12 | cash_left=$1,730.00
+2011-08-16 15:00:00 2011-08-16 15:00:00: Gate-approved DCA buy 1 @ 92.11 spent $92.11 | EMAΔ -1.15%≤-1.00% i=0.15 P=0.2 m=0.07 | ATR ratio=0.0097 p=0.98 m=0.57 | total_mult=0.12 | cash_left=$1,636.89
+2011-08-17 14:00:00 2011-08-17 14:00:00: Gate-approved DCA buy 1 @ 92.19 spent $92.19 | EMAΔ -1.01%≤-1.00% i=0.01 P=0.0 m=0.05 | ATR ratio=0.0097 p=0.98 m=0.58 | total_mult=0.12 | cash_left=$1,543.70
+2011-08-18 10:00:00 2011-08-18 10:00:00: Gate-approved DCA buy 1 @ 89.57 spent $89.57 | EMAΔ -3.70%≤-1.00% i=1.00 P=1.0 m=0.21 | ATR ratio=0.0101 p=0.99 m=0.56 | total_mult=0.12 | cash_left=$1,453.13
+2011-08-18 11:00:00 2011-08-18 11:00:00: Gate-approved DCA buy 2 @ 88.95 spent $177.91 | EMAΔ -4.26%≤-1.00% i=1.00 P=2.0 m=0.37 | ATR ratio=0.0103 p=1.00 m=0.55 | total_mult=0.20 | cash_left=$1,274.22
+2011-08-18 12:00:00 2011-08-18 12:00:00: Gate-approved DCA buy 3 @ 89.22 spent $267.65 | EMAΔ -3.88%≤-1.00% i=1.00 P=3.0 m=0.53 | ATR ratio=0.0102 p=1.00 m=0.55 | total_mult=0.29 | cash_left=$1,005.57
+2011-08-18 13:00:00 2011-08-18 13:00:00: Gate-approved DCA buy 4 @ 88.92 spent $355.69 | EMAΔ -4.10%≤-1.00% i=1.00 P=4.0 m=0.68 | ATR ratio=0.0102 p=1.00 m=0.56 | total_mult=0.38 | cash_left=$648.89
+2011-09-15 10:00:00 2011-09-15 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,648.89
+2011-09-21 16:00:00 2011-09-21 16:00:00: Gate-approved DCA buy 1 @ 90.65 spent $90.65 | EMAΔ -2.10%≤-1.00% i=1.00 P=1.0 m=0.21 | ATR ratio=0.0091 p=0.90 m=0.70 | total_mult=0.15 | cash_left=$1,648.89
+2011-09-22 10:00:00 2011-09-22 10:00:00: Gate-approved DCA buy 2 @ 87.71 spent $175.42 | EMAΔ -5.15%≤-1.00% i=1.00 P=2.0 m=0.37 | ATR ratio=0.0096 p=0.94 m=0.63 | total_mult=0.23 | cash_left=$1,383.33
+2011-09-22 11:00:00 2011-09-22 11:00:00: Gate-approved DCA buy 3 @ 88.16 spent $264.48 | EMAΔ -4.56%≤-1.00% i=1.00 P=3.0 m=0.53 | ATR ratio=0.0096 p=0.94 m=0.63 | total_mult=0.33 | cash_left=$1,117.85
+2011-09-22 12:00:00 2011-09-22 12:00:00: Gate-approved DCA buy 4 @ 87.75 spent $350.99 | EMAΔ -4.88%≤-1.00% i=1.00 P=4.0 m=0.68 | ATR ratio=0.0096 p=0.94 m=0.63 | total_mult=0.43 | cash_left=$765.85
+2011-10-17 10:00:00 2011-10-17 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,765.85
+2011-11-01 10:00:00 2011-11-01 10:00:00: Gate-approved DCA buy 1 @ 95.44 spent $95.44 | EMAΔ -1.24%≤-1.00% i=0.24 P=0.2 m=0.09 | ATR ratio=0.0081 p=0.79 m=0.86 | total_mult=0.12 | cash_left=$1,669.42
+2011-11-01 11:00:00 2011-11-01 11:00:00: Gate-approved DCA buy 1 @ 95.56 spent $95.56 | EMAΔ -1.08%≤-1.00% i=0.08 P=0.3 m=0.10 | ATR ratio=0.0081 p=0.79 m=0.86 | total_mult=0.12 | cash_left=$1,572.86
+2011-11-01 12:00:00 2011-11-01 12:00:00: Gate-approved DCA buy 1 @ 94.88 spent $94.88 | EMAΔ -1.74%≤-1.00% i=0.74 P=1.1 m=0.22 | ATR ratio=0.0082 p=0.79 m=0.85 | total_mult=0.19 | cash_left=$1,476.98
+2011-11-01 13:00:00 2011-11-01 13:00:00: Gate-approved DCA buy 3 @ 94.77 spent $284.30 | EMAΔ -1.81%≤-1.00% i=0.81 P=1.9 m=0.35 | ATR ratio=0.0082 p=0.79 m=0.85 | total_mult=0.30 | cash_left=$1,191.68
+2011-11-01 14:00:00 2011-11-01 14:00:00: Gate-approved DCA buy 3 @ 95.40 spent $286.19 | EMAΔ -1.13%≤-1.00% i=0.13 P=2.0 m=0.37 | ATR ratio=0.0082 p=0.79 m=0.85 | total_mult=0.31 | cash_left=$904.49
+2011-11-17 10:00:00 2011-11-17 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,904.49
+2011-11-17 10:00:00 2011-11-17 10:00:00: Gate-approved DCA buy 1 @ 96.07 spent $96.07 | EMAΔ -1.35%≤-1.00% i=0.35 P=0.4 m=0.11 | ATR ratio=0.0076 p=0.73 m=0.95 | total_mult=0.12 | cash_left=$1,807.42
+2011-11-17 11:00:00 2011-11-17 11:00:00: Gate-approved DCA buy 1 @ 96.29 spent $96.29 | EMAΔ -1.10%≤-1.00% i=0.10 P=0.4 m=0.12 | ATR ratio=0.0076 p=0.72 m=0.95 | total_mult=0.12 | cash_left=$1,710.13
+2011-11-17 12:00:00 2011-11-17 12:00:00: Gate-approved DCA buy 1 @ 96.15 spent $96.15 | EMAΔ -1.21%≤-1.00% i=0.21 P=0.7 m=0.15 | ATR ratio=0.0076 p=0.72 m=0.95 | total_mult=0.15 | cash_left=$1,612.98
+2011-11-17 13:00:00 2011-11-17 13:00:00: Gate-approved DCA buy 3 @ 95.04 spent $285.12 | EMAΔ -2.30%≤-1.00% i=1.00 P=1.7 m=0.31 | ATR ratio=0.0078 p=0.74 m=0.92 | total_mult=0.29 | cash_left=$1,326.86
+2011-11-17 14:00:00 2011-11-17 14:00:00: Gate-approved DCA buy 4 @ 94.84 spent $379.38 | EMAΔ -2.44%≤-1.00% i=1.00 P=2.7 m=0.47 | ATR ratio=0.0078 p=0.75 m=0.92 | total_mult=0.43 | cash_left=$946.49
+2011-12-19 10:00:00 2011-12-19 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,946.49
+2011-12-19 11:00:00 2011-12-19 11:00:00: Gate-approved DCA buy 1 @ 95.11 spent $95.11 | EMAΔ -1.03%≤-1.00% i=0.03 P=0.0 m=0.05 | ATR ratio=0.0066 p=0.63 m=1.09 | total_mult=0.12 | cash_left=$1,850.38
+2011-12-19 12:00:00 2011-12-19 12:00:00: Gate-approved DCA buy 1 @ 94.62 spent $94.62 | EMAΔ -1.51%≤-1.00% i=0.51 P=0.5 m=0.13 | ATR ratio=0.0066 p=0.63 m=1.08 | total_mult=0.15 | cash_left=$1,754.76
+2011-12-19 13:00:00 2011-12-19 13:00:00: Gate-approved DCA buy 1 @ 94.85 spent $94.85 | EMAΔ -1.23%≤-1.00% i=0.23 P=0.8 m=0.17 | ATR ratio=0.0066 p=0.63 m=1.09 | total_mult=0.19 | cash_left=$1,658.91
+2011-12-19 14:00:00 2011-12-19 14:00:00: Gate-approved DCA buy 2 @ 94.94 spent $189.87 | EMAΔ -1.11%≤-1.00% i=0.11 P=0.9 m=0.19 | ATR ratio=0.0065 p=0.63 m=1.09 | total_mult=0.21 | cash_left=$1,468.04
+2011-12-19 15:00:00 2011-12-19 15:00:00: Gate-approved DCA buy 2 @ 94.80 spent $189.61 | EMAΔ -1.22%≤-1.00% i=0.22 P=1.1 m=0.22 | ATR ratio=0.0065 p=0.63 m=1.09 | total_mult=0.25 | cash_left=$1,277.43
+2011-12-19 16:00:00 2011-12-19 16:00:00: Gate-approved DCA buy 4 @ 94.21 spent $376.83 | EMAΔ -1.80%≤-1.00% i=0.80 P=1.9 m=0.35 | ATR ratio=0.0066 p=0.63 m=1.09 | total_mult=0.38 | cash_left=$1,277.43
+2012-01-19 10:00:00 2012-01-19 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,893.61
+2012-02-21 10:00:00 2012-02-21 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,893.61
+2012-03-06 10:00:00 2012-03-06 10:00:00: Gate-approved DCA buy 1 @ 105.79 spent $105.79 | EMAΔ -1.10%≤-1.00% i=0.10 P=0.1 m=0.07 | ATR ratio=0.0034 p=0.06 m=1.91 | total_mult=0.13 | cash_left=$2,786.82
+2012-03-06 11:00:00 2012-03-06 11:00:00: Gate-approved DCA buy 1 @ 105.61 spent $105.61 | EMAΔ -1.24%≤-1.00% i=0.24 P=0.3 m=0.10 | ATR ratio=0.0034 p=0.06 m=1.91 | total_mult=0.20 | cash_left=$2,680.21
+2012-03-06 12:00:00 2012-03-06 12:00:00: Gate-approved DCA buy 2 @ 105.58 spent $211.16 | EMAΔ -1.24%≤-1.00% i=0.24 P=0.6 m=0.14 | ATR ratio=0.0034 p=0.06 m=1.91 | total_mult=0.27 | cash_left=$2,468.06
+2012-03-06 13:00:00 2012-03-06 13:00:00: Gate-approved DCA buy 3 @ 105.48 spent $316.45 | EMAΔ -1.30%≤-1.00% i=0.30 P=0.9 m=0.19 | ATR ratio=0.0034 p=0.06 m=1.91 | total_mult=0.36 | cash_left=$2,150.61
+2012-03-06 14:00:00 2012-03-06 14:00:00: Gate-approved DCA buy 4 @ 105.43 spent $421.72 | EMAΔ -1.31%≤-1.00% i=0.31 P=1.2 m=0.24 | ATR ratio=0.0034 p=0.06 m=1.92 | total_mult=0.46 | cash_left=$1,727.89
+2012-03-06 15:00:00 2012-03-06 15:00:00: Gate-approved DCA buy 5 @ 105.26 spent $526.28 | EMAΔ -1.44%≤-1.00% i=0.44 P=1.6 m=0.31 | ATR ratio=0.0034 p=0.06 m=1.92 | total_mult=0.59 | cash_left=$1,200.61
+2012-03-06 16:00:00 2012-03-06 16:00:00: Gate-approved DCA buy 6 @ 105.44 spent $632.67 | EMAΔ -1.23%≤-1.00% i=0.23 P=1.9 m=0.35 | ATR ratio=0.0034 p=0.06 m=1.92 | total_mult=0.66 | cash_left=$1,200.61
+2012-03-21 10:00:00 2012-03-21 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,565.11
+2012-04-09 10:00:00 2012-04-09 10:00:00: Gate-approved DCA buy 2 @ 108.49 spent $216.97 | EMAΔ -1.58%≤-1.00% i=0.58 P=0.6 m=0.14 | ATR ratio=0.0033 p=0.11 m=1.84 | total_mult=0.26 | cash_left=$1,347.14
+2012-04-09 11:00:00 2012-04-09 11:00:00: Gate-approved DCA buy 3 @ 108.75 spent $326.24 | EMAΔ -1.31%≤-1.00% i=0.31 P=0.9 m=0.19 | ATR ratio=0.0033 p=0.11 m=1.84 | total_mult=0.35 | cash_left=$1,019.90
+2012-04-09 12:00:00 2012-04-09 12:00:00: Gate-approved DCA buy 4 @ 108.64 spent $434.57 | EMAΔ -1.37%≤-1.00% i=0.37 P=1.3 m=0.25 | ATR ratio=0.0033 p=0.11 m=1.84 | total_mult=0.46 | cash_left=$584.33
+2012-04-23 10:00:00 2012-04-23 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,584.33
+2012-04-23 10:00:00 2012-04-23 10:00:00: Gate-approved DCA buy 2 @ 107.17 spent $214.35 | EMAΔ -1.56%≤-1.00% i=0.56 P=0.6 m=0.14 | ATR ratio=0.0038 p=0.27 m=1.61 | total_mult=0.22 | cash_left=$1,368.98
+2012-04-23 11:00:00 2012-04-23 11:00:00: Gate-approved DCA buy 3 @ 107.12 spent $321.35 | EMAΔ -1.57%≤-1.00% i=0.57 P=1.1 m=0.23 | ATR ratio=0.0037 p=0.27 m=1.61 | total_mult=0.37 | cash_left=$1,046.63
+2012-04-23 12:00:00 2012-04-23 12:00:00: Gate-approved DCA buy 4 @ 107.30 spent $429.19 | EMAΔ -1.37%≤-1.00% i=0.37 P=1.5 m=0.29 | ATR ratio=0.0037 p=0.26 m=1.62 | total_mult=0.47 | cash_left=$616.43
+2012-05-23 10:00:00 2012-05-23 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,616.43
+2012-05-23 10:00:00 2012-05-23 10:00:00: Gate-approved DCA buy 2 @ 103.30 spent $206.61 | EMAΔ -1.80%≤-1.00% i=0.80 P=1.0 m=0.21 | ATR ratio=0.0046 p=0.53 m=1.23 | total_mult=0.26 | cash_left=$1,408.83
+2012-05-23 11:00:00 2012-05-23 11:00:00: Gate-approved DCA buy 4 @ 102.53 spent $410.13 | EMAΔ -2.47%≤-1.00% i=1.00 P=2.0 m=0.37 | ATR ratio=0.0047 p=0.55 m=1.20 | total_mult=0.44 | cash_left=$997.69
+2012-06-25 10:00:00 2012-06-25 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,997.69
+2012-06-25 10:00:00 2012-06-25 10:00:00: Gate-approved DCA buy 1 @ 104.08 spent $104.08 | EMAΔ -1.16%≤-1.00% i=0.16 P=0.2 m=0.08 | ATR ratio=0.0048 p=0.51 m=1.26 | total_mult=0.12 | cash_left=$1,892.62
+2012-06-25 11:00:00 2012-06-25 11:00:00: Gate-approved DCA buy 1 @ 103.84 spent $103.84 | EMAΔ -1.35%≤-1.00% i=0.35 P=0.5 m=0.13 | ATR ratio=0.0048 p=0.51 m=1.25 | total_mult=0.16 | cash_left=$1,787.78
+2012-06-25 12:00:00 2012-06-25 12:00:00: Gate-approved DCA buy 2 @ 103.48 spent $206.97 | EMAΔ -1.65%≤-1.00% i=0.65 P=1.2 m=0.23 | ATR ratio=0.0048 p=0.51 m=1.25 | total_mult=0.29 | cash_left=$1,579.82
+2012-06-25 13:00:00 2012-06-25 13:00:00: Gate-approved DCA buy 3 @ 103.61 spent $310.83 | EMAΔ -1.49%≤-1.00% i=0.49 P=1.7 m=0.31 | ATR ratio=0.0048 p=0.51 m=1.26 | total_mult=0.39 | cash_left=$1,267.99
+2012-06-25 14:00:00 2012-06-25 14:00:00: Gate-approved DCA buy 4 @ 103.81 spent $415.23 | EMAΔ -1.27%≤-1.00% i=0.27 P=1.9 m=0.36 | ATR ratio=0.0047 p=0.51 m=1.27 | total_mult=0.45 | cash_left=$851.76
+2012-07-25 10:00:00 2012-07-25 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,851.76
+2012-07-25 11:00:00 2012-07-25 11:00:00: Gate-approved DCA buy 1 @ 105.40 spent $105.40 | EMAΔ -1.44%≤-1.00% i=0.44 P=0.4 m=0.12 | ATR ratio=0.0044 p=0.41 m=1.40 | total_mult=0.17 | cash_left=$1,745.36
+2012-07-25 12:00:00 2012-07-25 12:00:00: Gate-approved DCA buy 1 @ 105.64 spent $105.64 | EMAΔ -1.19%≤-1.00% i=0.19 P=0.6 m=0.15 | ATR ratio=0.0044 p=0.41 m=1.41 | total_mult=0.21 | cash_left=$1,638.72
+2012-07-25 13:00:00 2012-07-25 13:00:00: Gate-approved DCA buy 2 @ 105.79 spent $211.58 | EMAΔ -1.02%≤-1.00% i=0.02 P=0.6 m=0.15 | ATR ratio=0.0044 p=0.40 m=1.42 | total_mult=0.22 | cash_left=$1,426.13
+2012-08-27 10:00:00 2012-08-27 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,426.13
+2012-09-26 11:00:00 2012-09-26 11:00:00: Gate-approved DCA buy 1 @ 113.70 spent $113.70 | EMAΔ -1.26%≤-1.00% i=0.26 P=0.3 m=0.09 | ATR ratio=0.0031 p=0.10 m=1.85 | total_mult=0.17 | cash_left=$2,311.44
+2012-09-27 10:00:00 2012-09-27 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$3,311.44
+2012-10-10 13:00:00 2012-10-10 13:00:00: Gate-approved DCA buy 1 @ 113.79 spent $113.79 | EMAΔ -1.22%≤-1.00% i=0.22 P=0.2 m=0.08 | ATR ratio=0.0033 p=0.26 m=1.62 | total_mult=0.14 | cash_left=$3,196.64
+2012-10-10 14:00:00 2012-10-10 14:00:00: Gate-approved DCA buy 1 @ 113.85 spent $113.85 | EMAΔ -1.14%≤-1.00% i=0.14 P=0.4 m=0.11 | ATR ratio=0.0033 p=0.26 m=1.63 | total_mult=0.17 | cash_left=$3,081.79
+2012-10-10 15:00:00 2012-10-10 15:00:00: Gate-approved DCA buy 1 @ 113.87 spent $113.87 | EMAΔ -1.10%≤-1.00% i=0.10 P=0.5 m=0.12 | ATR ratio=0.0033 p=0.25 m=1.64 | total_mult=0.20 | cash_left=$2,966.93
+2012-10-10 16:00:00 2012-10-10 16:00:00: Gate-approved DCA buy 1 @ 113.87 spent $113.87 | EMAΔ -1.07%≤-1.00% i=0.07 P=0.5 m=0.13 | ATR ratio=0.0033 p=0.25 m=1.64 | total_mult=0.22 | cash_left=$2,966.93
+2012-10-12 12:00:00 2012-10-12 12:00:00: Gate-approved DCA buy 1 @ 113.52 spent $113.52 | EMAΔ -1.20%≤-1.00% i=0.20 P=0.2 m=0.08 | ATR ratio=0.0034 p=0.30 m=1.57 | total_mult=0.13 | cash_left=$2,736.75
+2012-10-12 13:00:00 2012-10-12 13:00:00: Gate-approved DCA buy 1 @ 113.53 spent $113.53 | EMAΔ -1.16%≤-1.00% i=0.16 P=0.4 m=0.11 | ATR ratio=0.0034 p=0.29 m=1.58 | total_mult=0.17 | cash_left=$2,622.22
+2012-10-12 14:00:00 2012-10-12 14:00:00: Gate-approved DCA buy 1 @ 113.57 spent $113.57 | EMAΔ -1.09%≤-1.00% i=0.09 P=0.4 m=0.12 | ATR ratio=0.0034 p=0.28 m=1.59 | total_mult=0.19 | cash_left=$2,507.65
+2012-10-12 16:00:00 2012-10-12 16:00:00: Gate-approved DCA buy 1 @ 113.52 spent $113.52 | EMAΔ -1.09%≤-1.00% i=0.09 P=0.1 m=0.06 | ATR ratio=0.0033 p=0.28 m=1.60 | total_mult=0.12 | cash_left=$2,507.65
+2012-10-19 16:00:00 2012-10-19 16:00:00: Gate-approved DCA buy 1 @ 113.88 spent $113.88 | EMAΔ -1.01%≤-1.00% i=0.01 P=0.0 m=0.05 | ATR ratio=0.0034 p=0.31 m=1.55 | total_mult=0.12 | cash_left=$2,392.82
+2012-10-22 12:00:00 2012-10-22 12:00:00: Gate-approved DCA buy 1 @ 113.79 spent $113.79 | EMAΔ -1.01%≤-1.00% i=0.01 P=0.0 m=0.05 | ATR ratio=0.0034 p=0.32 m=1.54 | total_mult=0.12 | cash_left=$2,163.22
+2012-10-22 13:00:00 2012-10-22 13:00:00: Gate-approved DCA buy 1 @ 113.64 spent $113.64 | EMAΔ -1.12%≤-1.00% i=0.12 P=0.1 m=0.07 | ATR ratio=0.0034 p=0.31 m=1.55 | total_mult=0.12 | cash_left=$2,048.59
+2012-10-22 14:00:00 2012-10-22 14:00:00: Gate-approved DCA buy 1 @ 113.26 spent $113.26 | EMAΔ -1.41%≤-1.00% i=0.41 P=0.5 m=0.13 | ATR ratio=0.0034 p=0.33 m=1.52 | total_mult=0.20 | cash_left=$1,934.33
+2012-10-22 15:00:00 2012-10-22 15:00:00: Gate-approved DCA buy 2 @ 113.29 spent $226.57 | EMAΔ -1.35%≤-1.00% i=0.35 P=0.9 m=0.19 | ATR ratio=0.0034 p=0.33 m=1.53 | total_mult=0.29 | cash_left=$1,706.76
+2012-10-23 10:00:00 2012-10-23 10:00:00: Gate-approved DCA buy 2 @ 112.51 spent $225.03 | EMAΔ -1.96%≤-1.00% i=0.96 P=1.0 m=0.20 | ATR ratio=0.0036 p=0.41 m=1.41 | total_mult=0.28 | cash_left=$1,480.73
+2012-10-23 11:00:00 2012-10-23 11:00:00: Gate-approved DCA buy 4 @ 112.20 spent $448.79 | EMAΔ -2.18%≤-1.00% i=1.00 P=2.0 m=0.36 | ATR ratio=0.0036 p=0.42 m=1.38 | total_mult=0.50 | cash_left=$1,030.94
+2012-10-23 12:00:00 2012-10-23 12:00:00: Gate-approved DCA buy 6 @ 112.25 spent $673.51 | EMAΔ -2.08%≤-1.00% i=1.00 P=3.0 m=0.52 | ATR ratio=0.0036 p=0.42 m=1.39 | total_mult=0.72 | cash_left=$356.43
+2012-10-31 10:00:00 2012-10-31 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,356.43
+2012-10-31 11:00:00 2012-10-31 11:00:00: Gate-approved DCA buy 1 @ 112.27 spent $112.27 | EMAΔ -1.09%≤-1.00% i=0.09 P=0.1 m=0.06 | ATR ratio=0.0038 p=0.47 m=1.31 | total_mult=0.12 | cash_left=$1,243.16
+2012-10-31 12:00:00 2012-10-31 12:00:00: Gate-approved DCA buy 1 @ 112.13 spent $112.13 | EMAΔ -1.18%≤-1.00% i=0.18 P=0.3 m=0.09 | ATR ratio=0.0038 p=0.47 m=1.31 | total_mult=0.12 | cash_left=$1,130.03
+2012-10-31 13:00:00 2012-10-31 13:00:00: Gate-approved DCA buy 1 @ 112.03 spent $112.03 | EMAΔ -1.24%≤-1.00% i=0.24 P=0.5 m=0.13 | ATR ratio=0.0038 p=0.47 m=1.31 | total_mult=0.17 | cash_left=$1,017.00
+2012-10-31 14:00:00 2012-10-31 14:00:00: Gate-approved DCA buy 1 @ 112.09 spent $112.09 | EMAΔ -1.16%≤-1.00% i=0.16 P=0.7 m=0.16 | ATR ratio=0.0038 p=0.47 m=1.32 | total_mult=0.21 | cash_left=$903.91
+2012-11-30 10:00:00 2012-11-30 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,903.91
+2012-12-27 12:00:00 2012-12-27 12:00:00: Gate-approved DCA buy 1 @ 112.50 spent $112.50 | EMAΔ -1.16%≤-1.00% i=0.16 P=0.2 m=0.08 | ATR ratio=0.0037 p=0.48 m=1.30 | total_mult=0.12 | cash_left=$1,790.41
+2012-12-27 13:00:00 2012-12-27 13:00:00: Gate-approved DCA buy 1 @ 112.34 spent $112.34 | EMAΔ -1.28%≤-1.00% i=0.28 P=0.4 m=0.12 | ATR ratio=0.0037 p=0.49 m=1.29 | total_mult=0.15 | cash_left=$1,677.07
+2012-12-27 14:00:00 2012-12-27 14:00:00: Gate-approved DCA buy 1 @ 112.26 spent $112.26 | EMAΔ -1.32%≤-1.00% i=0.32 P=0.8 m=0.17 | ATR ratio=0.0037 p=0.49 m=1.29 | total_mult=0.22 | cash_left=$1,563.82
+2012-12-28 16:00:00 2012-12-28 16:00:00: Gate-approved DCA buy 1 @ 111.94 spent $111.94 | EMAΔ -1.41%≤-1.00% i=0.41 P=0.4 m=0.11 | ATR ratio=0.0038 p=0.55 m=1.20 | total_mult=0.14 | cash_left=$1,563.82
+2012-12-31 10:00:00 2012-12-31 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,450.99
+2012-12-31 11:00:00 2012-12-31 11:00:00: Gate-approved DCA buy 1 @ 112.27 spent $112.27 | EMAΔ -1.06%≤-1.00% i=0.06 P=0.1 m=0.06 | ATR ratio=0.0039 p=0.56 m=1.19 | total_mult=0.12 | cash_left=$2,337.72
+2013-01-31 10:00:00 2013-01-31 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$3,337.72
+2013-02-25 16:00:00 2013-02-25 16:00:00: Gate-approved DCA buy 2 @ 119.26 spent $238.52 | EMAΔ -1.60%≤-1.00% i=0.60 P=0.6 m=0.15 | ATR ratio=0.0030 p=0.17 m=1.75 | total_mult=0.25 | cash_left=$3,337.72
+2013-02-26 11:00:00 2013-02-26 11:00:00: Gate-approved DCA buy 1 @ 119.58 spent $119.58 | EMAΔ -1.28%≤-1.00% i=0.28 P=0.3 m=0.09 | ATR ratio=0.0031 p=0.21 m=1.69 | total_mult=0.16 | cash_left=$2,976.52
+2013-02-26 12:00:00 2013-02-26 12:00:00: Gate-approved DCA buy 2 @ 119.33 spent $238.66 | EMAΔ -1.45%≤-1.00% i=0.45 P=0.7 m=0.17 | ATR ratio=0.0031 p=0.22 m=1.68 | total_mult=0.28 | cash_left=$2,736.86
+2013-02-26 13:00:00 2013-02-26 13:00:00: Gate-approved DCA buy 2 @ 119.78 spent $239.56 | EMAΔ -1.05%≤-1.00% i=0.05 P=0.8 m=0.17 | ATR ratio=0.0031 p=0.23 m=1.67 | total_mult=0.29 | cash_left=$2,496.30
+2013-02-28 10:00:00 2013-02-28 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$3,496.30
+2013-03-28 10:00:00 2013-03-28 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$4,496.30
+2013-04-05 10:00:00 2013-04-05 10:00:00: Gate-approved DCA buy 1 @ 123.77 spent $123.77 | EMAΔ -1.08%≤-1.00% i=0.08 P=0.1 m=0.06 | ATR ratio=0.0032 p=0.30 m=1.57 | total_mult=0.12 | cash_left=$4,371.52
+2013-04-15 16:00:00 2013-04-15 16:00:00: Gate-approved DCA buy 1 @ 124.75 spent $124.75 | EMAΔ -1.11%≤-1.00% i=0.11 P=0.1 m=0.07 | ATR ratio=0.0033 p=0.37 m=1.47 | total_mult=0.12 | cash_left=$4,371.52
+2013-04-17 11:00:00 2013-04-17 11:00:00: Gate-approved DCA buy 1 @ 124.39 spent $124.39 | EMAΔ -1.33%≤-1.00% i=0.33 P=0.3 m=0.10 | ATR ratio=0.0035 p=0.47 m=1.31 | total_mult=0.13 | cash_left=$4,119.46
+2013-04-17 12:00:00 2013-04-17 12:00:00: Gate-approved DCA buy 1 @ 124.55 spent $124.55 | EMAΔ -1.17%≤-1.00% i=0.17 P=0.5 m=0.13 | ATR ratio=0.0035 p=0.47 m=1.31 | total_mult=0.17 | cash_left=$3,993.91
+2013-04-17 13:00:00 2013-04-17 13:00:00: Gate-approved DCA buy 1 @ 124.43 spent $124.43 | EMAΔ -1.24%≤-1.00% i=0.24 P=0.7 m=0.17 | ATR ratio=0.0035 p=0.48 m=1.30 | total_mult=0.22 | cash_left=$3,868.48
+2013-04-17 14:00:00 2013-04-17 14:00:00: Gate-approved DCA buy 1 @ 124.69 spent $124.69 | EMAΔ -1.01%≤-1.00% i=0.01 P=0.8 m=0.17 | ATR ratio=0.0035 p=0.49 m=1.29 | total_mult=0.22 | cash_left=$3,742.79
+2013-04-18 10:00:00 2013-04-18 10:00:00: Gate-approved DCA buy 1 @ 124.33 spent $124.33 | EMAΔ -1.22%≤-1.00% i=0.22 P=0.2 m=0.08 | ATR ratio=0.0036 p=0.51 m=1.26 | total_mult=0.12 | cash_left=$3,617.46
+2013-04-18 12:00:00 2013-04-18 12:00:00: Gate-approved DCA buy 1 @ 124.20 spent $124.20 | EMAΔ -1.26%≤-1.00% i=0.26 P=0.3 m=0.09 | ATR ratio=0.0036 p=0.54 m=1.22 | total_mult=0.12 | cash_left=$3,492.26
+2013-04-18 13:00:00 2013-04-18 13:00:00: Gate-approved DCA buy 1 @ 124.33 spent $124.33 | EMAΔ -1.13%≤-1.00% i=0.13 P=0.4 m=0.11 | ATR ratio=0.0036 p=0.53 m=1.23 | total_mult=0.14 | cash_left=$3,366.93
+2013-04-18 14:00:00 2013-04-18 14:00:00: Gate-approved DCA buy 1 @ 124.18 spent $124.18 | EMAΔ -1.22%≤-1.00% i=0.22 P=0.6 m=0.15 | ATR ratio=0.0036 p=0.53 m=1.23 | total_mult=0.18 | cash_left=$3,241.75
+2013-04-18 15:00:00 2013-04-18 15:00:00: Gate-approved DCA buy 2 @ 123.60 spent $247.21 | EMAΔ -1.64%≤-1.00% i=0.64 P=1.3 m=0.25 | ATR ratio=0.0037 p=0.56 m=1.19 | total_mult=0.30 | cash_left=$2,993.54
+2013-04-18 16:00:00 2013-04-18 16:00:00: Gate-approved DCA buy 2 @ 123.92 spent $247.84 | EMAΔ -1.35%≤-1.00% i=0.35 P=1.6 m=0.31 | ATR ratio=0.0037 p=0.56 m=1.19 | total_mult=0.36 | cash_left=$2,993.54
+2013-04-19 10:00:00 2013-04-19 10:00:00: Gate-approved DCA buy 3 @ 124.17 spent $372.50 | EMAΔ -1.13%≤-1.00% i=0.13 P=1.7 m=0.33 | ATR ratio=0.0037 p=0.56 m=1.19 | total_mult=0.39 | cash_left=$2,370.72
+2013-04-29 10:00:00 2013-04-29 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$3,370.72
+2013-05-29 10:00:00 2013-05-29 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$4,370.72
+2013-06-03 11:00:00 2013-06-03 11:00:00: Gate-approved DCA buy 1 @ 131.32 spent $131.32 | EMAΔ -1.18%≤-1.00% i=0.18 P=0.6 m=0.15 | ATR ratio=0.0038 p=0.68 m=1.02 | total_mult=0.15 | cash_left=$4,238.40
+2013-06-03 12:00:00 2013-06-03 12:00:00: Gate-approved DCA buy 1 @ 131.13 spent $131.13 | EMAΔ -1.29%≤-1.00% i=0.29 P=0.9 m=0.19 | ATR ratio=0.0038 p=0.68 m=1.01 | total_mult=0.19 | cash_left=$4,106.27
+2013-06-03 13:00:00 2013-06-03 13:00:00: Gate-approved DCA buy 1 @ 131.23 spent $131.23 | EMAΔ -1.19%≤-1.00% i=0.19 P=1.1 m=0.22 | ATR ratio=0.0038 p=0.68 m=1.02 | total_mult=0.23 | cash_left=$3,974.05
+2013-06-03 14:00:00 2013-06-03 14:00:00: Gate-approved DCA buy 1 @ 131.33 spent $131.33 | EMAΔ -1.08%≤-1.00% i=0.08 P=1.2 m=0.24 | ATR ratio=0.0038 p=0.67 m=1.03 | total_mult=0.24 | cash_left=$3,841.72
+2013-06-05 11:00:00 2013-06-05 11:00:00: Gate-approved DCA buy 1 @ 130.56 spent $130.56 | EMAΔ -1.46%≤-1.00% i=0.46 P=0.6 m=0.14 | ATR ratio=0.0039 p=0.71 m=0.97 | total_mult=0.14 | cash_left=$3,710.16
+2013-06-05 12:00:00 2013-06-05 12:00:00: Gate-approved DCA buy 1 @ 130.18 spent $130.18 | EMAΔ -1.70%≤-1.00% i=0.70 P=1.3 m=0.26 | ATR ratio=0.0039 p=0.72 m=0.96 | total_mult=0.25 | cash_left=$3,578.98
+2013-06-05 13:00:00 2013-06-05 13:00:00: Gate-approved DCA buy 2 @ 129.82 spent $259.64 | EMAΔ -1.93%≤-1.00% i=0.93 P=2.2 m=0.40 | ATR ratio=0.0039 p=0.72 m=0.96 | total_mult=0.39 | cash_left=$3,318.34
+2013-06-05 14:00:00 2013-06-05 14:00:00: Gate-approved DCA buy 3 @ 130.05 spent $390.16 | EMAΔ -1.71%≤-1.00% i=0.71 P=2.9 m=0.52 | ATR ratio=0.0040 p=0.72 m=0.95 | total_mult=0.49 | cash_left=$2,927.18
+2013-06-05 15:00:00 2013-06-05 15:00:00: Gate-approved DCA buy 4 @ 129.95 spent $519.79 | EMAΔ -1.74%≤-1.00% i=0.74 P=3.7 m=0.63 | ATR ratio=0.0040 p=0.72 m=0.95 | total_mult=0.60 | cash_left=$2,406.39
+2013-06-05 16:00:00 2013-06-05 16:00:00: Gate-approved DCA buy 5 @ 129.58 spent $647.89 | EMAΔ -1.98%≤-1.00% i=0.98 P=4.7 m=0.79 | ATR ratio=0.0040 p=0.73 m=0.95 | total_mult=0.75 | cash_left=$2,406.39
+2013-06-06 10:00:00 2013-06-06 10:00:00: Gate-approved DCA buy 6 @ 130.00 spent $779.98 | EMAΔ -1.62%≤-1.00% i=0.62 P=5.3 m=0.89 | ATR ratio=0.0040 p=0.73 m=0.94 | total_mult=0.84 | cash_left=$976.49
+2013-07-01 10:00:00 2013-07-01 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,976.49
+2013-08-01 10:00:00 2013-08-01 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,976.49
+2013-08-15 10:00:00 2013-08-15 10:00:00: Gate-approved DCA buy 1 @ 134.66 spent $134.66 | EMAΔ -1.52%≤-1.00% i=0.52 P=0.5 m=0.13 | ATR ratio=0.0030 p=0.28 m=1.59 | total_mult=0.21 | cash_left=$2,840.82
+2013-08-15 11:00:00 2013-08-15 11:00:00: Gate-approved DCA buy 2 @ 134.48 spent $268.97 | EMAΔ -1.61%≤-1.00% i=0.61 P=1.1 m=0.23 | ATR ratio=0.0031 p=0.29 m=1.58 | total_mult=0.36 | cash_left=$2,570.86
+2013-08-15 12:00:00 2013-08-15 12:00:00: Gate-approved DCA buy 3 @ 134.77 spent $404.30 | EMAΔ -1.37%≤-1.00% i=0.37 P=1.5 m=0.29 | ATR ratio=0.0031 p=0.29 m=1.58 | total_mult=0.46 | cash_left=$2,165.56
+2013-08-15 13:00:00 2013-08-15 13:00:00: Gate-approved DCA buy 4 @ 134.69 spent $538.78 | EMAΔ -1.39%≤-1.00% i=0.39 P=1.9 m=0.35 | ATR ratio=0.0031 p=0.28 m=1.59 | total_mult=0.56 | cash_left=$1,625.78
+2013-08-15 14:00:00 2013-08-15 14:00:00: Gate-approved DCA buy 5 @ 134.55 spent $672.74 | EMAΔ -1.46%≤-1.00% i=0.46 P=2.4 m=0.42 | ATR ratio=0.0031 p=0.29 m=1.59 | total_mult=0.67 | cash_left=$952.04
+2013-09-03 10:00:00 2013-09-03 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,952.04
+2013-10-03 10:00:00 2013-10-03 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,952.04
+2013-10-08 12:00:00 2013-10-08 12:00:00: Gate-approved DCA buy 1 @ 135.10 spent $135.10 | EMAΔ -1.31%≤-1.00% i=0.31 P=0.4 m=0.11 | ATR ratio=0.0033 p=0.55 m=1.20 | total_mult=0.14 | cash_left=$2,815.94
+2013-10-08 13:00:00 2013-10-08 13:00:00: Gate-approved DCA buy 1 @ 135.03 spent $135.03 | EMAΔ -1.33%≤-1.00% i=0.33 P=0.7 m=0.17 | ATR ratio=0.0033 p=0.55 m=1.20 | total_mult=0.20 | cash_left=$2,679.91
+2013-10-08 14:00:00 2013-10-08 14:00:00: Gate-approved DCA buy 2 @ 134.75 spent $269.50 | EMAΔ -1.49%≤-1.00% i=0.49 P=1.2 m=0.24 | ATR ratio=0.0033 p=0.56 m=1.19 | total_mult=0.29 | cash_left=$2,409.41
+2013-10-08 15:00:00 2013-10-08 15:00:00: Gate-approved DCA buy 2 @ 134.75 spent $269.50 | EMAΔ -1.45%≤-1.00% i=0.45 P=1.7 m=0.31 | ATR ratio=0.0033 p=0.56 m=1.19 | total_mult=0.37 | cash_left=$2,138.91
+2013-10-08 16:00:00 2013-10-08 16:00:00: Gate-approved DCA buy 3 @ 134.39 spent $403.18 | EMAΔ -1.67%≤-1.00% i=0.67 P=2.3 m=0.42 | ATR ratio=0.0033 p=0.59 m=1.15 | total_mult=0.49 | cash_left=$2,138.91
+2013-10-09 10:00:00 2013-10-09 10:00:00: Gate-approved DCA buy 4 @ 134.51 spent $538.03 | EMAΔ -1.55%≤-1.00% i=0.55 P=2.9 m=0.51 | ATR ratio=0.0033 p=0.59 m=1.15 | total_mult=0.58 | cash_left=$1,194.87
+2013-10-09 11:00:00 2013-10-09 11:00:00: Gate-approved DCA buy 5 @ 134.00 spent $670.02 | EMAΔ -1.87%≤-1.00% i=0.87 P=3.8 m=0.65 | ATR ratio=0.0034 p=0.60 m=1.13 | total_mult=0.73 | cash_left=$523.86
+2013-11-04 10:00:00 2013-11-04 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,523.86
+2013-12-04 10:00:00 2013-12-04 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,523.86
+2014-01-06 10:00:00 2014-01-06 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$3,523.86
+2014-01-24 11:00:00 2014-01-24 11:00:00: Gate-approved DCA buy 1 @ 147.51 spent $147.51 | EMAΔ -1.49%≤-1.00% i=0.49 P=0.6 m=0.15 | ATR ratio=0.0028 p=0.27 m=1.61 | total_mult=0.24 | cash_left=$3,375.35
+2014-01-24 12:00:00 2014-01-24 12:00:00: Gate-approved DCA buy 2 @ 147.45 spent $294.91 | EMAΔ -1.49%≤-1.00% i=0.49 P=1.1 m=0.23 | ATR ratio=0.0029 p=0.29 m=1.58 | total_mult=0.36 | cash_left=$3,079.44
+2014-01-24 13:00:00 2014-01-24 13:00:00: Gate-approved DCA buy 3 @ 147.28 spent $441.84 | EMAΔ -1.57%≤-1.00% i=0.57 P=1.7 m=0.32 | ATR ratio=0.0029 p=0.30 m=1.57 | total_mult=0.50 | cash_left=$2,636.60
+2014-01-24 14:00:00 2014-01-24 14:00:00: Gate-approved DCA buy 4 @ 147.10 spent $588.41 | EMAΔ -1.65%≤-1.00% i=0.65 P=2.3 m=0.42 | ATR ratio=0.0029 p=0.30 m=1.57 | total_mult=0.66 | cash_left=$2,047.19
+2014-01-24 15:00:00 2014-01-24 15:00:00: Gate-approved DCA buy 5 @ 146.73 spent $733.63 | EMAΔ -1.85%≤-1.00% i=0.85 P=3.2 m=0.56 | ATR ratio=0.0029 p=0.31 m=1.55 | total_mult=0.86 | cash_left=$1,312.56
+2014-01-24 16:00:00 2014-01-24 16:00:00: Gate-approved DCA buy 7 @ 146.03 spent $1,022.22 | EMAΔ -2.26%≤-1.00% i=1.00 P=4.2 m=0.71 | ATR ratio=0.0029 p=0.35 m=1.49 | total_mult=1.06 | cash_left=$1,312.56
+2014-02-06 10:00:00 2014-02-06 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,288.08
+2014-02-06 10:00:00 2014-02-06 10:00:00: Gate-approved DCA buy 4 @ 144.06 spent $576.26 | EMAΔ -1.01%≤-1.00% i=0.01 P=6.0 m=1.00 | ATR ratio=0.0038 p=0.89 m=0.71 | total_mult=0.71 | cash_left=$710.82
+2014-03-06 10:00:00 2014-03-06 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,710.82
+2014-04-07 10:00:00 2014-04-07 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,710.82
+2014-04-07 15:00:00 2014-04-07 15:00:00: Gate-approved DCA buy 1 @ 151.49 spent $151.49 | EMAΔ -1.12%≤-1.00% i=0.12 P=0.8 m=0.18 | ATR ratio=0.0035 p=0.80 m=0.84 | total_mult=0.16 | cash_left=$2,558.33
+2014-04-07 16:00:00 2014-04-07 16:00:00: Gate-approved DCA buy 1 @ 151.20 spent $151.20 | EMAΔ -1.28%≤-1.00% i=0.28 P=1.1 m=0.23 | ATR ratio=0.0035 p=0.80 m=0.84 | total_mult=0.19 | cash_left=$2,558.33
+2014-04-08 10:00:00 2014-04-08 10:00:00: Gate-approved DCA buy 1 @ 151.09 spent $151.09 | EMAΔ -1.32%≤-1.00% i=0.32 P=1.4 m=0.28 | ATR ratio=0.0035 p=0.80 m=0.83 | total_mult=0.23 | cash_left=$2,254.18
+2014-04-08 11:00:00 2014-04-08 11:00:00: Gate-approved DCA buy 1 @ 151.36 spent $151.36 | EMAΔ -1.11%≤-1.00% i=0.11 P=1.6 m=0.30 | ATR ratio=0.0036 p=0.81 m=0.83 | total_mult=0.25 | cash_left=$2,101.82
+2014-04-11 10:00:00 2014-04-11 10:00:00: Gate-approved DCA buy 1 @ 149.85 spent $149.85 | EMAΔ -1.79%≤-1.00% i=0.79 P=1.7 m=0.31 | ATR ratio=0.0037 p=0.86 m=0.76 | total_mult=0.24 | cash_left=$1,950.97
+2014-04-11 11:00:00 2014-04-11 11:00:00: Gate-approved DCA buy 1 @ 150.20 spent $150.20 | EMAΔ -1.52%≤-1.00% i=0.52 P=2.2 m=0.40 | ATR ratio=0.0037 p=0.86 m=0.75 | total_mult=0.30 | cash_left=$1,799.77
+2014-04-11 12:00:00 2014-04-11 12:00:00: Gate-approved DCA buy 2 @ 149.81 spent $299.61 | EMAΔ -1.74%≤-1.00% i=0.74 P=2.9 m=0.51 | ATR ratio=0.0037 p=0.87 m=0.74 | total_mult=0.38 | cash_left=$1,499.16
+2014-04-11 13:00:00 2014-04-11 13:00:00: Gate-approved DCA buy 3 @ 149.76 spent $449.29 | EMAΔ -1.72%≤-1.00% i=0.72 P=3.6 m=0.63 | ATR ratio=0.0037 p=0.87 m=0.74 | total_mult=0.46 | cash_left=$1,048.87
+2014-04-11 14:00:00 2014-04-11 14:00:00: Gate-approved DCA buy 3 @ 149.31 spent $447.94 | EMAΔ -1.97%≤-1.00% i=0.97 P=4.6 m=0.78 | ATR ratio=0.0037 p=0.87 m=0.74 | total_mult=0.58 | cash_left=$599.93
+2014-05-07 10:00:00 2014-05-07 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,599.93
+2014-06-09 10:00:00 2014-06-09 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,599.93
+2014-07-09 10:00:00 2014-07-09 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$3,599.93
+2014-07-31 11:00:00 2014-07-31 11:00:00: Gate-approved DCA buy 1 @ 160.09 spent $160.09 | EMAΔ -1.58%≤-1.00% i=0.58 P=0.7 m=0.15 | ATR ratio=0.0026 p=0.24 m=1.65 | total_mult=0.25 | cash_left=$3,438.84
+2014-07-31 12:00:00 2014-07-31 12:00:00: Gate-approved DCA buy 2 @ 159.87 spent $319.74 | EMAΔ -1.67%≤-1.00% i=0.67 P=1.3 m=0.26 | ATR ratio=0.0026 p=0.25 m=1.64 | total_mult=0.43 | cash_left=$3,118.10
+2014-07-31 13:00:00 2014-07-31 13:00:00: Gate-approved DCA buy 3 @ 160.05 spent $480.16 | EMAΔ -1.52%≤-1.00% i=0.52 P=1.9 m=0.34 | ATR ratio=0.0026 p=0.25 m=1.63 | total_mult=0.56 | cash_left=$2,636.94
+2014-07-31 14:00:00 2014-07-31 14:00:00: Gate-approved DCA buy 4 @ 160.08 spent $640.31 | EMAΔ -1.47%≤-1.00% i=0.47 P=2.3 m=0.42 | ATR ratio=0.0026 p=0.26 m=1.63 | total_mult=0.68 | cash_left=$1,995.63
+2014-07-31 15:00:00 2014-07-31 15:00:00: Gate-approved DCA buy 5 @ 159.48 spent $797.42 | EMAΔ -1.79%≤-1.00% i=0.79 P=3.1 m=0.54 | ATR ratio=0.0027 p=0.27 m=1.61 | total_mult=0.87 | cash_left=$1,197.21
+2014-07-31 16:00:00 2014-07-31 16:00:00: Gate-approved DCA buy 6 @ 159.14 spent $954.83 | EMAΔ -1.96%≤-1.00% i=0.96 P=4.1 m=0.69 | ATR ratio=0.0027 p=0.28 m=1.59 | total_mult=1.11 | cash_left=$1,197.21
+2014-08-11 10:00:00 2014-08-11 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,243.90
+2014-09-11 10:00:00 2014-09-11 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,243.90
+2014-09-25 14:00:00 2014-09-25 14:00:00: Gate-approved DCA buy 1 @ 162.68 spent $162.68 | EMAΔ -1.25%≤-1.00% i=0.25 P=0.6 m=0.14 | ATR ratio=0.0028 p=0.45 m=1.35 | total_mult=0.19 | cash_left=$2,080.22
+2014-09-25 15:00:00 2014-09-25 15:00:00: Gate-approved DCA buy 1 @ 162.85 spent $162.85 | EMAΔ -1.13%≤-1.00% i=0.13 P=0.7 m=0.16 | ATR ratio=0.0028 p=0.45 m=1.34 | total_mult=0.22 | cash_left=$1,916.37
+2014-09-25 16:00:00 2014-09-25 16:00:00: Gate-approved DCA buy 1 @ 162.57 spent $162.57 | EMAΔ -1.26%≤-1.00% i=0.26 P=1.0 m=0.20 | ATR ratio=0.0028 p=0.45 m=1.34 | total_mult=0.27 | cash_left=$1,916.37
+2014-09-26 10:00:00 2014-09-26 10:00:00: Gate-approved DCA buy 1 @ 162.90 spent $162.90 | EMAΔ -1.04%≤-1.00% i=0.04 P=1.0 m=0.21 | ATR ratio=0.0028 p=0.45 m=1.34 | total_mult=0.28 | cash_left=$1,588.60
+2014-10-01 13:00:00 2014-10-01 13:00:00: Gate-approved DCA buy 1 @ 161.52 spent $161.52 | EMAΔ -1.46%≤-1.00% i=0.46 P=1.0 m=0.20 | ATR ratio=0.0032 p=0.64 m=1.08 | total_mult=0.22 | cash_left=$1,426.08
+2014-10-01 14:00:00 2014-10-01 14:00:00: Gate-approved DCA buy 2 @ 160.93 spent $321.87 | EMAΔ -1.77%≤-1.00% i=0.77 P=1.7 m=0.33 | ATR ratio=0.0032 p=0.65 m=1.06 | total_mult=0.35 | cash_left=$1,103.21
+2014-10-01 15:00:00 2014-10-01 15:00:00: Gate-approved DCA buy 2 @ 160.82 spent $321.64 | EMAΔ -1.80%≤-1.00% i=0.80 P=2.5 m=0.45 | ATR ratio=0.0032 p=0.65 m=1.06 | total_mult=0.48 | cash_left=$780.57
+2014-10-13 10:00:00 2014-10-13 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,780.57
+2014-10-13 10:00:00 2014-10-13 10:00:00: Gate-approved DCA buy 3 @ 157.40 spent $472.20 | EMAΔ -2.57%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0042 p=1.00 m=0.55 | total_mult=0.55 | cash_left=$1,307.38
+2014-10-13 11:00:00 2014-10-13 11:00:00: Gate-approved DCA buy 3 @ 157.05 spent $471.15 | EMAΔ -2.71%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0042 p=1.00 m=0.55 | total_mult=0.55 | cash_left=$835.22
+2014-11-13 10:00:00 2014-11-13 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,835.22
+2014-12-10 15:00:00 2014-12-10 15:00:00: Gate-approved DCA buy 1 @ 168.14 spent $168.14 | EMAΔ -1.56%≤-1.00% i=0.56 P=0.7 m=0.16 | ATR ratio=0.0030 p=0.50 m=1.28 | total_mult=0.20 | cash_left=$1,666.08
+2014-12-10 16:00:00 2014-12-10 16:00:00: Gate-approved DCA buy 1 @ 168.22 spent $168.22 | EMAΔ -1.47%≤-1.00% i=0.47 P=1.2 m=0.24 | ATR ratio=0.0031 p=0.51 m=1.26 | total_mult=0.30 | cash_left=$1,666.08
+2014-12-12 11:00:00 2014-12-12 11:00:00: Gate-approved DCA buy 1 @ 167.48 spent $167.48 | EMAΔ -1.77%≤-1.00% i=0.77 P=0.9 m=0.19 | ATR ratio=0.0034 p=0.68 m=1.01 | total_mult=0.19 | cash_left=$1,327.78
+2014-12-12 12:00:00 2014-12-12 12:00:00: Gate-approved DCA buy 1 @ 167.14 spent $167.14 | EMAΔ -1.91%≤-1.00% i=0.91 P=1.8 m=0.33 | ATR ratio=0.0034 p=0.69 m=1.00 | total_mult=0.33 | cash_left=$1,159.64
+2014-12-12 13:00:00 2014-12-12 13:00:00: Gate-approved DCA buy 2 @ 167.62 spent $335.23 | EMAΔ -1.60%≤-1.00% i=0.60 P=2.4 m=0.43 | ATR ratio=0.0034 p=0.69 m=0.99 | total_mult=0.42 | cash_left=$823.40
+2014-12-15 10:00:00 2014-12-15 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,823.40
+2014-12-15 10:00:00 2014-12-15 10:00:00: Gate-approved DCA buy 3 @ 167.34 spent $502.03 | EMAΔ -1.59%≤-1.00% i=0.59 P=4.7 m=0.80 | ATR ratio=0.0035 p=0.80 m=0.84 | total_mult=0.67 | cash_left=$1,320.37
+2014-12-15 11:00:00 2014-12-15 11:00:00: Gate-approved DCA buy 4 @ 166.43 spent $665.73 | EMAΔ -2.08%≤-1.00% i=1.00 P=5.7 m=0.95 | ATR ratio=0.0036 p=0.84 m=0.79 | total_mult=0.75 | cash_left=$653.64
+2015-01-15 10:00:00 2015-01-15 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,653.64
+2015-01-15 10:00:00 2015-01-15 10:00:00: Gate-approved DCA buy 3 @ 166.46 spent $499.37 | EMAΔ -1.67%≤-1.00% i=0.67 P=6.0 m=1.00 | ATR ratio=0.0048 p=0.96 m=0.60 | total_mult=0.60 | cash_left=$1,153.28
+2015-01-15 11:00:00 2015-01-15 11:00:00: Gate-approved DCA buy 3 @ 166.79 spent $500.37 | EMAΔ -1.44%≤-1.00% i=0.44 P=6.0 m=1.00 | ATR ratio=0.0049 p=0.96 m=0.60 | total_mult=0.60 | cash_left=$651.91
+2015-02-17 10:00:00 2015-02-17 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,651.91
+2015-03-10 10:00:00 2015-03-10 10:00:00: Gate-approved DCA buy 1 @ 171.78 spent $171.78 | EMAΔ -1.57%≤-1.00% i=0.57 P=0.6 m=0.14 | ATR ratio=0.0033 p=0.52 m=1.24 | total_mult=0.18 | cash_left=$1,479.13
+2015-03-10 11:00:00 2015-03-10 11:00:00: Gate-approved DCA buy 1 @ 171.58 spent $171.58 | EMAΔ -1.65%≤-1.00% i=0.65 P=1.2 m=0.24 | ATR ratio=0.0034 p=0.53 m=1.24 | total_mult=0.30 | cash_left=$1,306.54
+2015-03-10 12:00:00 2015-03-10 12:00:00: Gate-approved DCA buy 2 @ 171.16 spent $342.32 | EMAΔ -1.84%≤-1.00% i=0.84 P=2.1 m=0.38 | ATR ratio=0.0034 p=0.54 m=1.22 | total_mult=0.46 | cash_left=$963.22
+2015-03-17 10:00:00 2015-03-17 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,963.22
+2015-03-26 10:00:00 2015-03-26 10:00:00: Gate-approved DCA buy 1 @ 171.28 spent $171.28 | EMAΔ -1.60%≤-1.00% i=0.60 P=0.8 m=0.17 | ATR ratio=0.0034 p=0.57 m=1.17 | total_mult=0.20 | cash_left=$1,790.94
+2015-03-26 11:00:00 2015-03-26 11:00:00: Gate-approved DCA buy 1 @ 171.65 spent $171.65 | EMAΔ -1.36%≤-1.00% i=0.36 P=1.1 m=0.23 | ATR ratio=0.0035 p=0.59 m=1.15 | total_mult=0.26 | cash_left=$1,618.30
+2015-03-26 12:00:00 2015-03-26 12:00:00: Gate-approved DCA buy 1 @ 172.13 spent $172.13 | EMAΔ -1.05%≤-1.00% i=0.05 P=1.2 m=0.24 | ATR ratio=0.0035 p=0.60 m=1.14 | total_mult=0.27 | cash_left=$1,445.16
+2015-03-26 13:00:00 2015-03-26 13:00:00: Gate-approved DCA buy 1 @ 172.10 spent $172.10 | EMAΔ -1.05%≤-1.00% i=0.05 P=1.2 m=0.25 | ATR ratio=0.0035 p=0.59 m=1.14 | total_mult=0.28 | cash_left=$1,272.07
+2015-04-17 10:00:00 2015-04-17 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,272.07
+2015-05-18 10:00:00 2015-05-18 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$3,272.07
+2015-06-09 10:00:00 2015-06-09 10:00:00: Gate-approved DCA buy 1 @ 173.95 spent $173.95 | EMAΔ -1.38%≤-1.00% i=0.38 P=0.6 m=0.14 | ATR ratio=0.0030 p=0.39 m=1.44 | total_mult=0.20 | cash_left=$3,097.12
+2015-06-09 11:00:00 2015-06-09 11:00:00: Gate-approved DCA buy 1 @ 174.44 spent $174.44 | EMAΔ -1.07%≤-1.00% i=0.07 P=0.6 m=0.15 | ATR ratio=0.0030 p=0.39 m=1.43 | total_mult=0.21 | cash_left=$2,921.68
+2015-06-18 10:00:00 2015-06-18 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$3,921.68
+2015-06-29 12:00:00 2015-06-29 12:00:00: Gate-approved DCA buy 1 @ 174.40 spent $174.40 | EMAΔ -1.33%≤-1.00% i=0.33 P=0.6 m=0.14 | ATR ratio=0.0029 p=0.32 m=1.53 | total_mult=0.21 | cash_left=$3,746.28
+2015-06-29 13:00:00 2015-06-29 13:00:00: Gate-approved DCA buy 1 @ 174.08 spent $174.08 | EMAΔ -1.47%≤-1.00% i=0.47 P=1.0 m=0.21 | ATR ratio=0.0029 p=0.33 m=1.52 | total_mult=0.33 | cash_left=$3,571.20
+2015-06-29 14:00:00 2015-06-29 14:00:00: Gate-approved DCA buy 2 @ 173.85 spent $347.70 | EMAΔ -1.56%≤-1.00% i=0.56 P=1.6 m=0.30 | ATR ratio=0.0029 p=0.32 m=1.53 | total_mult=0.46 | cash_left=$3,222.50
+2015-06-29 15:00:00 2015-06-29 15:00:00: Gate-approved DCA buy 3 @ 173.31 spent $519.94 | EMAΔ -1.82%≤-1.00% i=0.82 P=2.4 m=0.43 | ATR ratio=0.0030 p=0.34 m=1.50 | total_mult=0.65 | cash_left=$2,701.56
+2015-06-29 16:00:00 2015-06-29 16:00:00: Gate-approved DCA buy 4 @ 172.65 spent $690.60 | EMAΔ -2.14%≤-1.00% i=1.00 P=3.4 m=0.59 | ATR ratio=0.0030 p=0.37 m=1.46 | total_mult=0.86 | cash_left=$2,701.56
+2015-06-30 10:00:00 2015-06-30 10:00:00: Gate-approved DCA buy 5 @ 173.25 spent $866.23 | EMAΔ -1.76%≤-1.00% i=0.76 P=4.2 m=0.71 | ATR ratio=0.0030 p=0.41 m=1.41 | total_mult=1.00 | cash_left=$1,136.34
+2015-06-30 11:00:00 2015-06-30 11:00:00: Gate-approved DCA buy 6 @ 173.26 spent $1,039.58 | EMAΔ -1.71%≤-1.00% i=0.71 P=4.9 m=0.82 | ATR ratio=0.0031 p=0.41 m=1.40 | total_mult=1.16 | cash_left=$95.76
+2015-07-20 10:00:00 2015-07-20 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,095.76
+2015-07-27 10:00:00 2015-07-27 10:00:00: Gate-approved DCA buy 1 @ 173.89 spent $173.89 | EMAΔ -1.57%≤-1.00% i=0.57 P=0.8 m=0.18 | ATR ratio=0.0031 p=0.39 m=1.43 | total_mult=0.25 | cash_left=$920.87
+2015-08-20 10:00:00 2015-08-20 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,920.87
+2015-08-20 12:00:00 2015-08-20 12:00:00: Gate-approved DCA buy 1 @ 173.27 spent $173.27 | EMAΔ -1.31%≤-1.00% i=0.31 P=1.0 m=0.20 | ATR ratio=0.0035 p=0.67 m=1.03 | total_mult=0.21 | cash_left=$1,746.60
+2015-08-20 13:00:00 2015-08-20 13:00:00: Gate-approved DCA buy 1 @ 172.42 spent $172.42 | EMAΔ -1.75%≤-1.00% i=0.75 P=1.7 m=0.32 | ATR ratio=0.0035 p=0.69 m=1.00 | total_mult=0.32 | cash_left=$1,573.18
+2015-08-20 14:00:00 2015-08-20 14:00:00: Gate-approved DCA buy 2 @ 172.90 spent $345.80 | EMAΔ -1.44%≤-1.00% i=0.44 P=2.2 m=0.39 | ATR ratio=0.0035 p=0.69 m=1.00 | total_mult=0.39 | cash_left=$1,226.37
+2015-08-20 15:00:00 2015-08-20 15:00:00: Gate-approved DCA buy 3 @ 171.99 spent $515.96 | EMAΔ -1.92%≤-1.00% i=0.92 P=3.1 m=0.54 | ATR ratio=0.0036 p=0.70 m=0.99 | total_mult=0.53 | cash_left=$709.42
+2015-09-21 10:00:00 2015-09-21 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,709.42
+2015-09-22 12:00:00 2015-09-22 12:00:00: Gate-approved DCA buy 1 @ 163.28 spent $163.28 | EMAΔ -1.57%≤-1.00% i=0.57 P=1.5 m=0.28 | ATR ratio=0.0065 p=0.94 m=0.63 | total_mult=0.18 | cash_left=$1,545.14
+2015-09-22 13:00:00 2015-09-22 13:00:00: Gate-approved DCA buy 1 @ 162.87 spent $162.87 | EMAΔ -1.77%≤-1.00% i=0.77 P=2.2 m=0.40 | ATR ratio=0.0065 p=0.94 m=0.63 | total_mult=0.25 | cash_left=$1,381.27
+2015-09-22 14:00:00 2015-09-22 14:00:00: Gate-approved DCA buy 1 @ 163.17 spent $163.17 | EMAΔ -1.55%≤-1.00% i=0.55 P=2.8 m=0.49 | ATR ratio=0.0064 p=0.94 m=0.63 | total_mult=0.31 | cash_left=$1,217.10
+2015-09-22 15:00:00 2015-09-22 15:00:00: Gate-approved DCA buy 2 @ 163.42 spent $326.85 | EMAΔ -1.37%≤-1.00% i=0.37 P=3.1 m=0.55 | ATR ratio=0.0064 p=0.94 m=0.64 | total_mult=0.35 | cash_left=$889.25
+2015-10-21 10:00:00 2015-10-21 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,889.25
+2015-11-13 10:00:00 2015-11-13 10:00:00: Gate-approved DCA buy 1 @ 172.40 spent $172.40 | EMAΔ -1.76%≤-1.00% i=0.76 P=1.3 m=0.25 | ATR ratio=0.0040 p=0.66 m=1.05 | total_mult=0.26 | cash_left=$1,715.86
+2015-11-13 11:00:00 2015-11-13 11:00:00: Gate-approved DCA buy 2 @ 172.02 spent $344.05 | EMAΔ -1.93%≤-1.00% i=0.93 P=2.2 m=0.40 | ATR ratio=0.0041 p=0.66 m=1.04 | total_mult=0.41 | cash_left=$1,370.81
+2015-11-13 12:00:00 2015-11-13 12:00:00: Gate-approved DCA buy 3 @ 172.23 spent $516.68 | EMAΔ -1.77%≤-1.00% i=0.77 P=3.0 m=0.52 | ATR ratio=0.0041 p=0.66 m=1.04 | total_mult=0.54 | cash_left=$853.13
+2015-11-23 10:00:00 2015-11-23 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,853.13
+2015-12-03 15:00:00 2015-12-03 15:00:00: Gate-approved DCA buy 1 @ 173.65 spent $173.65 | EMAΔ -1.44%≤-1.00% i=0.44 P=0.8 m=0.17 | ATR ratio=0.0037 p=0.55 m=1.20 | total_mult=0.21 | cash_left=$1,678.47
+2015-12-03 16:00:00 2015-12-03 16:00:00: Gate-approved DCA buy 1 @ 173.69 spent $173.69 | EMAΔ -1.39%≤-1.00% i=0.39 P=1.2 m=0.24 | ATR ratio=0.0037 p=0.55 m=1.20 | total_mult=0.28 | cash_left=$1,678.47
+2015-12-09 14:00:00 2015-12-09 14:00:00: Gate-approved DCA buy 1 @ 173.20 spent $173.20 | EMAΔ -1.43%≤-1.00% i=0.43 P=1.1 m=0.22 | ATR ratio=0.0042 p=0.69 m=0.99 | total_mult=0.22 | cash_left=$1,329.15
+2015-12-09 15:00:00 2015-12-09 15:00:00: Gate-approved DCA buy 1 @ 172.94 spent $172.94 | EMAΔ -1.54%≤-1.00% i=0.54 P=1.6 m=0.31 | ATR ratio=0.0042 p=0.69 m=1.00 | total_mult=0.31 | cash_left=$1,155.21
+2015-12-09 16:00:00 2015-12-09 16:00:00: Gate-approved DCA buy 1 @ 173.48 spent $173.48 | EMAΔ -1.20%≤-1.00% i=0.20 P=1.8 m=0.34 | ATR ratio=0.0042 p=0.69 m=0.99 | total_mult=0.34 | cash_left=$1,155.21
+2015-12-23 10:00:00 2015-12-23 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,980.64
+2016-01-04 10:00:00 2016-01-04 10:00:00: Gate-approved DCA buy 1 @ 170.17 spent $170.17 | EMAΔ -2.26%≤-1.00% i=1.00 P=1.0 m=0.21 | ATR ratio=0.0045 p=0.70 m=0.98 | total_mult=0.20 | cash_left=$1,809.47
+2016-01-04 11:00:00 2016-01-04 11:00:00: Gate-approved DCA buy 2 @ 169.26 spent $338.51 | EMAΔ -2.72%≤-1.00% i=1.00 P=2.0 m=0.37 | ATR ratio=0.0046 p=0.71 m=0.98 | total_mult=0.36 | cash_left=$1,469.96
+2016-01-04 12:00:00 2016-01-04 12:00:00: Gate-approved DCA buy 3 @ 169.46 spent $508.38 | EMAΔ -2.54%≤-1.00% i=1.00 P=3.0 m=0.53 | ATR ratio=0.0046 p=0.70 m=0.98 | total_mult=0.51 | cash_left=$960.58
+2016-01-25 10:00:00 2016-01-25 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,960.58
+2016-02-08 10:00:00 2016-02-08 10:00:00: Gate-approved DCA buy 1 @ 156.87 spent $156.87 | EMAΔ -3.01%≤-1.00% i=1.00 P=2.1 m=0.39 | ATR ratio=0.0074 p=1.00 m=0.55 | total_mult=0.21 | cash_left=$1,802.70
+2016-02-08 11:00:00 2016-02-08 11:00:00: Gate-approved DCA buy 1 @ 156.58 spent $156.58 | EMAΔ -3.11%≤-1.00% i=1.00 P=3.1 m=0.55 | ATR ratio=0.0074 p=1.00 m=0.55 | total_mult=0.30 | cash_left=$1,645.12
+2016-02-08 12:00:00 2016-02-08 12:00:00: Gate-approved DCA buy 2 @ 156.58 spent $313.17 | EMAΔ -3.03%≤-1.00% i=1.00 P=4.1 m=0.70 | ATR ratio=0.0074 p=1.00 m=0.55 | total_mult=0.39 | cash_left=$1,330.95
+2016-02-08 13:00:00 2016-02-08 13:00:00: Gate-approved DCA buy 3 @ 156.66 spent $469.98 | EMAΔ -2.92%≤-1.00% i=1.00 P=5.1 m=0.86 | ATR ratio=0.0074 p=1.00 m=0.55 | total_mult=0.48 | cash_left=$859.98
+2016-02-25 10:00:00 2016-02-25 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,859.98
+2016-03-28 10:00:00 2016-03-28 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,859.98
+2016-04-28 10:00:00 2016-04-28 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$3,859.98
+2016-04-29 13:00:00 2016-04-29 13:00:00: Gate-approved DCA buy 1 @ 175.71 spent $175.71 | EMAΔ -1.17%≤-1.00% i=0.17 P=0.6 m=0.14 | ATR ratio=0.0034 p=0.31 m=1.55 | total_mult=0.22 | cash_left=$3,683.27
+2016-04-29 14:00:00 2016-04-29 14:00:00: Gate-approved DCA buy 1 @ 175.43 spent $175.43 | EMAΔ -1.29%≤-1.00% i=0.29 P=0.9 m=0.19 | ATR ratio=0.0034 p=0.32 m=1.54 | total_mult=0.29 | cash_left=$3,506.84
+2016-04-29 15:00:00 2016-04-29 15:00:00: Gate-approved DCA buy 2 @ 175.36 spent $350.73 | EMAΔ -1.30%≤-1.00% i=0.30 P=1.1 m=0.23 | ATR ratio=0.0034 p=0.32 m=1.54 | total_mult=0.36 | cash_left=$3,155.11
+2016-05-04 13:00:00 2016-05-04 13:00:00: Gate-approved DCA buy 1 @ 174.85 spent $174.85 | EMAΔ -1.27%≤-1.00% i=0.27 P=0.6 m=0.15 | ATR ratio=0.0035 p=0.33 m=1.52 | total_mult=0.22 | cash_left=$2,979.25
+2016-05-04 14:00:00 2016-05-04 14:00:00: Gate-approved DCA buy 1 @ 174.85 spent $174.85 | EMAΔ -1.24%≤-1.00% i=0.24 P=0.9 m=0.18 | ATR ratio=0.0035 p=0.33 m=1.53 | total_mult=0.28 | cash_left=$2,803.40
+2016-05-04 15:00:00 2016-05-04 15:00:00: Gate-approved DCA buy 1 @ 175.01 spent $175.01 | EMAΔ -1.12%≤-1.00% i=0.12 P=1.0 m=0.20 | ATR ratio=0.0035 p=0.32 m=1.53 | total_mult=0.31 | cash_left=$2,627.39
+2016-05-04 16:00:00 2016-05-04 16:00:00: Gate-approved DCA buy 1 @ 175.10 spent $175.10 | EMAΔ -1.05%≤-1.00% i=0.05 P=1.0 m=0.21 | ATR ratio=0.0035 p=0.32 m=1.53 | total_mult=0.32 | cash_left=$2,627.39
+2016-05-06 12:00:00 2016-05-06 12:00:00: Gate-approved DCA buy 1 @ 174.55 spent $174.55 | EMAΔ -1.12%≤-1.00% i=0.12 P=0.4 m=0.12 | ATR ratio=0.0035 p=0.33 m=1.52 | total_mult=0.18 | cash_left=$2,275.21
+2016-05-19 10:00:00 2016-05-19 10:00:00: Gate-approved DCA buy 1 @ 173.52 spent $173.52 | EMAΔ -1.45%≤-1.00% i=0.45 P=0.5 m=0.12 | ATR ratio=0.0036 p=0.35 m=1.49 | total_mult=0.18 | cash_left=$2,100.69
+2016-05-19 11:00:00 2016-05-19 11:00:00: Gate-approved DCA buy 1 @ 173.47 spent $173.47 | EMAΔ -1.45%≤-1.00% i=0.45 P=0.9 m=0.19 | ATR ratio=0.0036 p=0.36 m=1.49 | total_mult=0.29 | cash_left=$1,926.22
+2016-05-19 12:00:00 2016-05-19 12:00:00: Gate-approved DCA buy 2 @ 173.65 spent $347.30 | EMAΔ -1.31%≤-1.00% i=0.31 P=1.2 m=0.24 | ATR ratio=0.0036 p=0.35 m=1.49 | total_mult=0.36 | cash_left=$1,577.93
+2016-05-19 13:00:00 2016-05-19 13:00:00: Gate-approved DCA buy 2 @ 173.47 spent $346.94 | EMAΔ -1.38%≤-1.00% i=0.38 P=1.6 m=0.30 | ATR ratio=0.0036 p=0.35 m=1.49 | total_mult=0.45 | cash_left=$1,229.99
+2016-05-19 14:00:00 2016-05-19 14:00:00: Gate-approved DCA buy 2 @ 173.97 spent $347.94 | EMAΔ -1.07%≤-1.00% i=0.07 P=1.7 m=0.31 | ATR ratio=0.0036 p=0.35 m=1.49 | total_mult=0.47 | cash_left=$881.05
+2016-05-31 10:00:00 2016-05-31 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,881.05
+2016-06-14 11:00:00 2016-06-14 11:00:00: Gate-approved DCA buy 1 @ 176.98 spent $176.98 | EMAΔ -1.35%≤-1.00% i=0.35 P=0.4 m=0.11 | ATR ratio=0.0030 p=0.09 m=1.86 | total_mult=0.20 | cash_left=$1,703.07
+2016-06-14 12:00:00 2016-06-14 12:00:00: Gate-approved DCA buy 1 @ 177.01 spent $177.01 | EMAΔ -1.30%≤-1.00% i=0.30 P=0.7 m=0.15 | ATR ratio=0.0030 p=0.09 m=1.86 | total_mult=0.29 | cash_left=$1,525.06
+2016-06-14 13:00:00 2016-06-14 13:00:00: Gate-approved DCA buy 1 @ 177.38 spent $177.38 | EMAΔ -1.07%≤-1.00% i=0.07 P=0.7 m=0.17 | ATR ratio=0.0030 p=0.10 m=1.86 | total_mult=0.31 | cash_left=$1,346.67
+2016-06-14 14:00:00 2016-06-14 14:00:00: Gate-approved DCA buy 2 @ 177.02 spent $354.04 | EMAΔ -1.24%≤-1.00% i=0.24 P=1.0 m=0.20 | ATR ratio=0.0030 p=0.10 m=1.86 | total_mult=0.38 | cash_left=$991.63
+2016-06-30 10:00:00 2016-06-30 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,991.63
+2016-08-01 10:00:00 2016-08-01 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,991.63
+2016-09-01 10:00:00 2016-09-01 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$3,991.63
+2016-09-09 14:00:00 2016-09-09 14:00:00: Gate-approved DCA buy 1 @ 184.29 spent $184.29 | EMAΔ -1.51%≤-1.00% i=0.51 P=0.8 m=0.18 | ATR ratio=0.0025 p=0.09 m=1.87 | total_mult=0.33 | cash_left=$3,806.34
+2016-09-09 15:00:00 2016-09-09 15:00:00: Gate-approved DCA buy 2 @ 184.14 spent $368.29 | EMAΔ -1.55%≤-1.00% i=0.55 P=1.3 m=0.26 | ATR ratio=0.0025 p=0.09 m=1.87 | total_mult=0.49 | cash_left=$3,437.05
+2016-09-09 16:00:00 2016-09-09 16:00:00: Gate-approved DCA buy 4 @ 183.19 spent $732.77 | EMAΔ -2.01%≤-1.00% i=1.00 P=2.3 m=0.42 | ATR ratio=0.0025 p=0.09 m=1.86 | total_mult=0.78 | cash_left=$3,437.05
+2016-09-12 10:00:00 2016-09-12 10:00:00: Gate-approved DCA buy 5 @ 183.31 spent $916.56 | EMAΔ -1.90%≤-1.00% i=0.90 P=3.2 m=0.56 | ATR ratio=0.0026 p=0.10 m=1.86 | total_mult=1.05 | cash_left=$1,788.92
+2016-09-12 11:00:00 2016-09-12 11:00:00: Gate-approved DCA buy 6 @ 183.73 spent $1,102.40 | EMAΔ -1.63%≤-1.00% i=0.63 P=3.9 m=0.66 | ATR ratio=0.0026 p=0.10 m=1.86 | total_mult=1.23 | cash_left=$685.52
+2016-10-03 10:00:00 2016-10-03 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,685.52
+2016-10-13 10:00:00 2016-10-13 10:00:00: Gate-approved DCA buy 1 @ 182.54 spent $182.54 | EMAΔ -1.60%≤-1.00% i=0.60 P=0.6 m=0.14 | ATR ratio=0.0032 p=0.30 m=1.56 | total_mult=0.23 | cash_left=$1,501.99
+2016-10-13 11:00:00 2016-10-13 11:00:00: Gate-approved DCA buy 1 @ 182.92 spent $182.92 | EMAΔ -1.35%≤-1.00% i=0.35 P=1.0 m=0.20 | ATR ratio=0.0032 p=0.30 m=1.56 | total_mult=0.31 | cash_left=$1,318.06
+2016-10-13 12:00:00 2016-10-13 12:00:00: Gate-approved DCA buy 1 @ 183.21 spent $183.21 | EMAΔ -1.17%≤-1.00% i=0.17 P=1.1 m=0.23 | ATR ratio=0.0032 p=0.31 m=1.56 | total_mult=0.35 | cash_left=$1,133.85
+2016-11-01 14:00:00 2016-11-01 14:00:00: Gate-approved DCA buy 1 @ 181.51 spent $181.51 | EMAΔ -1.48%≤-1.00% i=0.48 P=0.6 m=0.15 | ATR ratio=0.0031 p=0.28 m=1.60 | total_mult=0.24 | cash_left=$951.34
+2016-11-03 10:00:00 2016-11-03 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,951.34
+2016-11-03 10:00:00 2016-11-03 10:00:00: Gate-approved DCA buy 5 @ 181.14 spent $905.69 | EMAΔ -1.35%≤-1.00% i=0.35 P=3.7 m=0.64 | ATR ratio=0.0032 p=0.33 m=1.52 | total_mult=0.98 | cash_left=$1,044.66
+2016-11-03 11:00:00 2016-11-03 11:00:00: Gate-approved DCA buy 5 @ 181.19 spent $905.95 | EMAΔ -1.29%≤-1.00% i=0.29 P=4.0 m=0.69 | ATR ratio=0.0032 p=0.33 m=1.53 | total_mult=1.05 | cash_left=$137.71
+2016-12-05 10:00:00 2016-12-05 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,137.71
+2017-01-05 10:00:00 2017-01-05 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$2,137.71
+2017-02-06 10:00:00 2017-02-06 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$3,137.71
+2017-03-06 10:00:00 2017-03-06 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$4,137.71
+2017-04-06 10:00:00 2017-04-06 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$5,137.71
+2017-05-08 10:00:00 2017-05-08 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$6,137.71
+2017-05-18 10:00:00 2017-05-18 10:00:00: Gate-approved DCA buy 1 @ 205.53 spent $205.53 | EMAΔ -1.27%≤-1.00% i=0.27 P=0.5 m=0.13 | ATR ratio=0.0022 p=0.15 m=1.78 | total_mult=0.23 | cash_left=$5,931.18
+2017-06-08 10:00:00 2017-06-08 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$6,931.18
+2017-07-10 10:00:00 2017-07-10 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$7,931.18
+2017-08-10 10:00:00 2017-08-10 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$8,931.18
+2017-08-18 10:00:00 2017-08-18 10:00:00: Gate-approved DCA buy 1 @ 212.24 spent $212.24 | EMAΔ -1.59%≤-1.00% i=0.59 P=0.9 m=0.19 | ATR ratio=0.0022 p=0.32 m=1.53 | total_mult=0.28 | cash_left=$8,717.94
+2017-08-18 11:00:00 2017-08-18 11:00:00: Gate-approved DCA buy 1 @ 212.67 spent $212.67 | EMAΔ -1.35%≤-1.00% i=0.35 P=1.2 m=0.24 | ATR ratio=0.0022 p=0.33 m=1.53 | total_mult=0.37 | cash_left=$8,504.27
+2017-08-21 10:00:00 2017-08-21 10:00:00: Gate-approved DCA buy 1 @ 212.34 spent $212.34 | EMAΔ -1.35%≤-1.00% i=0.35 P=0.7 m=0.17 | ATR ratio=0.0023 p=0.43 m=1.38 | total_mult=0.23 | cash_left=$8,290.93
+2017-08-21 11:00:00 2017-08-21 11:00:00: Gate-approved DCA buy 1 @ 212.50 spent $212.50 | EMAΔ -1.24%≤-1.00% i=0.24 P=1.0 m=0.20 | ATR ratio=0.0023 p=0.44 m=1.36 | total_mult=0.28 | cash_left=$8,077.43
+2017-08-21 12:00:00 2017-08-21 12:00:00: Gate-approved DCA buy 1 @ 212.78 spent $212.78 | EMAΔ -1.08%≤-1.00% i=0.08 P=1.1 m=0.22 | ATR ratio=0.0023 p=0.45 m=1.35 | total_mult=0.29 | cash_left=$7,863.64
+2017-09-11 10:00:00 2017-09-11 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$8,863.64
+2017-10-11 10:00:00 2017-10-11 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$9,863.64
+2017-11-13 10:00:00 2017-11-13 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$10,863.64
+2017-12-13 10:00:00 2017-12-13 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$11,863.64
+2018-01-16 10:00:00 2018-01-16 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$12,863.64
+2018-02-05 10:00:00 2018-02-05 10:00:00: Gate-approved DCA buy 1 @ 242.53 spent $242.53 | EMAΔ -2.42%≤-1.00% i=1.00 P=3.0 m=0.52 | ATR ratio=0.0030 p=1.00 m=0.55 | total_mult=0.29 | cash_left=$12,620.11
+2018-02-05 11:00:00 2018-02-05 11:00:00: Gate-approved DCA buy 1 @ 243.77 spent $243.77 | EMAΔ -1.87%≤-1.00% i=0.87 P=3.9 m=0.66 | ATR ratio=0.0030 p=1.00 m=0.55 | total_mult=0.37 | cash_left=$12,375.35
+2018-02-05 12:00:00 2018-02-05 12:00:00: Gate-approved DCA buy 1 @ 242.99 spent $242.99 | EMAΔ -2.14%≤-1.00% i=1.00 P=4.9 m=0.82 | ATR ratio=0.0031 p=1.00 m=0.55 | total_mult=0.45 | cash_left=$12,131.36
+2018-02-05 13:00:00 2018-02-05 13:00:00: Gate-approved DCA buy 2 @ 241.81 spent $483.62 | EMAΔ -2.55%≤-1.00% i=1.00 P=5.9 m=0.98 | ATR ratio=0.0031 p=1.00 m=0.55 | total_mult=0.54 | cash_left=$11,646.74
+2018-02-05 14:00:00 2018-02-05 14:00:00: Gate-approved DCA buy 2 @ 241.32 spent $482.65 | EMAΔ -2.68%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0032 p=1.00 m=0.55 | total_mult=0.55 | cash_left=$11,163.10
+2018-02-05 15:00:00 2018-02-05 15:00:00: Gate-approved DCA buy 2 @ 237.69 spent $475.39 | EMAΔ -4.04%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0034 p=1.00 m=0.55 | total_mult=0.55 | cash_left=$10,686.71
+2018-02-05 16:00:00 2018-02-05 16:00:00: Gate-approved DCA buy 2 @ 233.61 spent $467.23 | EMAΔ -5.56%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0036 p=1.00 m=0.55 | total_mult=0.55 | cash_left=$10,686.71
+2018-02-06 10:00:00 2018-02-06 10:00:00: Gate-approved DCA buy 2 @ 235.31 spent $470.63 | EMAΔ -4.76%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0039 p=1.00 m=0.55 | total_mult=0.55 | cash_left=$9,754.29
+2018-02-06 11:00:00 2018-02-06 11:00:00: Gate-approved DCA buy 2 @ 233.45 spent $466.91 | EMAΔ -5.38%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0042 p=1.00 m=0.55 | total_mult=0.55 | cash_left=$9,286.39
+2018-02-06 12:00:00 2018-02-06 12:00:00: Gate-approved DCA buy 2 @ 232.96 spent $465.92 | EMAΔ -5.45%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0042 p=1.00 m=0.55 | total_mult=0.55 | cash_left=$8,819.47
+2018-02-06 13:00:00 2018-02-06 13:00:00: Gate-approved DCA buy 2 @ 234.55 spent $469.10 | EMAΔ -4.69%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0043 p=1.00 m=0.55 | total_mult=0.55 | cash_left=$8,349.37
+2018-02-06 14:00:00 2018-02-06 14:00:00: Gate-approved DCA buy 2 @ 232.65 spent $465.30 | EMAΔ -5.34%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0044 p=1.00 m=0.55 | total_mult=0.55 | cash_left=$7,883.07
+2018-02-06 15:00:00 2018-02-06 15:00:00: Gate-approved DCA buy 2 @ 236.13 spent $472.25 | EMAΔ -3.83%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0044 p=1.00 m=0.55 | total_mult=0.55 | cash_left=$7,409.82
+2018-02-06 16:00:00 2018-02-06 16:00:00: Gate-approved DCA buy 2 @ 238.22 spent $476.43 | EMAΔ -2.91%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0045 p=1.00 m=0.55 | total_mult=0.55 | cash_left=$7,409.82
+2018-02-07 10:00:00 2018-02-07 10:00:00: Gate-approved DCA buy 2 @ 239.04 spent $478.08 | EMAΔ -2.51%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0045 p=1.00 m=0.55 | total_mult=0.55 | cash_left=$6,454.49
+2018-02-07 11:00:00 2018-02-07 11:00:00: Gate-approved DCA buy 2 @ 239.99 spent $479.99 | EMAΔ -2.07%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0045 p=1.00 m=0.55 | total_mult=0.55 | cash_left=$5,973.50
+2018-02-07 12:00:00 2018-02-07 12:00:00: Gate-approved DCA buy 2 @ 240.42 spent $480.84 | EMAΔ -1.85%≤-1.00% i=0.85 P=6.0 m=1.00 | ATR ratio=0.0045 p=1.00 m=0.55 | total_mult=0.55 | cash_left=$5,491.66
+2018-02-07 13:00:00 2018-02-07 13:00:00: Gate-approved DCA buy 2 @ 239.15 spent $478.31 | EMAΔ -2.31%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0046 p=1.00 m=0.55 | total_mult=0.55 | cash_left=$5,012.36
+2018-02-07 14:00:00 2018-02-07 14:00:00: Gate-approved DCA buy 2 @ 238.72 spent $477.44 | EMAΔ -2.42%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0046 p=1.00 m=0.55 | total_mult=0.55 | cash_left=$4,533.92
+2018-02-07 15:00:00 2018-02-07 15:00:00: Gate-approved DCA buy 2 @ 238.10 spent $476.20 | EMAΔ -2.61%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0047 p=1.00 m=0.55 | total_mult=0.55 | cash_left=$4,056.71
+2018-02-07 16:00:00 2018-02-07 16:00:00: Gate-approved DCA buy 2 @ 236.92 spent $473.85 | EMAΔ -3.02%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0048 p=1.00 m=0.55 | total_mult=0.55 | cash_left=$4,056.71
+2018-02-08 10:00:00 2018-02-08 10:00:00: Gate-approved DCA buy 2 @ 236.29 spent $472.57 | EMAΔ -3.20%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0048 p=1.00 m=0.55 | total_mult=0.55 | cash_left=$3,107.71
+2018-02-08 11:00:00 2018-02-08 11:00:00: Gate-approved DCA buy 2 @ 234.52 spent $469.03 | EMAΔ -3.84%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0049 p=1.00 m=0.55 | total_mult=0.55 | cash_left=$2,637.68
+2018-02-08 12:00:00 2018-02-08 12:00:00: Gate-approved DCA buy 2 @ 234.22 spent $468.45 | EMAΔ -3.86%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0049 p=1.00 m=0.55 | total_mult=0.55 | cash_left=$2,168.23
+2018-02-08 13:00:00 2018-02-08 13:00:00: Gate-approved DCA buy 2 @ 232.08 spent $464.16 | EMAΔ -4.63%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0051 p=1.00 m=0.55 | total_mult=0.55 | cash_left=$1,703.07
+2018-02-08 14:00:00 2018-02-08 14:00:00: Gate-approved DCA buy 2 @ 233.83 spent $467.67 | EMAΔ -3.82%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0051 p=1.00 m=0.55 | total_mult=0.55 | cash_left=$1,234.40
+2018-02-08 15:00:00 2018-02-08 15:00:00: Gate-approved DCA buy 2 @ 232.09 spent $464.18 | EMAΔ -4.43%≤-1.00% i=1.00 P=6.0 m=1.00 | ATR ratio=0.0052 p=1.00 m=0.55 | total_mult=0.55 | cash_left=$769.22
+2018-02-16 10:00:00 2018-02-16 10:00:00: tranche DEPOSIT +$1,000.00 | cash=$1,769.22
+2018-03-01 16:00:00 2018-03-01 16:00:00: Gate-approved DCA buy 1 @ 236.95 spent $236.95 | EMAΔ -1.77%≤-1.00% i=0.77 P=2.9 m=0.50 | ATR ratio=0.0058 p=0.97 m=0.59 | total_mult=0.30 | cash_left=$1,769.22
+2018-03-02 10:00:00 2018-03-02 10:00:00: Gate-approved DCA buy 1 @ 235.06 spent $235.06 | EMAΔ -2.49%≤-1.00% i=1.00 P=3.9 m=0.66 | ATR ratio=0.0059 p=0.98 m=0.58 | total_mult=0.38 | cash_left=$1,296.93
+You currently have a maximum of 100kb of log data per backtest, and 100kb total max per day. Have you tried step-by-step debugging? See more at https://qnt.co/debugging or upgrade your organization type for more logs at https://www.quantconnect.com/pricing
